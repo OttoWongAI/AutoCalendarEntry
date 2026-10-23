@@ -1,7 +1,7 @@
 # AutoCalendarEntry — 自動加 / 改 Google Calendar
 
-用戶俾 Claude 任何資料（相片、PDF、Word、Excel、文字、email 截圖……），
-Claude 讀內容，自動將活動加入或者更新 Google Calendar，並將紀錄 backup 上 GitHub。
+用戶俾 Claude / Codex 任何資料（相片、PDF、Word、Excel、文字、email 截圖……），
+Claude / Codex 讀內容，自動將活動加入或者更新 Google Calendar，並將紀錄 backup 上 GitHub。
 
 用戶用廣東話落指令，回覆都用廣東話（繁體中文）。
 
@@ -11,9 +11,9 @@ Claude 讀內容，自動將活動加入或者更新 Google Calendar，並將紀
 
 ## 0. 每次開工先做
 
-1. `git pull`（攞最新指引 / 紀錄）。
+1. 先 `git status --short --branch`，再 `git pull --ff-only`（攞最新指引 / 紀錄）。保留未提交改動；遇到衝突先處理，唔好 reset、覆蓋或丟棄用戶工作。
 2. Google Calendar connector 用 `netunewong@gmail.com` 登入，有權寫入第 2 節三個日曆。
-   Local（Mac 嘅 Claude Desktop app）同雲端 session 都用得。
+   Claude / Codex 都按實際可用嘅 Google Calendar 連接工具操作；先確認登入帳戶及目標日曆寫入權限。工具不可用就清楚報告未完成，唔好只生成 ICS 當作已加入。
 
 ---
 
@@ -23,11 +23,15 @@ Claude 讀內容，自動將活動加入或者更新 Google Calendar，並將紀
 - 資料係改動（改期、改時間、改地點、取消）：喺 `records/calendar_log.csv` 搵返嗰個 event 嘅 `event_id`，
   用 `update_event` 改（取消就 `delete_event`）。log 搵唔到就用 `list_events` 喺嗰個日曆搵同名 event。
 - 以下情況停低問：日期 / 時間睇唔清、資料有矛盾、日期已經過咗、同時有 HKYCA 同 NOVEL、搵唔到要改嘅 event。
-- 一份資料有幾個活動就逐個加。
+- 一份資料有幾個活動就逐個加。ICS 只係補充，唔可以代替直接加入 Google Calendar。
+- 時段同其他活動有衝突就報告，但唔阻擋用戶明確要求嘅新增；唔好擅自改其他活動。
+- 維護指引、Git 同步或備份本身唔代表要求匯入 repo 內既有 ICS／歷史資料；只喺用戶要求處理活動資料時執行。
 
 ---
 
 ## 2. 入邊個日曆
+
+2026-10-24 用戶確認：以本節分流為準，取代舊 README「全部主日曆」偏好；Claude 同 Codex 一律遵守。
 
 睇資料**內容**決定（唔好睇 OneDrive 路徑，因為路徑本身有 `HongKongYouthCounsellingAssociation`）：
 
@@ -43,7 +47,7 @@ Claude 讀內容，自動將活動加入或者更新 Google Calendar，並將紀
 ## 3. Event 內容
 
 - **標題**：`活動名 – 客戶 / 機構`（例：`Sport Climb Loading Test 2026 – 葛量洪校友會黃埔學校`）。
-- **時間**：香港時間（`timeZone: Asia/Hong_Kong`）。有開始 / 完結時間就照填；只有日期或者「One Day」就開全日 event。
+- **時間**：預設香港時間（`timeZone: Asia/Hong_Kong`）及日／月／年；資料明確指定其他時區／日期格式就跟來源。有開始 / 完結時間就照填；只有日期或者「One Day」就開全日 event。
   多日活動：每日時間一樣就一個跨日 event；每日唔同就逐日一個。
 - **地點**：活動地點；冇寫就用客戶地址，並喺描述註明「地點未確認，暫用客戶地址」。
 - **描述**：客戶、聯絡人、電話、Quotation No.、Invoice No.（有就寫）、資料來源（檔名 / 用戶訊息）。
@@ -65,7 +69,7 @@ Claude 讀內容，自動將活動加入或者更新 Google Calendar，並將紀
 - 內容一樣 → 唔好再加，回覆講明。
 - 內容唔同 → 當係改動，照第 1 節更新。
 
-（`search_events` 只搜主日曆，查唔到另外兩個日曆，唔好靠佢查重。）
+查重工具必須明確指定目標 `calendarId` 及時間範圍；唔好假設搜尋結果涵蓋其他日曆。工具名稱／欄位因連接器而異，應先讀實際工具 schema，再用對應功能。
 
 ---
 
@@ -74,13 +78,14 @@ Claude 讀內容，自動將活動加入或者更新 Google Calendar，並將紀
 1. 每加 / 改 / 刪一個 event，喺 `records/calendar_log.csv` 加一行：
    `created,action,calendar_id,event_id,summary,start,end,location,source`
    - `action` = `add` / `update` / `delete`；`source` = 檔名、Invoice 編號或者「用戶訊息」。
-2. 用戶俾嘅原始資料唔使放入 repo。
+2. 本 repo 現有 ICS、圖片、原始檔同必要產出都要保留並 backup 上 GitHub（2026-10-24 用戶授權）。唔好提交密碼、token、私鑰；快取／暫存檔唔使備份。改寫既有文件前保留必要原版，唔好只記本機絕對路徑。
 3. 做完即刻 commit + push **入 `main`**，唔使問用戶（用戶 2026-10-10 授權）：
    ```bash
    git add -A && git commit -m "Calendar: 活動名" && git push origin HEAD:main
    ```
    雲端 session 就算開喺 `claude/…` 分支，都係直接 push 入 `main`。push 失敗就話俾用戶知。
-4. 改指引（呢個 `CLAUDE.md`）都一樣：改完直接 commit + push 入 `main`。
+4. 改指引（`CLAUDE.md`、`AGENTS.md`、`README.md`）都一樣：保持一致，檢查 diff 後 commit + push 入 `main`。完成後確認本機 HEAD 同遠端 main 一致、工作目錄乾淨；push 失敗要明講尚未備份。
+5. 只記錄工具成功完成嘅日曆操作，保留回傳 event ID；未驗證嘅歷史 ICS 唔可以當成已匯入而補造 log。
 
 ---
 

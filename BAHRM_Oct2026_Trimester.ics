@@ -1,0 +1,295 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AutoCalendarEntry//EN
+CALSCALE:GREGORIAN
+X-WR-TIMEZONE:Asia/Hong_Kong
+BEGIN:VTIMEZONE
+TZID:Asia/Hong_Kong
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:HKT
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:bahrm-oct2026-0@autocalendarentry
+DTSTAMP:20261010T000000Z
+DTSTART;TZID=Asia/Hong_Kong:20261026T184500
+DTEND;TZID=Asia/Hong_Kong:20261026T214500
+SUMMARY:HRM09904 Lecture – Managing the Employment Relationship
+LOCATION:OEM602\, Oen Hall Building (Main Building)\, Ho Sin Hang Campus\, HKBU
+DESCRIPTION:Edinburgh Napier University – BA HRM with Organisational Psychology\, Oct 2026 Trimester (Week 1)\nLecturers: Dr Elvy Pang (ENU) / Ms Amy Yau (HKBU-SCE)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Class reminder
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bahrm-oct2026-1@autocalendarentry
+DTSTAMP:20261010T000000Z
+DTSTART;TZID=Asia/Hong_Kong:20261027T184500
+DTEND;TZID=Asia/Hong_Kong:20261027T214500
+SUMMARY:HRM09904 Lecture – Managing the Employment Relationship
+LOCATION:OEM602\, Oen Hall Building (Main Building)\, Ho Sin Hang Campus\, HKBU
+DESCRIPTION:Edinburgh Napier University – BA HRM with Organisational Psychology\, Oct 2026 Trimester (Week 1)\nLecturers: Dr Elvy Pang (ENU) / Ms Amy Yau (HKBU-SCE)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Class reminder
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bahrm-oct2026-2@autocalendarentry
+DTSTAMP:20261010T000000Z
+DTSTART;TZID=Asia/Hong_Kong:20261028T184500
+DTEND;TZID=Asia/Hong_Kong:20261028T214500
+SUMMARY:HRM09904 Lecture – Managing the Employment Relationship
+LOCATION:OEM602\, Oen Hall Building (Main Building)\, Ho Sin Hang Campus\, HKBU
+DESCRIPTION:Edinburgh Napier University – BA HRM with Organisational Psychology\, Oct 2026 Trimester (Week 1)\nLecturers: Dr Elvy Pang (ENU) / Ms Amy Yau (HKBU-SCE)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Class reminder
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bahrm-oct2026-3@autocalendarentry
+DTSTAMP:20261010T000000Z
+DTSTART;TZID=Asia/Hong_Kong:20261029T184500
+DTEND;TZID=Asia/Hong_Kong:20261029T214500
+SUMMARY:HRM09904 Lecture – Managing the Employment Relationship
+LOCATION:OEM602\, Oen Hall Building (Main Building)\, Ho Sin Hang Campus\, HKBU
+DESCRIPTION:Edinburgh Napier University – BA HRM with Organisational Psychology\, Oct 2026 Trimester (Week 1)\nLecturers: Dr Elvy Pang (ENU) / Ms Amy Yau (HKBU-SCE)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Class reminder
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bahrm-oct2026-4@autocalendarentry
+DTSTAMP:20261010T000000Z
+DTSTART;TZID=Asia/Hong_Kong:20261102T184500
+DTEND;TZID=Asia/Hong_Kong:20261102T214500
+SUMMARY:HRM09902 Lecture – Human Resource Development
+LOCATION:WWK709\, Madam Chan Wu Wan Kwai School of Continuing Education Tower\, HKBU
+DESCRIPTION:Edinburgh Napier University – BA HRM with Organisational Psychology\, Oct 2026 Trimester (Week 2)\nLecturers: Dr Pallvi Arora (ENU) / Ms Jessica Chung (HKBU-SCE)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Class reminder
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bahrm-oct2026-5@autocalendarentry
+DTSTAMP:20261010T000000Z
+DTSTART;TZID=Asia/Hong_Kong:20261103T184500
+DTEND;TZID=Asia/Hong_Kong:20261103T214500
+SUMMARY:HRM09902 Lecture – Human Resource Development
+LOCATION:WWK709\, Madam Chan Wu Wan Kwai School of Continuing Education Tower\, HKBU
+DESCRIPTION:Edinburgh Napier University – BA HRM with Organisational Psychology\, Oct 2026 Trimester (Week 2)\nLecturers: Dr Pallvi Arora (ENU) / Ms Jessica Chung (HKBU-SCE)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Class reminder
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bahrm-oct2026-6@autocalendarentry
+DTSTAMP:20261010T000000Z
+DTSTART;TZID=Asia/Hong_Kong:20261104T184500
+DTEND;TZID=Asia/Hong_Kong:20261104T214500
+SUMMARY:HRM09902 Lecture – Human Resource Development
+LOCATION:WWK709\, Madam Chan Wu Wan Kwai School of Continuing Education Tower\, HKBU
+DESCRIPTION:Edinburgh Napier University – BA HRM with Organisational Psychology\, Oct 2026 Trimester (Week 2)\nLecturers: Dr Pallvi Arora (ENU) / Ms Jessica Chung (HKBU-SCE)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Class reminder
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bahrm-oct2026-7@autocalendarentry
+DTSTAMP:20261010T000000Z
+DTSTART;TZID=Asia/Hong_Kong:20261105T184500
+DTEND;TZID=Asia/Hong_Kong:20261105T214500
+SUMMARY:HRM09902 Lecture – Human Resource Development
+LOCATION:WWK709\, Madam Chan Wu Wan Kwai School of Continuing Education Tower\, HKBU
+DESCRIPTION:Edinburgh Napier University – BA HRM with Organisational Psychology\, Oct 2026 Trimester (Week 2)\nLecturers: Dr Pallvi Arora (ENU) / Ms Jessica Chung (HKBU-SCE)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Class reminder
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bahrm-oct2026-8@autocalendarentry
+DTSTAMP:20261010T000000Z
+DTSTART;TZID=Asia/Hong_Kong:20261112T190000
+DTEND;TZID=Asia/Hong_Kong:20261112T210000
+SUMMARY:HRM09904 Tutorial – Managing the Employment Relationship
+LOCATION:OEM602\, Oen Hall Building (Main Building)\, Ho Sin Hang Campus\, HKBU
+DESCRIPTION:Edinburgh Napier University – BA HRM with Organisational Psychology\, Oct 2026 Trimester (Week 3)\nLecturers: Dr Elvy Pang (ENU) / Ms Amy Yau (HKBU-SCE)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Class reminder
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bahrm-oct2026-9@autocalendarentry
+DTSTAMP:20261010T000000Z
+DTSTART;TZID=Asia/Hong_Kong:20261119T190000
+DTEND;TZID=Asia/Hong_Kong:20261119T210000
+SUMMARY:HRM09902 Tutorial – Human Resource Development
+LOCATION:OEM602\, Oen Hall Building (Main Building)\, Ho Sin Hang Campus\, HKBU
+DESCRIPTION:Edinburgh Napier University – BA HRM with Organisational Psychology\, Oct 2026 Trimester (Week 4)\nLecturers: Dr Pallvi Arora (ENU) / Ms Jessica Chung (HKBU-SCE)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Class reminder
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bahrm-oct2026-10@autocalendarentry
+DTSTAMP:20261010T000000Z
+DTSTART;TZID=Asia/Hong_Kong:20261126T190000
+DTEND;TZID=Asia/Hong_Kong:20261126T210000
+SUMMARY:HRM09904 Tutorial – Managing the Employment Relationship
+LOCATION:OEM602\, Oen Hall Building (Main Building)\, Ho Sin Hang Campus\, HKBU
+DESCRIPTION:Edinburgh Napier University – BA HRM with Organisational Psychology\, Oct 2026 Trimester (Week 5)\nLecturers: Dr Elvy Pang (ENU) / Ms Amy Yau (HKBU-SCE)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Class reminder
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bahrm-oct2026-11@autocalendarentry
+DTSTAMP:20261010T000000Z
+DTSTART;TZID=Asia/Hong_Kong:20261203T190000
+DTEND;TZID=Asia/Hong_Kong:20261203T210000
+SUMMARY:HRM09902 Tutorial – Human Resource Development
+LOCATION:OEM602\, Oen Hall Building (Main Building)\, Ho Sin Hang Campus\, HKBU
+DESCRIPTION:Edinburgh Napier University – BA HRM with Organisational Psychology\, Oct 2026 Trimester (Week 6)\nLecturers: Dr Pallvi Arora (ENU) / Ms Jessica Chung (HKBU-SCE)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Class reminder
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bahrm-oct2026-12@autocalendarentry
+DTSTAMP:20261010T000000Z
+DTSTART;TZID=Asia/Hong_Kong:20261210T190000
+DTEND;TZID=Asia/Hong_Kong:20261210T210000
+SUMMARY:HRM09904 Tutorial – Managing the Employment Relationship
+LOCATION:OEM602\, Oen Hall Building (Main Building)\, Ho Sin Hang Campus\, HKBU
+DESCRIPTION:Edinburgh Napier University – BA HRM with Organisational Psychology\, Oct 2026 Trimester (Week 7)\nLecturers: Dr Elvy Pang (ENU) / Ms Amy Yau (HKBU-SCE)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Class reminder
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bahrm-oct2026-13@autocalendarentry
+DTSTAMP:20261010T000000Z
+DTSTART;TZID=Asia/Hong_Kong:20261217T190000
+DTEND;TZID=Asia/Hong_Kong:20261217T210000
+SUMMARY:HRM09902 Tutorial – Human Resource Development
+LOCATION:OEM602\, Oen Hall Building (Main Building)\, Ho Sin Hang Campus\, HKBU
+DESCRIPTION:Edinburgh Napier University – BA HRM with Organisational Psychology\, Oct 2026 Trimester (Week 8)\nLecturers: Dr Pallvi Arora (ENU) / Ms Jessica Chung (HKBU-SCE)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Class reminder
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bahrm-oct2026-14@autocalendarentry
+DTSTAMP:20261010T000000Z
+DTSTART;TZID=Asia/Hong_Kong:20261221T190000
+DTEND;TZID=Asia/Hong_Kong:20261221T210000
+SUMMARY:HRM09904 Tutorial – Managing the Employment Relationship
+LOCATION:OEM602\, Oen Hall Building (Main Building)\, Ho Sin Hang Campus\, HKBU
+DESCRIPTION:Edinburgh Napier University – BA HRM with Organisational Psychology\, Oct 2026 Trimester (Week 9)\nLecturers: Dr Elvy Pang (ENU) / Ms Amy Yau (HKBU-SCE)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Class reminder
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bahrm-oct2026-15@autocalendarentry
+DTSTAMP:20261010T000000Z
+DTSTART;TZID=Asia/Hong_Kong:20261229T190000
+DTEND;TZID=Asia/Hong_Kong:20261229T210000
+SUMMARY:HRM09902 Tutorial – Human Resource Development
+LOCATION:OEM602\, Oen Hall Building (Main Building)\, Ho Sin Hang Campus\, HKBU
+DESCRIPTION:Edinburgh Napier University – BA HRM with Organisational Psychology\, Oct 2026 Trimester (Week 10)\nLecturers: Dr Pallvi Arora (ENU) / Ms Jessica Chung (HKBU-SCE)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Class reminder
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bahrm-oct2026-16@autocalendarentry
+DTSTAMP:20261010T000000Z
+DTSTART;TZID=Asia/Hong_Kong:20270107T190000
+DTEND;TZID=Asia/Hong_Kong:20270107T210000
+SUMMARY:HRM09904 Tutorial – Managing the Employment Relationship
+LOCATION:OEM602\, Oen Hall Building (Main Building)\, Ho Sin Hang Campus\, HKBU
+DESCRIPTION:Edinburgh Napier University – BA HRM with Organisational Psychology\, Oct 2026 Trimester (Week 11)\nLecturers: Dr Elvy Pang (ENU) / Ms Amy Yau (HKBU-SCE)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Class reminder
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bahrm-oct2026-17@autocalendarentry
+DTSTAMP:20261010T000000Z
+DTSTART;TZID=Asia/Hong_Kong:20270114T190000
+DTEND;TZID=Asia/Hong_Kong:20270114T210000
+SUMMARY:HRM09902 Tutorial – Human Resource Development
+LOCATION:OEM602\, Oen Hall Building (Main Building)\, Ho Sin Hang Campus\, HKBU
+DESCRIPTION:Edinburgh Napier University – BA HRM with Organisational Psychology\, Oct 2026 Trimester (Week 12)\nLecturers: Dr Pallvi Arora (ENU) / Ms Jessica Chung (HKBU-SCE)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Class reminder
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bahrm-oct2026-18@autocalendarentry
+DTSTAMP:20261010T000000Z
+DTSTART;TZID=Asia/Hong_Kong:20270121T190000
+DTEND;TZID=Asia/Hong_Kong:20270121T210000
+SUMMARY:HRM09904 Tutorial – Managing the Employment Relationship
+LOCATION:OEM602\, Oen Hall Building (Main Building)\, Ho Sin Hang Campus\, HKBU
+DESCRIPTION:Edinburgh Napier University – BA HRM with Organisational Psychology\, Oct 2026 Trimester (Week 13)\nLecturers: Dr Elvy Pang (ENU) / Ms Amy Yau (HKBU-SCE)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Class reminder
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bahrm-oct2026-19@autocalendarentry
+DTSTAMP:20261010T000000Z
+DTSTART;TZID=Asia/Hong_Kong:20270128T190000
+DTEND;TZID=Asia/Hong_Kong:20270128T210000
+SUMMARY:HRM09902 Tutorial – Human Resource Development
+LOCATION:OEM602\, Oen Hall Building (Main Building)\, Ho Sin Hang Campus\, HKBU
+DESCRIPTION:Edinburgh Napier University – BA HRM with Organisational Psychology\, Oct 2026 Trimester (Week 14)\nLecturers: Dr Pallvi Arora (ENU) / Ms Jessica Chung (HKBU-SCE)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Class reminder
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
