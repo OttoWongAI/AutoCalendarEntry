@@ -92,3 +92,7 @@ Claude / Codex 讀內容，自動將活動加入或者更新 Google Calendar，�
 ## 6. 回覆用戶
 
 列出每個 event：動作（加 / 改 / 刪）、日曆、標題、日期時間、地點、提醒；有咩要問嘅就講清楚。
+
+## 從 InstructionGenerate 維護及同步
+
+2026-10-24 用戶已授權固定安排：喺 InstructionGenerate 修改本專案指引或補充資料時，實際更新本 repo，並喺 InstructionGenerate 保留完整可攜副本；兩邊分別 commit、push 及確認成功，唔使再問係咪要套用或同步。Claude／Codex 均遵守 [維護及同步流程](instructions/AutoCalendarEntry-maintenance.md)。補充資料保存來源及確認日期；文件同步唔代表授權修改 Google Calendar，用戶要求暫時唔改日曆時保持原樣。
