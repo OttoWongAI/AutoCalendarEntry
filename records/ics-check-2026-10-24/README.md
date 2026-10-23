@@ -113,3 +113,9 @@
 - verified_events.csv：56 行已核實活動對照表；calendar_log_additions.csv：72 行實際 add／delete 操作。
 - conflicts.json：核對三個工作日曆所見之同時段事項，包含全日事項；唔涵蓋所有其他訂閱日曆。
 - 原 ICS 同圖片仍喺 repo；需要還原舊活動時先讀 migrations.json／original-novel-events.json，再對相關日曆查重；新建會有新 event ID，唔好直接重播整個 log。
+
+## 11 月撞期分析及導師補充
+
+見 [11 月 10、13、17 日撞期分析](november-conflict-review.md)。用戶已確認三日 AI 實戰營由 Daniel Lau 任教；EL087DS 日曆列明吳紹財，基灣列明 King、Sue、Him。目前未見同一位導師撞期證據，用戶現場職責仍待確認。
+
+[原日曆快照](november-conflict-source.json) 同 [用戶確認紀錄](november-instructor-confirmation.json) 分開保存；補充資料未寫入日曆。今次只同步分析文件，冇新增、修改或刪除日曆活動。
