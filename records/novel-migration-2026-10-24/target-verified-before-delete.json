@@ -1,0 +1,400 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Action completed."
+    }
+  ],
+  "structuredContent": {
+    "responses": [
+      {
+        "guests_can_modify": null,
+        "locked": null,
+        "id": "jftrv0qoa23m11u09l6ph0q83c",
+        "summary": "NOVEL — EL124HS(12)/26 — Python程式編寫證書（兼讀制）(1/9)",
+        "status": "confirmed",
+        "organizer": {
+          "is_self": true,
+          "email": "neccl.mail@gmail.com",
+          "display_name": null
+        },
+        "description": "基督教香港信義會 天恩培訓及發展中心 導師：吳紹財先生 第 1 節，共 9 節（34 小時） Class number：EL124HS(12)/26 PDF\n所列課程編號（供參考）：EL124HS(N)/26 時間表更新日期：30/09/2026\n\n資料來源：EL124HS(N-Nov).pdf；用戶確認班號 EL124HS(12)/26。 由主日曆搬移；原 event\nID：o477u5qbllt7hht0i50gojfa10\n\n",
+        "location": "香港天后電氣道68號樹林銀座9樓 課室二 (ELTS)",
+        "color_id": null,
+        "event_label_id": null,
+        "start": "2026-11-06T09:00:00+08:00",
+        "end": "2026-11-06T13:00:00+08:00",
+        "attendees": [],
+        "url": "https://www.google.com/calendar/event?eid=amZ0cnYwcW9hMjNtMTF1MDlsNnBoMHE4M2MgbmVjY2wubWFpbEBt",
+        "hangout_link": null,
+        "event_type": "default",
+        "transparency": "opaque",
+        "visibility": null,
+        "attachments": null,
+        "reminders": {
+          "use_default": false,
+          "overrides": [
+            {
+              "method": "popup",
+              "minutes": 1440
+            },
+            {
+              "method": "popup",
+              "minutes": 10080
+            }
+          ]
+        },
+        "recurrence": null,
+        "recurring_event_id": null,
+        "original_start_time": null,
+        "display_url": "https://www.google.com/calendar/event?eid=amZ0cnYwcW9hMjNtMTF1MDlsNnBoMHE4M2MgbmVjY2wubWFpbEBt",
+        "display_title": "NOVEL — EL124HS(12)/26 — Python程式編寫證書（兼讀制）(1/9)"
+      },
+      {
+        "guests_can_modify": null,
+        "locked": null,
+        "id": "t49elqgaajsjk4pgsamk6gmi1g",
+        "summary": "NOVEL — EL124HS(12)/26 — Python程式編寫證書（兼讀制）(2/9)",
+        "status": "confirmed",
+        "organizer": {
+          "is_self": true,
+          "email": "neccl.mail@gmail.com",
+          "display_name": null
+        },
+        "description": "基督教香港信義會 天恩培訓及發展中心 導師：吳紹財先生 第 2 節，共 9 節（34 小時） Class number：EL124HS(12)/26 PDF\n所列課程編號（供參考）：EL124HS(N)/26 時間表更新日期：30/09/2026\n\n資料來源：EL124HS(N-Nov).pdf；用戶確認班號 EL124HS(12)/26。 由主日曆搬移；原 event\nID：42e074a7ces6srv0d9nb0ssogs\n\n",
+        "location": "香港天后電氣道68號樹林銀座9樓 課室二 (ELTS)",
+        "color_id": null,
+        "event_label_id": null,
+        "start": "2026-11-06T14:00:00+08:00",
+        "end": "2026-11-06T17:30:00+08:00",
+        "attendees": [],
+        "url": "https://www.google.com/calendar/event?eid=dDQ5ZWxxZ2FhanNqazRwZ3NhbWs2Z21pMWcgbmVjY2wubWFpbEBt",
+        "hangout_link": null,
+        "event_type": "default",
+        "transparency": "opaque",
+        "visibility": null,
+        "attachments": null,
+        "reminders": {
+          "use_default": false,
+          "overrides": [
+            {
+              "method": "popup",
+              "minutes": 1440
+            },
+            {
+              "method": "popup",
+              "minutes": 10080
+            }
+          ]
+        },
+        "recurrence": null,
+        "recurring_event_id": null,
+        "original_start_time": null,
+        "display_url": "https://www.google.com/calendar/event?eid=dDQ5ZWxxZ2FhanNqazRwZ3NhbWs2Z21pMWcgbmVjY2wubWFpbEBt",
+        "display_title": "NOVEL — EL124HS(12)/26 — Python程式編寫證書（兼讀制）(2/9)"
+      },
+      {
+        "guests_can_modify": null,
+        "locked": null,
+        "id": "jlfr1i1v14mtboifj7a6pmtano",
+        "summary": "NOVEL — EL124HS(12)/26 — Python程式編寫證書（兼讀制）(3/9)",
+        "status": "confirmed",
+        "organizer": {
+          "is_self": true,
+          "email": "neccl.mail@gmail.com",
+          "display_name": null
+        },
+        "description": "基督教香港信義會 天恩培訓及發展中心 導師：吳紹財先生 第 3 節，共 9 節（34 小時） Class number：EL124HS(12)/26 PDF\n所列課程編號（供參考）：EL124HS(N)/26 時間表更新日期：30/09/2026\n\n資料來源：EL124HS(N-Nov).pdf；用戶確認班號 EL124HS(12)/26。 由主日曆搬移；原 event\nID：qnp525odke5djof1glrfg7gi9o\n\n",
+        "location": "香港天后電氣道68號樹林銀座9樓 課室二 (ELTS)",
+        "color_id": null,
+        "event_label_id": null,
+        "start": "2026-11-09T09:00:00+08:00",
+        "end": "2026-11-09T13:00:00+08:00",
+        "attendees": [],
+        "url": "https://www.google.com/calendar/event?eid=amxmcjFpMXYxNG10Ym9pZmo3YTZwbXRhbm8gbmVjY2wubWFpbEBt",
+        "hangout_link": null,
+        "event_type": "default",
+        "transparency": "opaque",
+        "visibility": null,
+        "attachments": null,
+        "reminders": {
+          "use_default": false,
+          "overrides": [
+            {
+              "method": "popup",
+              "minutes": 10080
+            },
+            {
+              "method": "popup",
+              "minutes": 1440
+            }
+          ]
+        },
+        "recurrence": null,
+        "recurring_event_id": null,
+        "original_start_time": null,
+        "display_url": "https://www.google.com/calendar/event?eid=amxmcjFpMXYxNG10Ym9pZmo3YTZwbXRhbm8gbmVjY2wubWFpbEBt",
+        "display_title": "NOVEL — EL124HS(12)/26 — Python程式編寫證書（兼讀制）(3/9)"
+      },
+      {
+        "guests_can_modify": null,
+        "locked": null,
+        "id": "ar9r6dkt5rio13kscrvecrgba8",
+        "summary": "NOVEL — EL124HS(12)/26 — Python程式編寫證書（兼讀制）(4/9)",
+        "status": "confirmed",
+        "organizer": {
+          "is_self": true,
+          "email": "neccl.mail@gmail.com",
+          "display_name": null
+        },
+        "description": "基督教香港信義會 天恩培訓及發展中心 導師：吳紹財先生 第 4 節，共 9 節（34 小時） Class number：EL124HS(12)/26 PDF\n所列課程編號（供參考）：EL124HS(N)/26 時間表更新日期：30/09/2026\n\n資料來源：EL124HS(N-Nov).pdf；用戶確認班號 EL124HS(12)/26。 由主日曆搬移；原 event\nID：fn1slh3hb7tcd79gqb22a487d0\n\n",
+        "location": "香港天后電氣道68號樹林銀座9樓 課室二 (ELTS)",
+        "color_id": null,
+        "event_label_id": null,
+        "start": "2026-11-09T14:00:00+08:00",
+        "end": "2026-11-09T17:30:00+08:00",
+        "attendees": [],
+        "url": "https://www.google.com/calendar/event?eid=YXI5cjZka3Q1cmlvMTNrc2NydmVjcmdiYTggbmVjY2wubWFpbEBt",
+        "hangout_link": null,
+        "event_type": "default",
+        "transparency": "opaque",
+        "visibility": null,
+        "attachments": null,
+        "reminders": {
+          "use_default": false,
+          "overrides": [
+            {
+              "method": "popup",
+              "minutes": 1440
+            },
+            {
+              "method": "popup",
+              "minutes": 10080
+            }
+          ]
+        },
+        "recurrence": null,
+        "recurring_event_id": null,
+        "original_start_time": null,
+        "display_url": "https://www.google.com/calendar/event?eid=YXI5cjZka3Q1cmlvMTNrc2NydmVjcmdiYTggbmVjY2wubWFpbEBt",
+        "display_title": "NOVEL — EL124HS(12)/26 — Python程式編寫證書（兼讀制）(4/9)"
+      },
+      {
+        "guests_can_modify": null,
+        "locked": null,
+        "id": "vdcd3okaa4d055i8cs532sujqk",
+        "summary": "NOVEL — EL124HS(12)/26 — Python程式編寫證書（兼讀制）(5/9)",
+        "status": "confirmed",
+        "organizer": {
+          "is_self": true,
+          "email": "neccl.mail@gmail.com",
+          "display_name": null
+        },
+        "description": "基督教香港信義會 天恩培訓及發展中心 導師：吳紹財先生 第 5 節，共 9 節（34 小時） Class number：EL124HS(12)/26 PDF\n所列課程編號（供參考）：EL124HS(N)/26 時間表更新日期：30/09/2026\n\n資料來源：EL124HS(N-Nov).pdf；用戶確認班號 EL124HS(12)/26。 由主日曆搬移；原 event\nID：q64ga7cr7e3a0vf5m5oql2031g\n\n",
+        "location": "香港天后電氣道68號樹林銀座9樓 課室二 (ELTS)",
+        "color_id": null,
+        "event_label_id": null,
+        "start": "2026-11-16T09:00:00+08:00",
+        "end": "2026-11-16T13:00:00+08:00",
+        "attendees": [],
+        "url": "https://www.google.com/calendar/event?eid=dmRjZDNva2FhNGQwNTVpOGNzNTMyc3VqcWsgbmVjY2wubWFpbEBt",
+        "hangout_link": null,
+        "event_type": "default",
+        "transparency": "opaque",
+        "visibility": null,
+        "attachments": null,
+        "reminders": {
+          "use_default": false,
+          "overrides": [
+            {
+              "method": "popup",
+              "minutes": 10080
+            },
+            {
+              "method": "popup",
+              "minutes": 1440
+            }
+          ]
+        },
+        "recurrence": null,
+        "recurring_event_id": null,
+        "original_start_time": null,
+        "display_url": "https://www.google.com/calendar/event?eid=dmRjZDNva2FhNGQwNTVpOGNzNTMyc3VqcWsgbmVjY2wubWFpbEBt",
+        "display_title": "NOVEL — EL124HS(12)/26 — Python程式編寫證書（兼讀制）(5/9)"
+      },
+      {
+        "guests_can_modify": null,
+        "locked": null,
+        "id": "hikulga1eei8hv5hnhuj46lg68",
+        "summary": "NOVEL — EL124HS(12)/26 — Python程式編寫證書（兼讀制）(6/9)",
+        "status": "confirmed",
+        "organizer": {
+          "is_self": true,
+          "email": "neccl.mail@gmail.com",
+          "display_name": null
+        },
+        "description": "基督教香港信義會 天恩培訓及發展中心 導師：吳紹財先生 第 6 節，共 9 節（34 小時） Class number：EL124HS(12)/26 PDF\n所列課程編號（供參考）：EL124HS(N)/26 時間表更新日期：30/09/2026\n\n資料來源：EL124HS(N-Nov).pdf；用戶確認班號 EL124HS(12)/26。 由主日曆搬移；原 event\nID：hktu9l7kpojfebuh903a3khlpk\n\n",
+        "location": "香港天后電氣道68號樹林銀座9樓 課室二 (ELTS)",
+        "color_id": null,
+        "event_label_id": null,
+        "start": "2026-11-16T14:00:00+08:00",
+        "end": "2026-11-16T17:30:00+08:00",
+        "attendees": [],
+        "url": "https://www.google.com/calendar/event?eid=aGlrdWxnYTFlZWk4aHY1aG5odWo0NmxnNjggbmVjY2wubWFpbEBt",
+        "hangout_link": null,
+        "event_type": "default",
+        "transparency": "opaque",
+        "visibility": null,
+        "attachments": null,
+        "reminders": {
+          "use_default": false,
+          "overrides": [
+            {
+              "method": "popup",
+              "minutes": 10080
+            },
+            {
+              "method": "popup",
+              "minutes": 1440
+            }
+          ]
+        },
+        "recurrence": null,
+        "recurring_event_id": null,
+        "original_start_time": null,
+        "display_url": "https://www.google.com/calendar/event?eid=aGlrdWxnYTFlZWk4aHY1aG5odWo0NmxnNjggbmVjY2wubWFpbEBt",
+        "display_title": "NOVEL — EL124HS(12)/26 — Python程式編寫證書（兼讀制）(6/9)"
+      },
+      {
+        "guests_can_modify": null,
+        "locked": null,
+        "id": "nvtipts2g22s4alqmjof57d700",
+        "summary": "NOVEL — EL124HS(12)/26 — Python程式編寫證書（兼讀制）(7/9)",
+        "status": "confirmed",
+        "organizer": {
+          "is_self": true,
+          "email": "neccl.mail@gmail.com",
+          "display_name": null
+        },
+        "description": "基督教香港信義會 天恩培訓及發展中心 導師：吳紹財先生 第 7 節，共 9 節（34 小時） Class number：EL124HS(12)/26 PDF\n所列課程編號（供參考）：EL124HS(N)/26 時間表更新日期：30/09/2026\n\n資料來源：EL124HS(N-Nov).pdf；用戶確認班號 EL124HS(12)/26。 由主日曆搬移；原 event\nID：50dcskfaiqjmssefst6u9qtdjk\n\n",
+        "location": "香港天后電氣道68號樹林銀座9樓 課室二 (ELTS)",
+        "color_id": null,
+        "event_label_id": null,
+        "start": "2026-11-23T09:00:00+08:00",
+        "end": "2026-11-23T13:00:00+08:00",
+        "attendees": [],
+        "url": "https://www.google.com/calendar/event?eid=bnZ0aXB0czJnMjJzNGFscW1qb2Y1N2Q3MDAgbmVjY2wubWFpbEBt",
+        "hangout_link": null,
+        "event_type": "default",
+        "transparency": "opaque",
+        "visibility": null,
+        "attachments": null,
+        "reminders": {
+          "use_default": false,
+          "overrides": [
+            {
+              "method": "popup",
+              "minutes": 1440
+            },
+            {
+              "method": "popup",
+              "minutes": 10080
+            }
+          ]
+        },
+        "recurrence": null,
+        "recurring_event_id": null,
+        "original_start_time": null,
+        "display_url": "https://www.google.com/calendar/event?eid=bnZ0aXB0czJnMjJzNGFscW1qb2Y1N2Q3MDAgbmVjY2wubWFpbEBt",
+        "display_title": "NOVEL — EL124HS(12)/26 — Python程式編寫證書（兼讀制）(7/9)"
+      },
+      {
+        "guests_can_modify": null,
+        "locked": null,
+        "id": "s9m3htinruq47fl9mua5gvo0os",
+        "summary": "NOVEL — EL124HS(12)/26 — Python程式編寫證書（兼讀制）(8/9)",
+        "status": "confirmed",
+        "organizer": {
+          "is_self": true,
+          "email": "neccl.mail@gmail.com",
+          "display_name": null
+        },
+        "description": "基督教香港信義會 天恩培訓及發展中心 導師：吳紹財先生 第 8 節，共 9 節（34 小時） Class number：EL124HS(12)/26 PDF\n所列課程編號（供參考）：EL124HS(N)/26 時間表更新日期：30/09/2026\n\n資料來源：EL124HS(N-Nov).pdf；用戶確認班號 EL124HS(12)/26。 由主日曆搬移；原 event\nID：sqd9ke567hdn48j5unae6oud0g\n\n",
+        "location": "香港天后電氣道68號樹林銀座9樓 課室二 (ELTS)",
+        "color_id": null,
+        "event_label_id": null,
+        "start": "2026-11-23T14:00:00+08:00",
+        "end": "2026-11-23T17:30:00+08:00",
+        "attendees": [],
+        "url": "https://www.google.com/calendar/event?eid=czltM2h0aW5ydXE0N2ZsOW11YTVndm8wb3MgbmVjY2wubWFpbEBt",
+        "hangout_link": null,
+        "event_type": "default",
+        "transparency": "opaque",
+        "visibility": null,
+        "attachments": null,
+        "reminders": {
+          "use_default": false,
+          "overrides": [
+            {
+              "method": "popup",
+              "minutes": 10080
+            },
+            {
+              "method": "popup",
+              "minutes": 1440
+            }
+          ]
+        },
+        "recurrence": null,
+        "recurring_event_id": null,
+        "original_start_time": null,
+        "display_url": "https://www.google.com/calendar/event?eid=czltM2h0aW5ydXE0N2ZsOW11YTVndm8wb3MgbmVjY2wubWFpbEBt",
+        "display_title": "NOVEL — EL124HS(12)/26 — Python程式編寫證書（兼讀制）(8/9)"
+      },
+      {
+        "guests_can_modify": null,
+        "locked": null,
+        "id": "1elamd5hnfa4itpunj44j9r000",
+        "summary": "NOVEL — EL124HS(12)/26 — Python程式編寫證書（兼讀制）(9/9)｜期末筆試",
+        "status": "confirmed",
+        "organizer": {
+          "is_self": true,
+          "email": "neccl.mail@gmail.com",
+          "display_name": null
+        },
+        "description": "基督教香港信義會 天恩培訓及發展中心 導師：吳紹財先生 第 9 節，共 9 節（34 小時） Class number：EL124HS(12)/26 PDF\n所列課程編號（供參考）：EL124HS(N)/26 時間表更新日期：30/09/2026 期末筆試：12:00–13:00\n\n資料來源：EL124HS(N-Nov).pdf；用戶確認班號 EL124HS(12)/26。 由主日曆搬移；原 event\nID：5u4qadpttgkemdapto7dudqego\n\n",
+        "location": "香港天后電氣道68號樹林銀座9樓 課室二 (ELTS)",
+        "color_id": null,
+        "event_label_id": null,
+        "start": "2026-11-30T09:00:00+08:00",
+        "end": "2026-11-30T13:00:00+08:00",
+        "attendees": [],
+        "url": "https://www.google.com/calendar/event?eid=MWVsYW1kNWhuZmE0aXRwdW5qNDRqOXIwMDAgbmVjY2wubWFpbEBt",
+        "hangout_link": null,
+        "event_type": "default",
+        "transparency": "opaque",
+        "visibility": null,
+        "attachments": null,
+        "reminders": {
+          "use_default": false,
+          "overrides": [
+            {
+              "method": "popup",
+              "minutes": 1440
+            },
+            {
+              "method": "popup",
+              "minutes": 10080
+            }
+          ]
+        },
+        "recurrence": null,
+        "recurring_event_id": null,
+        "original_start_time": null,
+        "display_url": "https://www.google.com/calendar/event?eid=MWVsYW1kNWhuZmE0aXRwdW5qNDRqOXIwMDAgbmVjY2wubWFpbEBt",
+        "display_title": "NOVEL — EL124HS(12)/26 — Python程式編寫證書（兼讀制）(9/9)｜期末筆試"
+      }
+    ]
+  },
+  "isError": false
+}

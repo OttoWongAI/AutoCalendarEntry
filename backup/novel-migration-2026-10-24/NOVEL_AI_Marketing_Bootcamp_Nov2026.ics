@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AutoCalendarEntry//NOVEL Bootcamp//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c10767a1-3762-4fb4-b5dc-460bf5dc9572@autocalendarentry
+DTSTAMP:20261023T164542Z
+DTSTART;TZID=Asia/Hong_Kong:20261110T100000
+DTEND;TZID=Asia/Hong_Kong:20261110T190000
+SUMMARY:NOVEL — AI 驅動的全方位數位行銷與網站優化實戰營
+DESCRIPTION:AI-Powered Comprehensive Digital Marketing & Website Optimizati
+ on Bootcamp
+LOCATION:九龍觀塘鴻圖道32號德華中心1705室
+END:VEVENT
+BEGIN:VEVENT
+UID:71cf02b4-6e7c-43d8-9122-bc4f4b6351be@autocalendarentry
+DTSTAMP:20261023T164542Z
+DTSTART;TZID=Asia/Hong_Kong:20261113T100000
+DTEND;TZID=Asia/Hong_Kong:20261113T190000
+SUMMARY:NOVEL — AI 驅動的全方位數位行銷與網站優化實戰營
+DESCRIPTION:AI-Powered Comprehensive Digital Marketing & Website Optimizati
+ on Bootcamp
+LOCATION:九龍觀塘鴻圖道32號德華中心1705室
+END:VEVENT
+BEGIN:VEVENT
+UID:c2490e1a-681f-4b1c-8dc3-c3bc9cb1c983@autocalendarentry
+DTSTAMP:20261023T164542Z
+DTSTART;TZID=Asia/Hong_Kong:20261117T100000
+DTEND;TZID=Asia/Hong_Kong:20261117T190000
+SUMMARY:NOVEL — AI 驅動的全方位數位行銷與網站優化實戰營
+DESCRIPTION:AI-Powered Comprehensive Digital Marketing & Website Optimizati
+ on Bootcamp
+LOCATION:九龍觀塘鴻圖道32號德華中心1705室
+END:VEVENT
+END:VCALENDAR
