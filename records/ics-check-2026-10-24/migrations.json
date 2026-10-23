@@ -1,0 +1,4556 @@
+[
+  {
+    "source": "NOVEL_AI_Marketing_Bootcamp_Nov2026.ics",
+    "uid": "c10767a1-3762-4fb4-b5dc-460bf5dc9572@autocalendarentry",
+    "old_calendar": "netunewong@gmail.com",
+    "old_event_id": "h33ieb25bl9eu781oitbgrrmd0",
+    "new_calendar": "neccl.mail@gmail.com",
+    "new_event_id": "r34b5caljj8a436sakctqj9bf8",
+    "title": "NOVEL — AI 驅動的全方位數位行銷與網站優化實戰營",
+    "start": "2026-11-10T10:00:00+08:00",
+    "end": "2026-11-10T19:00:00+08:00",
+    "location": "九龍觀塘鴻圖道32號德華中心1705室",
+    "reminder_minutes": [
+      10080,
+      1440
+    ],
+    "created_response": {
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "r34b5caljj8a436sakctqj9bf8",
+      "summary": "NOVEL — AI 驅動的全方位數位行銷與網站優化實戰營",
+      "description": "<p>AI-Powered Comprehensive Digital Marketing &amp; Website Optimization Bootcamp AI\n驅動的全方位數位行銷與網站優化實戰營</p><p>資料來源：NOVEL_AI_Marketing_Bootcamp_Nov2026.ics\nICS UID: c10767a1-3762-4fb4-b5dc-460bf5dc9572@autocalendarentry\n由主日曆搬移；原 event ID: h33ieb25bl9eu781oitbgrrmd0</p>",
+      "location": "九龍觀塘鴻圖道32號德華中心1705室",
+      "start": "2026-11-10T10:00:00+08:00",
+      "end": "2026-11-10T19:00:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=cjM0YjVjYWxqajhhNDM2c2FrY3RxajliZjggbmVjY2wubWFpbEBt",
+      "color_id": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 10080
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          }
+        ]
+      },
+      "visibility": null,
+      "transparency": null,
+      "hangout_link": "https://meet.google.com/cgm-tnvq-fwa",
+      "conference_id": "cgm-tnvq-fwa",
+      "conference_status": "success",
+      "conference_solution_type": "hangoutsMeet"
+    },
+    "status": "migrated",
+    "verified_new_event": {
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "r34b5caljj8a436sakctqj9bf8",
+      "summary": "NOVEL — AI 驅動的全方位數位行銷與網站優化實戰營",
+      "status": "confirmed",
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "description": "AI-Powered Comprehensive Digital Marketing & Website Optimization Bootcamp AI\n驅動的全方位數位行銷與網站優化實戰營\n\n資料來源：NOVEL_AI_Marketing_Bootcamp_Nov2026.ics ICS UID:\nc10767a1-3762-4fb4-b5dc-460bf5dc9572@autocalendarentry 由主日曆搬移；原 event ID:\nh33ieb25bl9eu781oitbgrrmd0\n\n",
+      "location": "九龍觀塘鴻圖道32號德華中心1705室",
+      "color_id": null,
+      "event_label_id": null,
+      "start": "2026-11-10T10:00:00+08:00",
+      "end": "2026-11-10T19:00:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=cjM0YjVjYWxqajhhNDM2c2FrY3RxajliZjggbmVjY2wubWFpbEBt",
+      "hangout_link": "https://meet.google.com/cgm-tnvq-fwa",
+      "event_type": "default",
+      "transparency": "opaque",
+      "visibility": null,
+      "attachments": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 10080
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          }
+        ]
+      },
+      "recurrence": null,
+      "recurring_event_id": null,
+      "original_start_time": null,
+      "display_url": "https://www.google.com/calendar/event?eid=cjM0YjVjYWxqajhhNDM2c2FrY3RxajliZjggbmVjY2wubWFpbEBt",
+      "display_title": "NOVEL — AI 驅動的全方位數位行銷與網站優化實戰營"
+    }
+  },
+  {
+    "source": "NOVEL_AI_Marketing_Bootcamp_Nov2026.ics",
+    "uid": "71cf02b4-6e7c-43d8-9122-bc4f4b6351be@autocalendarentry",
+    "old_calendar": "netunewong@gmail.com",
+    "old_event_id": "bbgobupmbclrhf1ghhngoaj8qo",
+    "new_calendar": "neccl.mail@gmail.com",
+    "new_event_id": "aht24pho1bhcrkt0f7pa12mmu4",
+    "title": "NOVEL — AI 驅動的全方位數位行銷與網站優化實戰營",
+    "start": "2026-11-13T10:00:00+08:00",
+    "end": "2026-11-13T19:00:00+08:00",
+    "location": "九龍觀塘鴻圖道32號德華中心1705室",
+    "reminder_minutes": [
+      10080,
+      1440
+    ],
+    "created_response": {
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "aht24pho1bhcrkt0f7pa12mmu4",
+      "summary": "NOVEL — AI 驅動的全方位數位行銷與網站優化實戰營",
+      "description": "<p>AI-Powered Comprehensive Digital Marketing &amp; Website Optimization Bootcamp AI\n驅動的全方位數位行銷與網站優化實戰營</p><p>資料來源：NOVEL_AI_Marketing_Bootcamp_Nov2026.ics\nICS UID: 71cf02b4-6e7c-43d8-9122-bc4f4b6351be@autocalendarentry\n由主日曆搬移；原 event ID: bbgobupmbclrhf1ghhngoaj8qo</p>",
+      "location": "九龍觀塘鴻圖道32號德華中心1705室",
+      "start": "2026-11-13T10:00:00+08:00",
+      "end": "2026-11-13T19:00:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=YWh0MjRwaG8xYmhjcmt0MGY3cGExMm1tdTQgbmVjY2wubWFpbEBt",
+      "color_id": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 1440
+          },
+          {
+            "method": "popup",
+            "minutes": 10080
+          }
+        ]
+      },
+      "visibility": null,
+      "transparency": null,
+      "hangout_link": "https://meet.google.com/pyt-ygoo-ctt",
+      "conference_id": "pyt-ygoo-ctt",
+      "conference_status": "success",
+      "conference_solution_type": "hangoutsMeet"
+    },
+    "status": "migrated",
+    "verified_new_event": {
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "aht24pho1bhcrkt0f7pa12mmu4",
+      "summary": "NOVEL — AI 驅動的全方位數位行銷與網站優化實戰營",
+      "status": "confirmed",
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "description": "AI-Powered Comprehensive Digital Marketing & Website Optimization Bootcamp AI\n驅動的全方位數位行銷與網站優化實戰營\n\n資料來源：NOVEL_AI_Marketing_Bootcamp_Nov2026.ics ICS UID:\n71cf02b4-6e7c-43d8-9122-bc4f4b6351be@autocalendarentry 由主日曆搬移；原 event ID:\nbbgobupmbclrhf1ghhngoaj8qo\n\n",
+      "location": "九龍觀塘鴻圖道32號德華中心1705室",
+      "color_id": null,
+      "event_label_id": null,
+      "start": "2026-11-13T10:00:00+08:00",
+      "end": "2026-11-13T19:00:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=YWh0MjRwaG8xYmhjcmt0MGY3cGExMm1tdTQgbmVjY2wubWFpbEBt",
+      "hangout_link": "https://meet.google.com/pyt-ygoo-ctt",
+      "event_type": "default",
+      "transparency": "opaque",
+      "visibility": null,
+      "attachments": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 1440
+          },
+          {
+            "method": "popup",
+            "minutes": 10080
+          }
+        ]
+      },
+      "recurrence": null,
+      "recurring_event_id": null,
+      "original_start_time": null,
+      "display_url": "https://www.google.com/calendar/event?eid=YWh0MjRwaG8xYmhjcmt0MGY3cGExMm1tdTQgbmVjY2wubWFpbEBt",
+      "display_title": "NOVEL — AI 驅動的全方位數位行銷與網站優化實戰營"
+    }
+  },
+  {
+    "source": "NOVEL_AI_Marketing_Bootcamp_Nov2026.ics",
+    "uid": "c2490e1a-681f-4b1c-8dc3-c3bc9cb1c983@autocalendarentry",
+    "old_calendar": "netunewong@gmail.com",
+    "old_event_id": "oo9c716qpdbjjq3jdjvp1679mg",
+    "new_calendar": "neccl.mail@gmail.com",
+    "new_event_id": "3antb5pgi056gf64r1llnhiumk",
+    "title": "NOVEL — AI 驅動的全方位數位行銷與網站優化實戰營",
+    "start": "2026-11-17T10:00:00+08:00",
+    "end": "2026-11-17T19:00:00+08:00",
+    "location": "九龍觀塘鴻圖道32號德華中心1705室",
+    "reminder_minutes": [
+      10080,
+      1440
+    ],
+    "created_response": {
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "3antb5pgi056gf64r1llnhiumk",
+      "summary": "NOVEL — AI 驅動的全方位數位行銷與網站優化實戰營",
+      "description": "<p>AI-Powered Comprehensive Digital Marketing &amp; Website Optimization Bootcamp AI\n驅動的全方位數位行銷與網站優化實戰營</p><p>資料來源：NOVEL_AI_Marketing_Bootcamp_Nov2026.ics\nICS UID: c2490e1a-681f-4b1c-8dc3-c3bc9cb1c983@autocalendarentry\n由主日曆搬移；原 event ID: oo9c716qpdbjjq3jdjvp1679mg</p>",
+      "location": "九龍觀塘鴻圖道32號德華中心1705室",
+      "start": "2026-11-17T10:00:00+08:00",
+      "end": "2026-11-17T19:00:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=M2FudGI1cGdpMDU2Z2Y2NHIxbGxuaGl1bWsgbmVjY2wubWFpbEBt",
+      "color_id": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 1440
+          },
+          {
+            "method": "popup",
+            "minutes": 10080
+          }
+        ]
+      },
+      "visibility": null,
+      "transparency": null,
+      "hangout_link": "https://meet.google.com/dxt-edfb-cfx",
+      "conference_id": "dxt-edfb-cfx",
+      "conference_status": "success",
+      "conference_solution_type": "hangoutsMeet"
+    },
+    "status": "migrated",
+    "verified_new_event": {
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "3antb5pgi056gf64r1llnhiumk",
+      "summary": "NOVEL — AI 驅動的全方位數位行銷與網站優化實戰營",
+      "status": "confirmed",
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "description": "AI-Powered Comprehensive Digital Marketing & Website Optimization Bootcamp AI\n驅動的全方位數位行銷與網站優化實戰營\n\n資料來源：NOVEL_AI_Marketing_Bootcamp_Nov2026.ics ICS UID:\nc2490e1a-681f-4b1c-8dc3-c3bc9cb1c983@autocalendarentry 由主日曆搬移；原 event ID:\noo9c716qpdbjjq3jdjvp1679mg\n\n",
+      "location": "九龍觀塘鴻圖道32號德華中心1705室",
+      "color_id": null,
+      "event_label_id": null,
+      "start": "2026-11-17T10:00:00+08:00",
+      "end": "2026-11-17T19:00:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=M2FudGI1cGdpMDU2Z2Y2NHIxbGxuaGl1bWsgbmVjY2wubWFpbEBt",
+      "hangout_link": "https://meet.google.com/dxt-edfb-cfx",
+      "event_type": "default",
+      "transparency": "opaque",
+      "visibility": null,
+      "attachments": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 1440
+          },
+          {
+            "method": "popup",
+            "minutes": 10080
+          }
+        ]
+      },
+      "recurrence": null,
+      "recurring_event_id": null,
+      "original_start_time": null,
+      "display_url": "https://www.google.com/calendar/event?eid=M2FudGI1cGdpMDU2Z2Y2NHIxbGxuaGl1bWsgbmVjY2wubWFpbEBt",
+      "display_title": "NOVEL — AI 驅動的全方位數位行銷與網站優化實戰營"
+    }
+  },
+  {
+    "source": "NOVEL_Climbing_2026-27.ics",
+    "uid": "novel-climbing-2026-0@autocalendarentry",
+    "old_calendar": "netunewong@gmail.com",
+    "old_event_id": "dgjmjvhjjejjhr898pl92h9t94",
+    "new_calendar": "neccl.mail@gmail.com",
+    "new_event_id": "jieej5757b0ahhl7irlqps7ahk",
+    "title": "NOVEL 運動攀登隊訓練 (1/20)",
+    "start": "2026-10-03T09:00:00+08:00",
+    "end": "2026-10-03T11:00:00+08:00",
+    "location": "北角衞理小學",
+    "reminder_minutes": [
+      10080,
+      1440,
+      60
+    ],
+    "created_response": {
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "jieej5757b0ahhl7irlqps7ahk",
+      "summary": "NOVEL 運動攀登隊訓練 (1/20)",
+      "description": "<p>NOVEL 運動攀登隊訓練（星期六，共20節） 導師：潘sir, Molly, R, 邦</p><p>資料來源：NOVEL_Climbing_2026-27.ics\nICS UID: novel-climbing-2026-0@autocalendarentry\n由主日曆搬移；原 event ID: dgjmjvhjjejjhr898pl92h9t94</p>",
+      "location": "北角衞理小學",
+      "start": "2026-10-03T09:00:00+08:00",
+      "end": "2026-10-03T11:00:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=amllZWo1NzU3YjBhaGhsN2lybHFwczdhaGsgbmVjY2wubWFpbEBt",
+      "color_id": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 10080
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          }
+        ]
+      },
+      "visibility": null,
+      "transparency": null,
+      "hangout_link": null,
+      "conference_id": null,
+      "conference_status": null,
+      "conference_solution_type": null
+    },
+    "status": "migrated",
+    "verified_new_event": {
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "jieej5757b0ahhl7irlqps7ahk",
+      "summary": "NOVEL 運動攀登隊訓練 (1/20)",
+      "status": "confirmed",
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "description": "NOVEL 運動攀登隊訓練（星期六，共20節） 導師：潘sir, Molly, R, 邦\n\n資料來源：NOVEL_Climbing_2026-27.ics ICS UID: novel-\nclimbing-2026-0@autocalendarentry 由主日曆搬移；原 event ID:\ndgjmjvhjjejjhr898pl92h9t94\n\n",
+      "location": "北角衞理小學",
+      "color_id": null,
+      "event_label_id": null,
+      "start": "2026-10-03T09:00:00+08:00",
+      "end": "2026-10-03T11:00:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=amllZWo1NzU3YjBhaGhsN2lybHFwczdhaGsgbmVjY2wubWFpbEBt",
+      "hangout_link": null,
+      "event_type": "default",
+      "transparency": "opaque",
+      "visibility": null,
+      "attachments": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 10080
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          }
+        ]
+      },
+      "recurrence": null,
+      "recurring_event_id": null,
+      "original_start_time": null,
+      "display_url": "https://www.google.com/calendar/event?eid=amllZWo1NzU3YjBhaGhsN2lybHFwczdhaGsgbmVjY2wubWFpbEBt",
+      "display_title": "NOVEL 運動攀登隊訓練 (1/20)"
+    }
+  },
+  {
+    "source": "NOVEL_Climbing_2026-27.ics",
+    "uid": "novel-climbing-2026-1@autocalendarentry",
+    "old_calendar": "netunewong@gmail.com",
+    "old_event_id": "l1pc92crufkebdco6rjulq5r4c",
+    "new_calendar": "neccl.mail@gmail.com",
+    "new_event_id": "0c6l9gc5055crtquaokr8om2bo",
+    "title": "NOVEL 運動攀登隊訓練 (2/20)",
+    "start": "2026-10-10T09:00:00+08:00",
+    "end": "2026-10-10T11:00:00+08:00",
+    "location": "北角衞理小學",
+    "reminder_minutes": [
+      10080,
+      1440,
+      60
+    ],
+    "created_response": {
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "0c6l9gc5055crtquaokr8om2bo",
+      "summary": "NOVEL 運動攀登隊訓練 (2/20)",
+      "description": "<p>NOVEL 運動攀登隊訓練（星期六，共20節） 導師：潘sir, Molly, R, 邦</p><p>資料來源：NOVEL_Climbing_2026-27.ics\nICS UID: novel-climbing-2026-1@autocalendarentry\n由主日曆搬移；原 event ID: l1pc92crufkebdco6rjulq5r4c</p>",
+      "location": "北角衞理小學",
+      "start": "2026-10-10T09:00:00+08:00",
+      "end": "2026-10-10T11:00:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=MGM2bDlnYzUwNTVjcnRxdWFva3I4b20yYm8gbmVjY2wubWFpbEBt",
+      "color_id": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 10080
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          }
+        ]
+      },
+      "visibility": null,
+      "transparency": null,
+      "hangout_link": null,
+      "conference_id": null,
+      "conference_status": null,
+      "conference_solution_type": null
+    },
+    "status": "migrated",
+    "verified_new_event": {
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "0c6l9gc5055crtquaokr8om2bo",
+      "summary": "NOVEL 運動攀登隊訓練 (2/20)",
+      "status": "confirmed",
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "description": "NOVEL 運動攀登隊訓練（星期六，共20節） 導師：潘sir, Molly, R, 邦\n\n資料來源：NOVEL_Climbing_2026-27.ics ICS UID: novel-\nclimbing-2026-1@autocalendarentry 由主日曆搬移；原 event ID:\nl1pc92crufkebdco6rjulq5r4c\n\n",
+      "location": "北角衞理小學",
+      "color_id": null,
+      "event_label_id": null,
+      "start": "2026-10-10T09:00:00+08:00",
+      "end": "2026-10-10T11:00:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=MGM2bDlnYzUwNTVjcnRxdWFva3I4b20yYm8gbmVjY2wubWFpbEBt",
+      "hangout_link": null,
+      "event_type": "default",
+      "transparency": "opaque",
+      "visibility": null,
+      "attachments": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 10080
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          }
+        ]
+      },
+      "recurrence": null,
+      "recurring_event_id": null,
+      "original_start_time": null,
+      "display_url": "https://www.google.com/calendar/event?eid=MGM2bDlnYzUwNTVjcnRxdWFva3I4b20yYm8gbmVjY2wubWFpbEBt",
+      "display_title": "NOVEL 運動攀登隊訓練 (2/20)"
+    }
+  },
+  {
+    "source": "NOVEL_Climbing_2026-27.ics",
+    "uid": "novel-climbing-2026-2@autocalendarentry",
+    "old_calendar": "netunewong@gmail.com",
+    "old_event_id": "nadqtb67iv3o486noobadn18mc",
+    "new_calendar": "neccl.mail@gmail.com",
+    "new_event_id": "rvfelvfc5no2qe5upb7v7a8mko",
+    "title": "NOVEL 運動攀登隊訓練 (3/20)",
+    "start": "2026-10-17T09:00:00+08:00",
+    "end": "2026-10-17T11:00:00+08:00",
+    "location": "北角衞理小學",
+    "reminder_minutes": [
+      10080,
+      1440,
+      60
+    ],
+    "created_response": {
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "rvfelvfc5no2qe5upb7v7a8mko",
+      "summary": "NOVEL 運動攀登隊訓練 (3/20)",
+      "description": "<p>NOVEL 運動攀登隊訓練（星期六，共20節） 導師：潘sir, Molly, R, 邦</p><p>資料來源：NOVEL_Climbing_2026-27.ics\nICS UID: novel-climbing-2026-2@autocalendarentry\n由主日曆搬移；原 event ID: nadqtb67iv3o486noobadn18mc</p>",
+      "location": "北角衞理小學",
+      "start": "2026-10-17T09:00:00+08:00",
+      "end": "2026-10-17T11:00:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=cnZmZWx2ZmM1bm8ycWU1dXBiN3Y3YThta28gbmVjY2wubWFpbEBt",
+      "color_id": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 10080
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          }
+        ]
+      },
+      "visibility": null,
+      "transparency": null,
+      "hangout_link": null,
+      "conference_id": null,
+      "conference_status": null,
+      "conference_solution_type": null
+    },
+    "status": "migrated",
+    "verified_new_event": {
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "rvfelvfc5no2qe5upb7v7a8mko",
+      "summary": "NOVEL 運動攀登隊訓練 (3/20)",
+      "status": "confirmed",
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "description": "NOVEL 運動攀登隊訓練（星期六，共20節） 導師：潘sir, Molly, R, 邦\n\n資料來源：NOVEL_Climbing_2026-27.ics ICS UID: novel-\nclimbing-2026-2@autocalendarentry 由主日曆搬移；原 event ID:\nnadqtb67iv3o486noobadn18mc\n\n",
+      "location": "北角衞理小學",
+      "color_id": null,
+      "event_label_id": null,
+      "start": "2026-10-17T09:00:00+08:00",
+      "end": "2026-10-17T11:00:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=cnZmZWx2ZmM1bm8ycWU1dXBiN3Y3YThta28gbmVjY2wubWFpbEBt",
+      "hangout_link": null,
+      "event_type": "default",
+      "transparency": "opaque",
+      "visibility": null,
+      "attachments": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 10080
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          }
+        ]
+      },
+      "recurrence": null,
+      "recurring_event_id": null,
+      "original_start_time": null,
+      "display_url": "https://www.google.com/calendar/event?eid=cnZmZWx2ZmM1bm8ycWU1dXBiN3Y3YThta28gbmVjY2wubWFpbEBt",
+      "display_title": "NOVEL 運動攀登隊訓練 (3/20)"
+    }
+  },
+  {
+    "source": "NOVEL_Climbing_2026-27.ics",
+    "uid": "novel-climbing-2026-3@autocalendarentry",
+    "old_calendar": "netunewong@gmail.com",
+    "old_event_id": "b3bjs7247l37841e1shd1m974c",
+    "new_calendar": "neccl.mail@gmail.com",
+    "new_event_id": "5980crdd6jkipqksqvagko9osk",
+    "title": "NOVEL 運動攀登隊訓練 (4/20)",
+    "start": "2026-10-31T09:00:00+08:00",
+    "end": "2026-10-31T11:00:00+08:00",
+    "location": "北角衞理小學",
+    "reminder_minutes": [
+      10080,
+      1440,
+      60
+    ],
+    "created_response": {
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "5980crdd6jkipqksqvagko9osk",
+      "summary": "NOVEL 運動攀登隊訓練 (4/20)",
+      "description": "<p>NOVEL 運動攀登隊訓練（星期六，共20節） 導師：潘sir, Molly, R, 邦</p><p>資料來源：NOVEL_Climbing_2026-27.ics\nICS UID: novel-climbing-2026-3@autocalendarentry\n由主日曆搬移；原 event ID: b3bjs7247l37841e1shd1m974c</p>",
+      "location": "北角衞理小學",
+      "start": "2026-10-31T09:00:00+08:00",
+      "end": "2026-10-31T11:00:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=NTk4MGNyZGQ2amtpcHFrc3F2YWdrbzlvc2sgbmVjY2wubWFpbEBt",
+      "color_id": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 1440
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          },
+          {
+            "method": "popup",
+            "minutes": 10080
+          }
+        ]
+      },
+      "visibility": null,
+      "transparency": null,
+      "hangout_link": null,
+      "conference_id": null,
+      "conference_status": null,
+      "conference_solution_type": null
+    },
+    "status": "migrated",
+    "verified_new_event": {
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "5980crdd6jkipqksqvagko9osk",
+      "summary": "NOVEL 運動攀登隊訓練 (4/20)",
+      "status": "confirmed",
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "description": "NOVEL 運動攀登隊訓練（星期六，共20節） 導師：潘sir, Molly, R, 邦\n\n資料來源：NOVEL_Climbing_2026-27.ics ICS UID: novel-\nclimbing-2026-3@autocalendarentry 由主日曆搬移；原 event ID:\nb3bjs7247l37841e1shd1m974c\n\n",
+      "location": "北角衞理小學",
+      "color_id": null,
+      "event_label_id": null,
+      "start": "2026-10-31T09:00:00+08:00",
+      "end": "2026-10-31T11:00:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=NTk4MGNyZGQ2amtpcHFrc3F2YWdrbzlvc2sgbmVjY2wubWFpbEBt",
+      "hangout_link": null,
+      "event_type": "default",
+      "transparency": "opaque",
+      "visibility": null,
+      "attachments": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 1440
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          },
+          {
+            "method": "popup",
+            "minutes": 10080
+          }
+        ]
+      },
+      "recurrence": null,
+      "recurring_event_id": null,
+      "original_start_time": null,
+      "display_url": "https://www.google.com/calendar/event?eid=NTk4MGNyZGQ2amtpcHFrc3F2YWdrbzlvc2sgbmVjY2wubWFpbEBt",
+      "display_title": "NOVEL 運動攀登隊訓練 (4/20)"
+    }
+  },
+  {
+    "source": "NOVEL_Climbing_2026-27.ics",
+    "uid": "novel-climbing-2026-4@autocalendarentry",
+    "old_calendar": "netunewong@gmail.com",
+    "old_event_id": "2squl2v3jchld0l2jgeu402f60",
+    "new_calendar": "neccl.mail@gmail.com",
+    "new_event_id": "j4krneh8de8qfvvd1jaohn5bbc",
+    "title": "NOVEL 運動攀登隊訓練 (5/20)",
+    "start": "2026-11-14T09:00:00+08:00",
+    "end": "2026-11-14T11:00:00+08:00",
+    "location": "北角衞理小學",
+    "reminder_minutes": [
+      10080,
+      1440,
+      60
+    ],
+    "created_response": {
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "j4krneh8de8qfvvd1jaohn5bbc",
+      "summary": "NOVEL 運動攀登隊訓練 (5/20)",
+      "description": "<p>NOVEL 運動攀登隊訓練（星期六，共20節） 導師：潘sir, Molly, R, 邦</p><p>資料來源：NOVEL_Climbing_2026-27.ics\nICS UID: novel-climbing-2026-4@autocalendarentry\n由主日曆搬移；原 event ID: 2squl2v3jchld0l2jgeu402f60</p>",
+      "location": "北角衞理小學",
+      "start": "2026-11-14T09:00:00+08:00",
+      "end": "2026-11-14T11:00:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=ajRrcm5laDhkZThxZnZ2ZDFqYW9objViYmMgbmVjY2wubWFpbEBt",
+      "color_id": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 1440
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          },
+          {
+            "method": "popup",
+            "minutes": 10080
+          }
+        ]
+      },
+      "visibility": null,
+      "transparency": null,
+      "hangout_link": null,
+      "conference_id": null,
+      "conference_status": null,
+      "conference_solution_type": null
+    },
+    "status": "migrated",
+    "verified_new_event": {
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "j4krneh8de8qfvvd1jaohn5bbc",
+      "summary": "NOVEL 運動攀登隊訓練 (5/20)",
+      "status": "confirmed",
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "description": "NOVEL 運動攀登隊訓練（星期六，共20節） 導師：潘sir, Molly, R, 邦\n\n資料來源：NOVEL_Climbing_2026-27.ics ICS UID: novel-\nclimbing-2026-4@autocalendarentry 由主日曆搬移；原 event ID:\n2squl2v3jchld0l2jgeu402f60\n\n",
+      "location": "北角衞理小學",
+      "color_id": null,
+      "event_label_id": null,
+      "start": "2026-11-14T09:00:00+08:00",
+      "end": "2026-11-14T11:00:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=ajRrcm5laDhkZThxZnZ2ZDFqYW9objViYmMgbmVjY2wubWFpbEBt",
+      "hangout_link": null,
+      "event_type": "default",
+      "transparency": "opaque",
+      "visibility": null,
+      "attachments": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 1440
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          },
+          {
+            "method": "popup",
+            "minutes": 10080
+          }
+        ]
+      },
+      "recurrence": null,
+      "recurring_event_id": null,
+      "original_start_time": null,
+      "display_url": "https://www.google.com/calendar/event?eid=ajRrcm5laDhkZThxZnZ2ZDFqYW9objViYmMgbmVjY2wubWFpbEBt",
+      "display_title": "NOVEL 運動攀登隊訓練 (5/20)"
+    }
+  },
+  {
+    "source": "NOVEL_Climbing_2026-27.ics",
+    "uid": "novel-climbing-2026-5@autocalendarentry",
+    "old_calendar": "netunewong@gmail.com",
+    "old_event_id": "crqripae8i5gkdmca0ionjl8ik",
+    "new_calendar": "neccl.mail@gmail.com",
+    "new_event_id": "cvh6cdt73l10jvspeva3229ev8",
+    "title": "NOVEL 運動攀登隊訓練 (6/20)",
+    "start": "2026-11-28T09:00:00+08:00",
+    "end": "2026-11-28T11:00:00+08:00",
+    "location": "北角衞理小學",
+    "reminder_minutes": [
+      10080,
+      1440,
+      60
+    ],
+    "created_response": {
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "cvh6cdt73l10jvspeva3229ev8",
+      "summary": "NOVEL 運動攀登隊訓練 (6/20)",
+      "description": "<p>NOVEL 運動攀登隊訓練（星期六，共20節） 導師：潘sir, Molly, R, 邦</p><p>資料來源：NOVEL_Climbing_2026-27.ics\nICS UID: novel-climbing-2026-5@autocalendarentry\n由主日曆搬移；原 event ID: crqripae8i5gkdmca0ionjl8ik</p>",
+      "location": "北角衞理小學",
+      "start": "2026-11-28T09:00:00+08:00",
+      "end": "2026-11-28T11:00:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=Y3ZoNmNkdDczbDEwanZzcGV2YTMyMjlldjggbmVjY2wubWFpbEBt",
+      "color_id": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 60
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          },
+          {
+            "method": "popup",
+            "minutes": 10080
+          }
+        ]
+      },
+      "visibility": null,
+      "transparency": null,
+      "hangout_link": null,
+      "conference_id": null,
+      "conference_status": null,
+      "conference_solution_type": null
+    },
+    "status": "migrated",
+    "verified_new_event": {
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "cvh6cdt73l10jvspeva3229ev8",
+      "summary": "NOVEL 運動攀登隊訓練 (6/20)",
+      "status": "confirmed",
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "description": "NOVEL 運動攀登隊訓練（星期六，共20節） 導師：潘sir, Molly, R, 邦\n\n資料來源：NOVEL_Climbing_2026-27.ics ICS UID: novel-\nclimbing-2026-5@autocalendarentry 由主日曆搬移；原 event ID:\ncrqripae8i5gkdmca0ionjl8ik\n\n",
+      "location": "北角衞理小學",
+      "color_id": null,
+      "event_label_id": null,
+      "start": "2026-11-28T09:00:00+08:00",
+      "end": "2026-11-28T11:00:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=Y3ZoNmNkdDczbDEwanZzcGV2YTMyMjlldjggbmVjY2wubWFpbEBt",
+      "hangout_link": null,
+      "event_type": "default",
+      "transparency": "opaque",
+      "visibility": null,
+      "attachments": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 60
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          },
+          {
+            "method": "popup",
+            "minutes": 10080
+          }
+        ]
+      },
+      "recurrence": null,
+      "recurring_event_id": null,
+      "original_start_time": null,
+      "display_url": "https://www.google.com/calendar/event?eid=Y3ZoNmNkdDczbDEwanZzcGV2YTMyMjlldjggbmVjY2wubWFpbEBt",
+      "display_title": "NOVEL 運動攀登隊訓練 (6/20)"
+    }
+  },
+  {
+    "source": "NOVEL_Climbing_2026-27.ics",
+    "uid": "novel-climbing-2026-6@autocalendarentry",
+    "old_calendar": "netunewong@gmail.com",
+    "old_event_id": "616sia5krsl1foevsf832n9hqs",
+    "new_calendar": "neccl.mail@gmail.com",
+    "new_event_id": "utrrjpqcltmab2vrgs3hs35hqs",
+    "title": "NOVEL 運動攀登隊訓練 (7/20)",
+    "start": "2026-12-05T09:00:00+08:00",
+    "end": "2026-12-05T11:00:00+08:00",
+    "location": "北角衞理小學",
+    "reminder_minutes": [
+      10080,
+      1440,
+      60
+    ],
+    "created_response": {
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "utrrjpqcltmab2vrgs3hs35hqs",
+      "summary": "NOVEL 運動攀登隊訓練 (7/20)",
+      "description": "<p>NOVEL 運動攀登隊訓練（星期六，共20節） 導師：潘sir, Molly, R, 邦</p><p>資料來源：NOVEL_Climbing_2026-27.ics\nICS UID: novel-climbing-2026-6@autocalendarentry\n由主日曆搬移；原 event ID: 616sia5krsl1foevsf832n9hqs</p>",
+      "location": "北角衞理小學",
+      "start": "2026-12-05T09:00:00+08:00",
+      "end": "2026-12-05T11:00:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=dXRycmpwcWNsdG1hYjJ2cmdzM2hzMzVocXMgbmVjY2wubWFpbEBt",
+      "color_id": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 10080
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          }
+        ]
+      },
+      "visibility": null,
+      "transparency": null,
+      "hangout_link": null,
+      "conference_id": null,
+      "conference_status": null,
+      "conference_solution_type": null
+    },
+    "status": "migrated",
+    "verified_new_event": {
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "utrrjpqcltmab2vrgs3hs35hqs",
+      "summary": "NOVEL 運動攀登隊訓練 (7/20)",
+      "status": "confirmed",
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "description": "NOVEL 運動攀登隊訓練（星期六，共20節） 導師：潘sir, Molly, R, 邦\n\n資料來源：NOVEL_Climbing_2026-27.ics ICS UID: novel-\nclimbing-2026-6@autocalendarentry 由主日曆搬移；原 event ID:\n616sia5krsl1foevsf832n9hqs\n\n",
+      "location": "北角衞理小學",
+      "color_id": null,
+      "event_label_id": null,
+      "start": "2026-12-05T09:00:00+08:00",
+      "end": "2026-12-05T11:00:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=dXRycmpwcWNsdG1hYjJ2cmdzM2hzMzVocXMgbmVjY2wubWFpbEBt",
+      "hangout_link": null,
+      "event_type": "default",
+      "transparency": "opaque",
+      "visibility": null,
+      "attachments": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 10080
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          }
+        ]
+      },
+      "recurrence": null,
+      "recurring_event_id": null,
+      "original_start_time": null,
+      "display_url": "https://www.google.com/calendar/event?eid=dXRycmpwcWNsdG1hYjJ2cmdzM2hzMzVocXMgbmVjY2wubWFpbEBt",
+      "display_title": "NOVEL 運動攀登隊訓練 (7/20)"
+    }
+  },
+  {
+    "source": "NOVEL_Climbing_2026-27.ics",
+    "uid": "novel-climbing-2026-7@autocalendarentry",
+    "old_calendar": "netunewong@gmail.com",
+    "old_event_id": "ufjn10n4a0oauke1vktn49utf4",
+    "new_calendar": "neccl.mail@gmail.com",
+    "new_event_id": "rt8mag4ee2tumj1jvsa9q3h1j4",
+    "title": "NOVEL 運動攀登隊訓練 (8/20)",
+    "start": "2026-12-12T09:00:00+08:00",
+    "end": "2026-12-12T11:00:00+08:00",
+    "location": "北角衞理小學",
+    "reminder_minutes": [
+      10080,
+      1440,
+      60
+    ],
+    "created_response": {
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "rt8mag4ee2tumj1jvsa9q3h1j4",
+      "summary": "NOVEL 運動攀登隊訓練 (8/20)",
+      "description": "<p>NOVEL 運動攀登隊訓練（星期六，共20節） 導師：潘sir, Molly, R, 邦</p><p>資料來源：NOVEL_Climbing_2026-27.ics\nICS UID: novel-climbing-2026-7@autocalendarentry\n由主日曆搬移；原 event ID: ufjn10n4a0oauke1vktn49utf4</p>",
+      "location": "北角衞理小學",
+      "start": "2026-12-12T09:00:00+08:00",
+      "end": "2026-12-12T11:00:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=cnQ4bWFnNGVlMnR1bWoxanZzYTlxM2gxajQgbmVjY2wubWFpbEBt",
+      "color_id": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 10080
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          }
+        ]
+      },
+      "visibility": null,
+      "transparency": null,
+      "hangout_link": null,
+      "conference_id": null,
+      "conference_status": null,
+      "conference_solution_type": null
+    },
+    "status": "migrated",
+    "verified_new_event": {
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "rt8mag4ee2tumj1jvsa9q3h1j4",
+      "summary": "NOVEL 運動攀登隊訓練 (8/20)",
+      "status": "confirmed",
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "description": "NOVEL 運動攀登隊訓練（星期六，共20節） 導師：潘sir, Molly, R, 邦\n\n資料來源：NOVEL_Climbing_2026-27.ics ICS UID: novel-\nclimbing-2026-7@autocalendarentry 由主日曆搬移；原 event ID:\nufjn10n4a0oauke1vktn49utf4\n\n",
+      "location": "北角衞理小學",
+      "color_id": null,
+      "event_label_id": null,
+      "start": "2026-12-12T09:00:00+08:00",
+      "end": "2026-12-12T11:00:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=cnQ4bWFnNGVlMnR1bWoxanZzYTlxM2gxajQgbmVjY2wubWFpbEBt",
+      "hangout_link": null,
+      "event_type": "default",
+      "transparency": "opaque",
+      "visibility": null,
+      "attachments": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 10080
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          }
+        ]
+      },
+      "recurrence": null,
+      "recurring_event_id": null,
+      "original_start_time": null,
+      "display_url": "https://www.google.com/calendar/event?eid=cnQ4bWFnNGVlMnR1bWoxanZzYTlxM2gxajQgbmVjY2wubWFpbEBt",
+      "display_title": "NOVEL 運動攀登隊訓練 (8/20)"
+    }
+  },
+  {
+    "source": "NOVEL_Climbing_2026-27.ics",
+    "uid": "novel-climbing-2026-8@autocalendarentry",
+    "old_calendar": "netunewong@gmail.com",
+    "old_event_id": "mt7inih1uht8aqjkf6pd80iceg",
+    "new_calendar": "neccl.mail@gmail.com",
+    "new_event_id": "sm6cqa2br5847b59g378e99ve0",
+    "title": "NOVEL 運動攀登隊訓練 (9/20)",
+    "start": "2027-01-16T09:00:00+08:00",
+    "end": "2027-01-16T11:00:00+08:00",
+    "location": "北角衞理小學",
+    "reminder_minutes": [
+      10080,
+      1440,
+      60
+    ],
+    "created_response": {
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "sm6cqa2br5847b59g378e99ve0",
+      "summary": "NOVEL 運動攀登隊訓練 (9/20)",
+      "description": "<p>NOVEL 運動攀登隊訓練（星期六，共20節） 導師：潘sir, Molly, R, 邦</p><p>資料來源：NOVEL_Climbing_2026-27.ics\nICS UID: novel-climbing-2026-8@autocalendarentry\n由主日曆搬移；原 event ID: mt7inih1uht8aqjkf6pd80iceg</p>",
+      "location": "北角衞理小學",
+      "start": "2027-01-16T09:00:00+08:00",
+      "end": "2027-01-16T11:00:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=c202Y3FhMmJyNTg0N2I1OWczNzhlOTl2ZTAgbmVjY2wubWFpbEBt",
+      "color_id": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 10080
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          }
+        ]
+      },
+      "visibility": null,
+      "transparency": null,
+      "hangout_link": null,
+      "conference_id": null,
+      "conference_status": null,
+      "conference_solution_type": null
+    },
+    "status": "migrated",
+    "verified_new_event": {
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "sm6cqa2br5847b59g378e99ve0",
+      "summary": "NOVEL 運動攀登隊訓練 (9/20)",
+      "status": "confirmed",
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "description": "NOVEL 運動攀登隊訓練（星期六，共20節） 導師：潘sir, Molly, R, 邦\n\n資料來源：NOVEL_Climbing_2026-27.ics ICS UID: novel-\nclimbing-2026-8@autocalendarentry 由主日曆搬移；原 event ID:\nmt7inih1uht8aqjkf6pd80iceg\n\n",
+      "location": "北角衞理小學",
+      "color_id": null,
+      "event_label_id": null,
+      "start": "2027-01-16T09:00:00+08:00",
+      "end": "2027-01-16T11:00:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=c202Y3FhMmJyNTg0N2I1OWczNzhlOTl2ZTAgbmVjY2wubWFpbEBt",
+      "hangout_link": null,
+      "event_type": "default",
+      "transparency": "opaque",
+      "visibility": null,
+      "attachments": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 10080
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          }
+        ]
+      },
+      "recurrence": null,
+      "recurring_event_id": null,
+      "original_start_time": null,
+      "display_url": "https://www.google.com/calendar/event?eid=c202Y3FhMmJyNTg0N2I1OWczNzhlOTl2ZTAgbmVjY2wubWFpbEBt",
+      "display_title": "NOVEL 運動攀登隊訓練 (9/20)"
+    }
+  },
+  {
+    "source": "NOVEL_Climbing_2026-27.ics",
+    "uid": "novel-climbing-2026-9@autocalendarentry",
+    "old_calendar": "netunewong@gmail.com",
+    "old_event_id": "gbnq5fd62sfodgf9ugib2uldbs",
+    "new_calendar": "neccl.mail@gmail.com",
+    "new_event_id": "bd6vvg8mn1ducgvi7bvbt9ehcg",
+    "title": "NOVEL 運動攀登隊訓練 (10/20)",
+    "start": "2027-01-23T09:00:00+08:00",
+    "end": "2027-01-23T11:00:00+08:00",
+    "location": "北角衞理小學",
+    "reminder_minutes": [
+      10080,
+      1440,
+      60
+    ],
+    "created_response": {
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "bd6vvg8mn1ducgvi7bvbt9ehcg",
+      "summary": "NOVEL 運動攀登隊訓練 (10/20)",
+      "description": "<p>NOVEL 運動攀登隊訓練（星期六，共20節） 導師：潘sir, Molly, R, 邦</p><p>資料來源：NOVEL_Climbing_2026-27.ics\nICS UID: novel-climbing-2026-9@autocalendarentry\n由主日曆搬移；原 event ID: gbnq5fd62sfodgf9ugib2uldbs</p>",
+      "location": "北角衞理小學",
+      "start": "2027-01-23T09:00:00+08:00",
+      "end": "2027-01-23T11:00:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=YmQ2dnZnOG1uMWR1Y2d2aTdidmJ0OWVoY2cgbmVjY2wubWFpbEBt",
+      "color_id": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 1440
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          },
+          {
+            "method": "popup",
+            "minutes": 10080
+          }
+        ]
+      },
+      "visibility": null,
+      "transparency": null,
+      "hangout_link": null,
+      "conference_id": null,
+      "conference_status": null,
+      "conference_solution_type": null
+    },
+    "status": "migrated",
+    "verified_new_event": {
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "bd6vvg8mn1ducgvi7bvbt9ehcg",
+      "summary": "NOVEL 運動攀登隊訓練 (10/20)",
+      "status": "confirmed",
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "description": "NOVEL 運動攀登隊訓練（星期六，共20節） 導師：潘sir, Molly, R, 邦\n\n資料來源：NOVEL_Climbing_2026-27.ics ICS UID: novel-\nclimbing-2026-9@autocalendarentry 由主日曆搬移；原 event ID:\ngbnq5fd62sfodgf9ugib2uldbs\n\n",
+      "location": "北角衞理小學",
+      "color_id": null,
+      "event_label_id": null,
+      "start": "2027-01-23T09:00:00+08:00",
+      "end": "2027-01-23T11:00:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=YmQ2dnZnOG1uMWR1Y2d2aTdidmJ0OWVoY2cgbmVjY2wubWFpbEBt",
+      "hangout_link": null,
+      "event_type": "default",
+      "transparency": "opaque",
+      "visibility": null,
+      "attachments": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 1440
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          },
+          {
+            "method": "popup",
+            "minutes": 10080
+          }
+        ]
+      },
+      "recurrence": null,
+      "recurring_event_id": null,
+      "original_start_time": null,
+      "display_url": "https://www.google.com/calendar/event?eid=YmQ2dnZnOG1uMWR1Y2d2aTdidmJ0OWVoY2cgbmVjY2wubWFpbEBt",
+      "display_title": "NOVEL 運動攀登隊訓練 (10/20)"
+    }
+  },
+  {
+    "source": "NOVEL_Climbing_2026-27.ics",
+    "uid": "novel-climbing-2026-10@autocalendarentry",
+    "old_calendar": "netunewong@gmail.com",
+    "old_event_id": "igq9rsiei85vj1f63gdolhjdog",
+    "new_calendar": "neccl.mail@gmail.com",
+    "new_event_id": "4m9bsh99gmc432bted19r92qp4",
+    "title": "NOVEL 運動攀登隊訓練 (11/20)",
+    "start": "2027-02-20T09:00:00+08:00",
+    "end": "2027-02-20T11:00:00+08:00",
+    "location": "北角衞理小學",
+    "reminder_minutes": [
+      10080,
+      1440,
+      60
+    ],
+    "created_response": {
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "4m9bsh99gmc432bted19r92qp4",
+      "summary": "NOVEL 運動攀登隊訓練 (11/20)",
+      "description": "<p>NOVEL 運動攀登隊訓練（星期六，共20節） 導師：潘sir, Molly, R, 邦</p><p>資料來源：NOVEL_Climbing_2026-27.ics\nICS UID: novel-climbing-2026-10@autocalendarentry\n由主日曆搬移；原 event ID: igq9rsiei85vj1f63gdolhjdog</p>",
+      "location": "北角衞理小學",
+      "start": "2027-02-20T09:00:00+08:00",
+      "end": "2027-02-20T11:00:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=NG05YnNoOTlnbWM0MzJidGVkMTlyOTJxcDQgbmVjY2wubWFpbEBt",
+      "color_id": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 10080
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          }
+        ]
+      },
+      "visibility": null,
+      "transparency": null,
+      "hangout_link": null,
+      "conference_id": null,
+      "conference_status": null,
+      "conference_solution_type": null
+    },
+    "status": "migrated",
+    "verified_new_event": {
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "4m9bsh99gmc432bted19r92qp4",
+      "summary": "NOVEL 運動攀登隊訓練 (11/20)",
+      "status": "confirmed",
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "description": "NOVEL 運動攀登隊訓練（星期六，共20節） 導師：潘sir, Molly, R, 邦\n\n資料來源：NOVEL_Climbing_2026-27.ics ICS UID: novel-\nclimbing-2026-10@autocalendarentry 由主日曆搬移；原 event ID:\nigq9rsiei85vj1f63gdolhjdog\n\n",
+      "location": "北角衞理小學",
+      "color_id": null,
+      "event_label_id": null,
+      "start": "2027-02-20T09:00:00+08:00",
+      "end": "2027-02-20T11:00:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=NG05YnNoOTlnbWM0MzJidGVkMTlyOTJxcDQgbmVjY2wubWFpbEBt",
+      "hangout_link": null,
+      "event_type": "default",
+      "transparency": "opaque",
+      "visibility": null,
+      "attachments": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 10080
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          }
+        ]
+      },
+      "recurrence": null,
+      "recurring_event_id": null,
+      "original_start_time": null,
+      "display_url": "https://www.google.com/calendar/event?eid=NG05YnNoOTlnbWM0MzJidGVkMTlyOTJxcDQgbmVjY2wubWFpbEBt",
+      "display_title": "NOVEL 運動攀登隊訓練 (11/20)"
+    }
+  },
+  {
+    "source": "NOVEL_Climbing_2026-27.ics",
+    "uid": "novel-climbing-2026-11@autocalendarentry",
+    "old_calendar": "netunewong@gmail.com",
+    "old_event_id": "ki8fv13mpghau37p3h50iehu2g",
+    "new_calendar": "neccl.mail@gmail.com",
+    "new_event_id": "nv2jubi1hhdqgqn4kn27r081tg",
+    "title": "NOVEL 運動攀登隊訓練 (12/20)",
+    "start": "2027-02-27T09:00:00+08:00",
+    "end": "2027-02-27T11:00:00+08:00",
+    "location": "北角衞理小學",
+    "reminder_minutes": [
+      10080,
+      1440,
+      60
+    ],
+    "created_response": {
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "nv2jubi1hhdqgqn4kn27r081tg",
+      "summary": "NOVEL 運動攀登隊訓練 (12/20)",
+      "description": "<p>NOVEL 運動攀登隊訓練（星期六，共20節） 導師：潘sir, Molly, R, 邦</p><p>資料來源：NOVEL_Climbing_2026-27.ics\nICS UID: novel-climbing-2026-11@autocalendarentry\n由主日曆搬移；原 event ID: ki8fv13mpghau37p3h50iehu2g</p>",
+      "location": "北角衞理小學",
+      "start": "2027-02-27T09:00:00+08:00",
+      "end": "2027-02-27T11:00:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=bnYyanViaTFoaGRxZ3FuNGtuMjdyMDgxdGcgbmVjY2wubWFpbEBt",
+      "color_id": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 60
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          },
+          {
+            "method": "popup",
+            "minutes": 10080
+          }
+        ]
+      },
+      "visibility": null,
+      "transparency": null,
+      "hangout_link": null,
+      "conference_id": null,
+      "conference_status": null,
+      "conference_solution_type": null
+    },
+    "status": "migrated",
+    "verified_new_event": {
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "nv2jubi1hhdqgqn4kn27r081tg",
+      "summary": "NOVEL 運動攀登隊訓練 (12/20)",
+      "status": "confirmed",
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "description": "NOVEL 運動攀登隊訓練（星期六，共20節） 導師：潘sir, Molly, R, 邦\n\n資料來源：NOVEL_Climbing_2026-27.ics ICS UID: novel-\nclimbing-2026-11@autocalendarentry 由主日曆搬移；原 event ID:\nki8fv13mpghau37p3h50iehu2g\n\n",
+      "location": "北角衞理小學",
+      "color_id": null,
+      "event_label_id": null,
+      "start": "2027-02-27T09:00:00+08:00",
+      "end": "2027-02-27T11:00:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=bnYyanViaTFoaGRxZ3FuNGtuMjdyMDgxdGcgbmVjY2wubWFpbEBt",
+      "hangout_link": null,
+      "event_type": "default",
+      "transparency": "opaque",
+      "visibility": null,
+      "attachments": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 60
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          },
+          {
+            "method": "popup",
+            "minutes": 10080
+          }
+        ]
+      },
+      "recurrence": null,
+      "recurring_event_id": null,
+      "original_start_time": null,
+      "display_url": "https://www.google.com/calendar/event?eid=bnYyanViaTFoaGRxZ3FuNGtuMjdyMDgxdGcgbmVjY2wubWFpbEBt",
+      "display_title": "NOVEL 運動攀登隊訓練 (12/20)"
+    }
+  },
+  {
+    "source": "NOVEL_Climbing_2026-27.ics",
+    "uid": "novel-climbing-2026-12@autocalendarentry",
+    "old_calendar": "netunewong@gmail.com",
+    "old_event_id": "eufgakulfj51hulvuff8bculsk",
+    "new_calendar": "neccl.mail@gmail.com",
+    "new_event_id": "scd2q7slh0n8na13jprlau87to",
+    "title": "NOVEL 運動攀登隊訓練 (13/20)",
+    "start": "2027-03-13T09:00:00+08:00",
+    "end": "2027-03-13T11:00:00+08:00",
+    "location": "北角衞理小學",
+    "reminder_minutes": [
+      10080,
+      1440,
+      60
+    ],
+    "created_response": {
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "scd2q7slh0n8na13jprlau87to",
+      "summary": "NOVEL 運動攀登隊訓練 (13/20)",
+      "description": "<p>NOVEL 運動攀登隊訓練（星期六，共20節） 導師：潘sir, Molly, R, 邦</p><p>資料來源：NOVEL_Climbing_2026-27.ics\nICS UID: novel-climbing-2026-12@autocalendarentry\n由主日曆搬移；原 event ID: eufgakulfj51hulvuff8bculsk</p>",
+      "location": "北角衞理小學",
+      "start": "2027-03-13T09:00:00+08:00",
+      "end": "2027-03-13T11:00:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=c2NkMnE3c2xoMG44bmExM2pwcmxhdTg3dG8gbmVjY2wubWFpbEBt",
+      "color_id": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 10080
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          }
+        ]
+      },
+      "visibility": null,
+      "transparency": null,
+      "hangout_link": null,
+      "conference_id": null,
+      "conference_status": null,
+      "conference_solution_type": null
+    },
+    "status": "migrated",
+    "verified_new_event": {
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "scd2q7slh0n8na13jprlau87to",
+      "summary": "NOVEL 運動攀登隊訓練 (13/20)",
+      "status": "confirmed",
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "description": "NOVEL 運動攀登隊訓練（星期六，共20節） 導師：潘sir, Molly, R, 邦\n\n資料來源：NOVEL_Climbing_2026-27.ics ICS UID: novel-\nclimbing-2026-12@autocalendarentry 由主日曆搬移；原 event ID:\neufgakulfj51hulvuff8bculsk\n\n",
+      "location": "北角衞理小學",
+      "color_id": null,
+      "event_label_id": null,
+      "start": "2027-03-13T09:00:00+08:00",
+      "end": "2027-03-13T11:00:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=c2NkMnE3c2xoMG44bmExM2pwcmxhdTg3dG8gbmVjY2wubWFpbEBt",
+      "hangout_link": null,
+      "event_type": "default",
+      "transparency": "opaque",
+      "visibility": null,
+      "attachments": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 10080
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          }
+        ]
+      },
+      "recurrence": null,
+      "recurring_event_id": null,
+      "original_start_time": null,
+      "display_url": "https://www.google.com/calendar/event?eid=c2NkMnE3c2xoMG44bmExM2pwcmxhdTg3dG8gbmVjY2wubWFpbEBt",
+      "display_title": "NOVEL 運動攀登隊訓練 (13/20)"
+    }
+  },
+  {
+    "source": "NOVEL_Climbing_2026-27.ics",
+    "uid": "novel-climbing-2026-13@autocalendarentry",
+    "old_calendar": "netunewong@gmail.com",
+    "old_event_id": "vaqr3uhuh4flmrvfttv235b8t8",
+    "new_calendar": "neccl.mail@gmail.com",
+    "new_event_id": "pogrent2q9rm9qjd6t2j20qdms",
+    "title": "NOVEL 運動攀登隊訓練 (14/20)",
+    "start": "2027-03-20T09:00:00+08:00",
+    "end": "2027-03-20T11:00:00+08:00",
+    "location": "北角衞理小學",
+    "reminder_minutes": [
+      10080,
+      1440,
+      60
+    ],
+    "created_response": {
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "pogrent2q9rm9qjd6t2j20qdms",
+      "summary": "NOVEL 運動攀登隊訓練 (14/20)",
+      "description": "<p>NOVEL 運動攀登隊訓練（星期六，共20節） 導師：潘sir, Molly, R, 邦</p><p>資料來源：NOVEL_Climbing_2026-27.ics\nICS UID: novel-climbing-2026-13@autocalendarentry\n由主日曆搬移；原 event ID: vaqr3uhuh4flmrvfttv235b8t8</p>",
+      "location": "北角衞理小學",
+      "start": "2027-03-20T09:00:00+08:00",
+      "end": "2027-03-20T11:00:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=cG9ncmVudDJxOXJtOXFqZDZ0MmoyMHFkbXMgbmVjY2wubWFpbEBt",
+      "color_id": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 10080
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          }
+        ]
+      },
+      "visibility": null,
+      "transparency": null,
+      "hangout_link": null,
+      "conference_id": null,
+      "conference_status": null,
+      "conference_solution_type": null
+    },
+    "status": "migrated",
+    "verified_new_event": {
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "pogrent2q9rm9qjd6t2j20qdms",
+      "summary": "NOVEL 運動攀登隊訓練 (14/20)",
+      "status": "confirmed",
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "description": "NOVEL 運動攀登隊訓練（星期六，共20節） 導師：潘sir, Molly, R, 邦\n\n資料來源：NOVEL_Climbing_2026-27.ics ICS UID: novel-\nclimbing-2026-13@autocalendarentry 由主日曆搬移；原 event ID:\nvaqr3uhuh4flmrvfttv235b8t8\n\n",
+      "location": "北角衞理小學",
+      "color_id": null,
+      "event_label_id": null,
+      "start": "2027-03-20T09:00:00+08:00",
+      "end": "2027-03-20T11:00:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=cG9ncmVudDJxOXJtOXFqZDZ0MmoyMHFkbXMgbmVjY2wubWFpbEBt",
+      "hangout_link": null,
+      "event_type": "default",
+      "transparency": "opaque",
+      "visibility": null,
+      "attachments": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 10080
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          }
+        ]
+      },
+      "recurrence": null,
+      "recurring_event_id": null,
+      "original_start_time": null,
+      "display_url": "https://www.google.com/calendar/event?eid=cG9ncmVudDJxOXJtOXFqZDZ0MmoyMHFkbXMgbmVjY2wubWFpbEBt",
+      "display_title": "NOVEL 運動攀登隊訓練 (14/20)"
+    }
+  },
+  {
+    "source": "NOVEL_Climbing_2026-27.ics",
+    "uid": "novel-climbing-2026-14@autocalendarentry",
+    "old_calendar": "netunewong@gmail.com",
+    "old_event_id": "14bksu78tsm410kofv0lsnvctg",
+    "new_calendar": "neccl.mail@gmail.com",
+    "new_event_id": "1pgmr74too5agsplgi1s5kdets",
+    "title": "NOVEL 運動攀登隊訓練 (15/20)",
+    "start": "2027-04-10T09:00:00+08:00",
+    "end": "2027-04-10T11:00:00+08:00",
+    "location": "北角衞理小學",
+    "reminder_minutes": [
+      10080,
+      1440,
+      60
+    ],
+    "created_response": {
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "1pgmr74too5agsplgi1s5kdets",
+      "summary": "NOVEL 運動攀登隊訓練 (15/20)",
+      "description": "<p>NOVEL 運動攀登隊訓練（星期六，共20節） 導師：潘sir, Molly, R, 邦</p><p>資料來源：NOVEL_Climbing_2026-27.ics\nICS UID: novel-climbing-2026-14@autocalendarentry\n由主日曆搬移；原 event ID: 14bksu78tsm410kofv0lsnvctg</p>",
+      "location": "北角衞理小學",
+      "start": "2027-04-10T09:00:00+08:00",
+      "end": "2027-04-10T11:00:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=MXBnbXI3NHRvbzVhZ3NwbGdpMXM1a2RldHMgbmVjY2wubWFpbEBt",
+      "color_id": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 10080
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          }
+        ]
+      },
+      "visibility": null,
+      "transparency": null,
+      "hangout_link": null,
+      "conference_id": null,
+      "conference_status": null,
+      "conference_solution_type": null
+    },
+    "status": "migrated",
+    "verified_new_event": {
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "1pgmr74too5agsplgi1s5kdets",
+      "summary": "NOVEL 運動攀登隊訓練 (15/20)",
+      "status": "confirmed",
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "description": "NOVEL 運動攀登隊訓練（星期六，共20節） 導師：潘sir, Molly, R, 邦\n\n資料來源：NOVEL_Climbing_2026-27.ics ICS UID: novel-\nclimbing-2026-14@autocalendarentry 由主日曆搬移；原 event ID:\n14bksu78tsm410kofv0lsnvctg\n\n",
+      "location": "北角衞理小學",
+      "color_id": null,
+      "event_label_id": null,
+      "start": "2027-04-10T09:00:00+08:00",
+      "end": "2027-04-10T11:00:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=MXBnbXI3NHRvbzVhZ3NwbGdpMXM1a2RldHMgbmVjY2wubWFpbEBt",
+      "hangout_link": null,
+      "event_type": "default",
+      "transparency": "opaque",
+      "visibility": null,
+      "attachments": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 10080
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          }
+        ]
+      },
+      "recurrence": null,
+      "recurring_event_id": null,
+      "original_start_time": null,
+      "display_url": "https://www.google.com/calendar/event?eid=MXBnbXI3NHRvbzVhZ3NwbGdpMXM1a2RldHMgbmVjY2wubWFpbEBt",
+      "display_title": "NOVEL 運動攀登隊訓練 (15/20)"
+    }
+  },
+  {
+    "source": "NOVEL_Climbing_2026-27.ics",
+    "uid": "novel-climbing-2026-15@autocalendarentry",
+    "old_calendar": "netunewong@gmail.com",
+    "old_event_id": "3ohlm3ki7ea2jvum4oardebucc",
+    "new_calendar": "neccl.mail@gmail.com",
+    "new_event_id": "8li9navn8d1lilet0vc560unms",
+    "title": "NOVEL 運動攀登隊訓練 (16/20)",
+    "start": "2027-04-17T09:00:00+08:00",
+    "end": "2027-04-17T11:00:00+08:00",
+    "location": "北角衞理小學",
+    "reminder_minutes": [
+      10080,
+      1440,
+      60
+    ],
+    "created_response": {
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "8li9navn8d1lilet0vc560unms",
+      "summary": "NOVEL 運動攀登隊訓練 (16/20)",
+      "description": "<p>NOVEL 運動攀登隊訓練（星期六，共20節） 導師：潘sir, Molly, R, 邦</p><p>資料來源：NOVEL_Climbing_2026-27.ics\nICS UID: novel-climbing-2026-15@autocalendarentry\n由主日曆搬移；原 event ID: 3ohlm3ki7ea2jvum4oardebucc</p>",
+      "location": "北角衞理小學",
+      "start": "2027-04-17T09:00:00+08:00",
+      "end": "2027-04-17T11:00:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=OGxpOW5hdm44ZDFsaWxldDB2YzU2MHVubXMgbmVjY2wubWFpbEBt",
+      "color_id": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 1440
+          },
+          {
+            "method": "popup",
+            "minutes": 10080
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          }
+        ]
+      },
+      "visibility": null,
+      "transparency": null,
+      "hangout_link": null,
+      "conference_id": null,
+      "conference_status": null,
+      "conference_solution_type": null
+    },
+    "status": "migrated",
+    "verified_new_event": {
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "8li9navn8d1lilet0vc560unms",
+      "summary": "NOVEL 運動攀登隊訓練 (16/20)",
+      "status": "confirmed",
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "description": "NOVEL 運動攀登隊訓練（星期六，共20節） 導師：潘sir, Molly, R, 邦\n\n資料來源：NOVEL_Climbing_2026-27.ics ICS UID: novel-\nclimbing-2026-15@autocalendarentry 由主日曆搬移；原 event ID:\n3ohlm3ki7ea2jvum4oardebucc\n\n",
+      "location": "北角衞理小學",
+      "color_id": null,
+      "event_label_id": null,
+      "start": "2027-04-17T09:00:00+08:00",
+      "end": "2027-04-17T11:00:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=OGxpOW5hdm44ZDFsaWxldDB2YzU2MHVubXMgbmVjY2wubWFpbEBt",
+      "hangout_link": null,
+      "event_type": "default",
+      "transparency": "opaque",
+      "visibility": null,
+      "attachments": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 1440
+          },
+          {
+            "method": "popup",
+            "minutes": 10080
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          }
+        ]
+      },
+      "recurrence": null,
+      "recurring_event_id": null,
+      "original_start_time": null,
+      "display_url": "https://www.google.com/calendar/event?eid=OGxpOW5hdm44ZDFsaWxldDB2YzU2MHVubXMgbmVjY2wubWFpbEBt",
+      "display_title": "NOVEL 運動攀登隊訓練 (16/20)"
+    }
+  },
+  {
+    "source": "NOVEL_Climbing_2026-27.ics",
+    "uid": "novel-climbing-2026-16@autocalendarentry",
+    "old_calendar": "netunewong@gmail.com",
+    "old_event_id": "v1g3vobjm716jgqfj19j1ktnpc",
+    "new_calendar": "neccl.mail@gmail.com",
+    "new_event_id": "ma8qllfnrha205u4i07mresolg",
+    "title": "NOVEL 運動攀登隊訓練 (17/20)",
+    "start": "2027-05-08T09:00:00+08:00",
+    "end": "2027-05-08T11:00:00+08:00",
+    "location": "北角衞理小學",
+    "reminder_minutes": [
+      10080,
+      1440,
+      60
+    ],
+    "created_response": {
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "ma8qllfnrha205u4i07mresolg",
+      "summary": "NOVEL 運動攀登隊訓練 (17/20)",
+      "description": "<p>NOVEL 運動攀登隊訓練（星期六，共20節） 導師：潘sir, Molly, R, 邦</p><p>資料來源：NOVEL_Climbing_2026-27.ics\nICS UID: novel-climbing-2026-16@autocalendarentry\n由主日曆搬移；原 event ID: v1g3vobjm716jgqfj19j1ktnpc</p>",
+      "location": "北角衞理小學",
+      "start": "2027-05-08T09:00:00+08:00",
+      "end": "2027-05-08T11:00:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=bWE4cWxsZm5yaGEyMDV1NGkwN21yZXNvbGcgbmVjY2wubWFpbEBt",
+      "color_id": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 10080
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          }
+        ]
+      },
+      "visibility": null,
+      "transparency": null,
+      "hangout_link": null,
+      "conference_id": null,
+      "conference_status": null,
+      "conference_solution_type": null
+    },
+    "status": "migrated",
+    "verified_new_event": {
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "ma8qllfnrha205u4i07mresolg",
+      "summary": "NOVEL 運動攀登隊訓練 (17/20)",
+      "status": "confirmed",
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "description": "NOVEL 運動攀登隊訓練（星期六，共20節） 導師：潘sir, Molly, R, 邦\n\n資料來源：NOVEL_Climbing_2026-27.ics ICS UID: novel-\nclimbing-2026-16@autocalendarentry 由主日曆搬移；原 event ID:\nv1g3vobjm716jgqfj19j1ktnpc\n\n",
+      "location": "北角衞理小學",
+      "color_id": null,
+      "event_label_id": null,
+      "start": "2027-05-08T09:00:00+08:00",
+      "end": "2027-05-08T11:00:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=bWE4cWxsZm5yaGEyMDV1NGkwN21yZXNvbGcgbmVjY2wubWFpbEBt",
+      "hangout_link": null,
+      "event_type": "default",
+      "transparency": "opaque",
+      "visibility": null,
+      "attachments": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 10080
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          }
+        ]
+      },
+      "recurrence": null,
+      "recurring_event_id": null,
+      "original_start_time": null,
+      "display_url": "https://www.google.com/calendar/event?eid=bWE4cWxsZm5yaGEyMDV1NGkwN21yZXNvbGcgbmVjY2wubWFpbEBt",
+      "display_title": "NOVEL 運動攀登隊訓練 (17/20)"
+    }
+  },
+  {
+    "source": "NOVEL_Climbing_2026-27.ics",
+    "uid": "novel-climbing-2026-17@autocalendarentry",
+    "old_calendar": "netunewong@gmail.com",
+    "old_event_id": "j1nr255c2uno2nfg549frkdjb8",
+    "new_calendar": "neccl.mail@gmail.com",
+    "new_event_id": "38kfbuv27p6pnj6cqjogqub01c",
+    "title": "NOVEL 運動攀登隊訓練 (18/20)",
+    "start": "2027-05-15T09:00:00+08:00",
+    "end": "2027-05-15T11:00:00+08:00",
+    "location": "北角衞理小學",
+    "reminder_minutes": [
+      10080,
+      1440,
+      60
+    ],
+    "created_response": {
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "38kfbuv27p6pnj6cqjogqub01c",
+      "summary": "NOVEL 運動攀登隊訓練 (18/20)",
+      "description": "<p>NOVEL 運動攀登隊訓練（星期六，共20節） 導師：潘sir, Molly, R, 邦</p><p>資料來源：NOVEL_Climbing_2026-27.ics\nICS UID: novel-climbing-2026-17@autocalendarentry\n由主日曆搬移；原 event ID: j1nr255c2uno2nfg549frkdjb8</p>",
+      "location": "北角衞理小學",
+      "start": "2027-05-15T09:00:00+08:00",
+      "end": "2027-05-15T11:00:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=MzhrZmJ1djI3cDZwbmo2Y3Fqb2dxdWIwMWMgbmVjY2wubWFpbEBt",
+      "color_id": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 10080
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          }
+        ]
+      },
+      "visibility": null,
+      "transparency": null,
+      "hangout_link": null,
+      "conference_id": null,
+      "conference_status": null,
+      "conference_solution_type": null
+    },
+    "status": "migrated",
+    "verified_new_event": {
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "38kfbuv27p6pnj6cqjogqub01c",
+      "summary": "NOVEL 運動攀登隊訓練 (18/20)",
+      "status": "confirmed",
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "description": "NOVEL 運動攀登隊訓練（星期六，共20節） 導師：潘sir, Molly, R, 邦\n\n資料來源：NOVEL_Climbing_2026-27.ics ICS UID: novel-\nclimbing-2026-17@autocalendarentry 由主日曆搬移；原 event ID:\nj1nr255c2uno2nfg549frkdjb8\n\n",
+      "location": "北角衞理小學",
+      "color_id": null,
+      "event_label_id": null,
+      "start": "2027-05-15T09:00:00+08:00",
+      "end": "2027-05-15T11:00:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=MzhrZmJ1djI3cDZwbmo2Y3Fqb2dxdWIwMWMgbmVjY2wubWFpbEBt",
+      "hangout_link": null,
+      "event_type": "default",
+      "transparency": "opaque",
+      "visibility": null,
+      "attachments": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 10080
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          }
+        ]
+      },
+      "recurrence": null,
+      "recurring_event_id": null,
+      "original_start_time": null,
+      "display_url": "https://www.google.com/calendar/event?eid=MzhrZmJ1djI3cDZwbmo2Y3Fqb2dxdWIwMWMgbmVjY2wubWFpbEBt",
+      "display_title": "NOVEL 運動攀登隊訓練 (18/20)"
+    }
+  },
+  {
+    "source": "NOVEL_Climbing_2026-27.ics",
+    "uid": "novel-climbing-2026-18@autocalendarentry",
+    "old_calendar": "netunewong@gmail.com",
+    "old_event_id": "2knh4sibe033r57c5sk0q7ks58",
+    "new_calendar": "neccl.mail@gmail.com",
+    "new_event_id": "piih9p9o9b5oog4etbmhoipi60",
+    "title": "NOVEL 運動攀登隊訓練 (19/20)",
+    "start": "2027-05-22T09:00:00+08:00",
+    "end": "2027-05-22T11:00:00+08:00",
+    "location": "北角衞理小學",
+    "reminder_minutes": [
+      10080,
+      1440,
+      60
+    ],
+    "created_response": {
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "piih9p9o9b5oog4etbmhoipi60",
+      "summary": "NOVEL 運動攀登隊訓練 (19/20)",
+      "description": "<p>NOVEL 運動攀登隊訓練（星期六，共20節） 導師：潘sir, Molly, R, 邦</p><p>資料來源：NOVEL_Climbing_2026-27.ics\nICS UID: novel-climbing-2026-18@autocalendarentry\n由主日曆搬移；原 event ID: 2knh4sibe033r57c5sk0q7ks58</p>",
+      "location": "北角衞理小學",
+      "start": "2027-05-22T09:00:00+08:00",
+      "end": "2027-05-22T11:00:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=cGlpaDlwOW85YjVvb2c0ZXRibWhvaXBpNjAgbmVjY2wubWFpbEBt",
+      "color_id": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 10080
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          }
+        ]
+      },
+      "visibility": null,
+      "transparency": null,
+      "hangout_link": null,
+      "conference_id": null,
+      "conference_status": null,
+      "conference_solution_type": null
+    },
+    "status": "migrated",
+    "verified_new_event": {
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "piih9p9o9b5oog4etbmhoipi60",
+      "summary": "NOVEL 運動攀登隊訓練 (19/20)",
+      "status": "confirmed",
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "description": "NOVEL 運動攀登隊訓練（星期六，共20節） 導師：潘sir, Molly, R, 邦\n\n資料來源：NOVEL_Climbing_2026-27.ics ICS UID: novel-\nclimbing-2026-18@autocalendarentry 由主日曆搬移；原 event ID:\n2knh4sibe033r57c5sk0q7ks58\n\n",
+      "location": "北角衞理小學",
+      "color_id": null,
+      "event_label_id": null,
+      "start": "2027-05-22T09:00:00+08:00",
+      "end": "2027-05-22T11:00:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=cGlpaDlwOW85YjVvb2c0ZXRibWhvaXBpNjAgbmVjY2wubWFpbEBt",
+      "hangout_link": null,
+      "event_type": "default",
+      "transparency": "opaque",
+      "visibility": null,
+      "attachments": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 10080
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          }
+        ]
+      },
+      "recurrence": null,
+      "recurring_event_id": null,
+      "original_start_time": null,
+      "display_url": "https://www.google.com/calendar/event?eid=cGlpaDlwOW85YjVvb2c0ZXRibWhvaXBpNjAgbmVjY2wubWFpbEBt",
+      "display_title": "NOVEL 運動攀登隊訓練 (19/20)"
+    }
+  },
+  {
+    "source": "NOVEL_Climbing_2026-27.ics",
+    "uid": "novel-climbing-2026-19@autocalendarentry",
+    "old_calendar": "netunewong@gmail.com",
+    "old_event_id": "go9rnskjgfgv043d0d1a68j15k",
+    "new_calendar": "neccl.mail@gmail.com",
+    "new_event_id": "lih15s8avvg2bplgkgn322gkjo",
+    "title": "NOVEL 運動攀登隊訓練 (20/20)",
+    "start": "2027-05-29T09:00:00+08:00",
+    "end": "2027-05-29T11:00:00+08:00",
+    "location": "北角衞理小學",
+    "reminder_minutes": [
+      10080,
+      1440,
+      60
+    ],
+    "created_response": {
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "lih15s8avvg2bplgkgn322gkjo",
+      "summary": "NOVEL 運動攀登隊訓練 (20/20)",
+      "description": "<p>NOVEL 運動攀登隊訓練（星期六，共20節） 導師：潘sir, Molly, R, 邦</p><p>資料來源：NOVEL_Climbing_2026-27.ics\nICS UID: novel-climbing-2026-19@autocalendarentry\n由主日曆搬移；原 event ID: go9rnskjgfgv043d0d1a68j15k</p>",
+      "location": "北角衞理小學",
+      "start": "2027-05-29T09:00:00+08:00",
+      "end": "2027-05-29T11:00:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=bGloMTVzOGF2dmcyYnBsZ2tnbjMyMmdram8gbmVjY2wubWFpbEBt",
+      "color_id": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 60
+          },
+          {
+            "method": "popup",
+            "minutes": 10080
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          }
+        ]
+      },
+      "visibility": null,
+      "transparency": null,
+      "hangout_link": null,
+      "conference_id": null,
+      "conference_status": null,
+      "conference_solution_type": null
+    },
+    "status": "migrated",
+    "verified_new_event": {
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "lih15s8avvg2bplgkgn322gkjo",
+      "summary": "NOVEL 運動攀登隊訓練 (20/20)",
+      "status": "confirmed",
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "description": "NOVEL 運動攀登隊訓練（星期六，共20節） 導師：潘sir, Molly, R, 邦\n\n資料來源：NOVEL_Climbing_2026-27.ics ICS UID: novel-\nclimbing-2026-19@autocalendarentry 由主日曆搬移；原 event ID:\ngo9rnskjgfgv043d0d1a68j15k\n\n",
+      "location": "北角衞理小學",
+      "color_id": null,
+      "event_label_id": null,
+      "start": "2027-05-29T09:00:00+08:00",
+      "end": "2027-05-29T11:00:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=bGloMTVzOGF2dmcyYnBsZ2tnbjMyMmdram8gbmVjY2wubWFpbEBt",
+      "hangout_link": null,
+      "event_type": "default",
+      "transparency": "opaque",
+      "visibility": null,
+      "attachments": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 60
+          },
+          {
+            "method": "popup",
+            "minutes": 10080
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          }
+        ]
+      },
+      "recurrence": null,
+      "recurring_event_id": null,
+      "original_start_time": null,
+      "display_url": "https://www.google.com/calendar/event?eid=bGloMTVzOGF2dmcyYnBsZ2tnbjMyMmdram8gbmVjY2wubWFpbEBt",
+      "display_title": "NOVEL 運動攀登隊訓練 (20/20)"
+    }
+  },
+  {
+    "source": "NOVEL_KaiWan_Climbing_2026-27.ics",
+    "uid": "novel-kaiwan-climbing-2026-0@autocalendarentry",
+    "old_calendar": "netunewong@gmail.com",
+    "old_event_id": "coovndutaosnlbdbfamuk4mskk",
+    "new_calendar": "neccl.mail@gmail.com",
+    "new_event_id": "s7ghra8c6unfbnuga98440tu28",
+    "title": "NOVEL 基灣小學攀石隊訓練 (1/13)",
+    "start": "2026-09-22T15:00:00+08:00",
+    "end": "2026-09-22T16:30:00+08:00",
+    "location": "中華基督教會基灣小學（愛蝶灣）",
+    "reminder_minutes": [
+      10080,
+      2880,
+      1440,
+      60
+    ],
+    "created_response": {
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "s7ghra8c6unfbnuga98440tu28",
+      "summary": "NOVEL 基灣小學攀石隊訓練 (1/13)",
+      "description": "<p>NOVEL – CCC基灣小學（愛蝶灣）攀石隊訓練（星期二，共13節） 導師：King, Sue, Him</p><p>資料來源：NOVEL_KaiWan_Climbing_2026-27.ics\nICS UID: novel-kaiwan-climbing-2026-0@autocalendarentry\n由主日曆搬移；原 event ID: coovndutaosnlbdbfamuk4mskk</p>",
+      "location": "中華基督教會基灣小學（愛蝶灣）",
+      "start": "2026-09-22T15:00:00+08:00",
+      "end": "2026-09-22T16:30:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=czdnaHJhOGM2dW5mYm51Z2E5ODQ0MHR1MjggbmVjY2wubWFpbEBt",
+      "color_id": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 10080
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          },
+          {
+            "method": "popup",
+            "minutes": 2880
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          }
+        ]
+      },
+      "visibility": null,
+      "transparency": null,
+      "hangout_link": null,
+      "conference_id": null,
+      "conference_status": null,
+      "conference_solution_type": null
+    },
+    "status": "migrated",
+    "verified_new_event": {
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "s7ghra8c6unfbnuga98440tu28",
+      "summary": "NOVEL 基灣小學攀石隊訓練 (1/13)",
+      "status": "confirmed",
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "description": "NOVEL – CCC基灣小學（愛蝶灣）攀石隊訓練（星期二，共13節） 導師：King, Sue, Him\n\n資料來源：NOVEL_KaiWan_Climbing_2026-27.ics ICS UID: novel-kaiwan-\nclimbing-2026-0@autocalendarentry 由主日曆搬移；原 event ID:\ncoovndutaosnlbdbfamuk4mskk\n\n",
+      "location": "中華基督教會基灣小學（愛蝶灣）",
+      "color_id": null,
+      "event_label_id": null,
+      "start": "2026-09-22T15:00:00+08:00",
+      "end": "2026-09-22T16:30:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=czdnaHJhOGM2dW5mYm51Z2E5ODQ0MHR1MjggbmVjY2wubWFpbEBt",
+      "hangout_link": null,
+      "event_type": "default",
+      "transparency": "opaque",
+      "visibility": null,
+      "attachments": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 10080
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          },
+          {
+            "method": "popup",
+            "minutes": 2880
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          }
+        ]
+      },
+      "recurrence": null,
+      "recurring_event_id": null,
+      "original_start_time": null,
+      "display_url": "https://www.google.com/calendar/event?eid=czdnaHJhOGM2dW5mYm51Z2E5ODQ0MHR1MjggbmVjY2wubWFpbEBt",
+      "display_title": "NOVEL 基灣小學攀石隊訓練 (1/13)"
+    }
+  },
+  {
+    "source": "NOVEL_KaiWan_Climbing_2026-27.ics",
+    "uid": "novel-kaiwan-climbing-2026-1@autocalendarentry",
+    "old_calendar": "netunewong@gmail.com",
+    "old_event_id": "f5qrieavkgn05fb1etpguelv9s",
+    "new_calendar": "neccl.mail@gmail.com",
+    "new_event_id": "1fm2vp2gbd2vmeum40am576tcg",
+    "title": "NOVEL 基灣小學攀石隊 – 外出鯉魚門體育館攀石牆 (2/13)",
+    "start": "2026-09-29T15:00:00+08:00",
+    "end": "2026-09-29T16:30:00+08:00",
+    "location": "鯉魚門體育館",
+    "reminder_minutes": [
+      10080,
+      2880,
+      1440,
+      60
+    ],
+    "created_response": {
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "1fm2vp2gbd2vmeum40am576tcg",
+      "summary": "NOVEL 基灣小學攀石隊 – 外出鯉魚門體育館攀石牆 (2/13)",
+      "description": "<p>NOVEL – CCC基灣小學（愛蝶灣）攀石隊訓練（星期二，共13節） 本月最後一節：外出鯉魚門體育館攀石牆（需預先 book 場） 導師：King,\nSue, Him</p><p>資料來源：NOVEL_KaiWan_Climbing_2026-27.ics\nICS UID: novel-kaiwan-climbing-2026-1@autocalendarentry\n由主日曆搬移；原 event ID: f5qrieavkgn05fb1etpguelv9s</p>",
+      "location": "鯉魚門體育館",
+      "start": "2026-09-29T15:00:00+08:00",
+      "end": "2026-09-29T16:30:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=MWZtMnZwMmdiZDJ2bWV1bTQwYW01NzZ0Y2cgbmVjY2wubWFpbEBt",
+      "color_id": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 60
+          },
+          {
+            "method": "popup",
+            "minutes": 2880
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          },
+          {
+            "method": "popup",
+            "minutes": 10080
+          }
+        ]
+      },
+      "visibility": null,
+      "transparency": null,
+      "hangout_link": null,
+      "conference_id": null,
+      "conference_status": null,
+      "conference_solution_type": null
+    },
+    "status": "migrated",
+    "verified_new_event": {
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "1fm2vp2gbd2vmeum40am576tcg",
+      "summary": "NOVEL 基灣小學攀石隊 – 外出鯉魚門體育館攀石牆 (2/13)",
+      "status": "confirmed",
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "description": "NOVEL – CCC基灣小學（愛蝶灣）攀石隊訓練（星期二，共13節） 本月最後一節：外出鯉魚門體育館攀石牆（需預先 book 場） 導師：King,\nSue, Him\n\n資料來源：NOVEL_KaiWan_Climbing_2026-27.ics ICS UID: novel-kaiwan-\nclimbing-2026-1@autocalendarentry 由主日曆搬移；原 event ID:\nf5qrieavkgn05fb1etpguelv9s\n\n",
+      "location": "鯉魚門體育館",
+      "color_id": null,
+      "event_label_id": null,
+      "start": "2026-09-29T15:00:00+08:00",
+      "end": "2026-09-29T16:30:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=MWZtMnZwMmdiZDJ2bWV1bTQwYW01NzZ0Y2cgbmVjY2wubWFpbEBt",
+      "hangout_link": null,
+      "event_type": "default",
+      "transparency": "opaque",
+      "visibility": null,
+      "attachments": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 60
+          },
+          {
+            "method": "popup",
+            "minutes": 2880
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          },
+          {
+            "method": "popup",
+            "minutes": 10080
+          }
+        ]
+      },
+      "recurrence": null,
+      "recurring_event_id": null,
+      "original_start_time": null,
+      "display_url": "https://www.google.com/calendar/event?eid=MWZtMnZwMmdiZDJ2bWV1bTQwYW01NzZ0Y2cgbmVjY2wubWFpbEBt",
+      "display_title": "NOVEL 基灣小學攀石隊 – 外出鯉魚門體育館攀石牆 (2/13)"
+    }
+  },
+  {
+    "source": "NOVEL_KaiWan_Climbing_2026-27.ics",
+    "uid": "novel-kaiwan-climbing-2026-2@autocalendarentry",
+    "old_calendar": "netunewong@gmail.com",
+    "old_event_id": "ginvml003b4undd18ekn92vhmg",
+    "new_calendar": "neccl.mail@gmail.com",
+    "new_event_id": "231ivlfar2ev99bdegnji6b3ss",
+    "title": "NOVEL 基灣小學攀石隊訓練 (3/13)",
+    "start": "2026-10-06T15:00:00+08:00",
+    "end": "2026-10-06T16:30:00+08:00",
+    "location": "中華基督教會基灣小學（愛蝶灣）",
+    "reminder_minutes": [
+      10080,
+      2880,
+      1440,
+      60
+    ],
+    "created_response": {
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "231ivlfar2ev99bdegnji6b3ss",
+      "summary": "NOVEL 基灣小學攀石隊訓練 (3/13)",
+      "description": "<p>NOVEL – CCC基灣小學（愛蝶灣）攀石隊訓練（星期二，共13節） 導師：King, Sue, Him</p><p>資料來源：NOVEL_KaiWan_Climbing_2026-27.ics\nICS UID: novel-kaiwan-climbing-2026-2@autocalendarentry\n由主日曆搬移；原 event ID: ginvml003b4undd18ekn92vhmg</p>",
+      "location": "中華基督教會基灣小學（愛蝶灣）",
+      "start": "2026-10-06T15:00:00+08:00",
+      "end": "2026-10-06T16:30:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=MjMxaXZsZmFyMmV2OTliZGVnbmppNmIzc3MgbmVjY2wubWFpbEBt",
+      "color_id": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 1440
+          },
+          {
+            "method": "popup",
+            "minutes": 2880
+          },
+          {
+            "method": "popup",
+            "minutes": 10080
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          }
+        ]
+      },
+      "visibility": null,
+      "transparency": null,
+      "hangout_link": null,
+      "conference_id": null,
+      "conference_status": null,
+      "conference_solution_type": null
+    },
+    "status": "migrated",
+    "verified_new_event": {
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "231ivlfar2ev99bdegnji6b3ss",
+      "summary": "NOVEL 基灣小學攀石隊訓練 (3/13)",
+      "status": "confirmed",
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "description": "NOVEL – CCC基灣小學（愛蝶灣）攀石隊訓練（星期二，共13節） 導師：King, Sue, Him\n\n資料來源：NOVEL_KaiWan_Climbing_2026-27.ics ICS UID: novel-kaiwan-\nclimbing-2026-2@autocalendarentry 由主日曆搬移；原 event ID:\nginvml003b4undd18ekn92vhmg\n\n",
+      "location": "中華基督教會基灣小學（愛蝶灣）",
+      "color_id": null,
+      "event_label_id": null,
+      "start": "2026-10-06T15:00:00+08:00",
+      "end": "2026-10-06T16:30:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=MjMxaXZsZmFyMmV2OTliZGVnbmppNmIzc3MgbmVjY2wubWFpbEBt",
+      "hangout_link": null,
+      "event_type": "default",
+      "transparency": "opaque",
+      "visibility": null,
+      "attachments": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 1440
+          },
+          {
+            "method": "popup",
+            "minutes": 2880
+          },
+          {
+            "method": "popup",
+            "minutes": 10080
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          }
+        ]
+      },
+      "recurrence": null,
+      "recurring_event_id": null,
+      "original_start_time": null,
+      "display_url": "https://www.google.com/calendar/event?eid=MjMxaXZsZmFyMmV2OTliZGVnbmppNmIzc3MgbmVjY2wubWFpbEBt",
+      "display_title": "NOVEL 基灣小學攀石隊訓練 (3/13)"
+    }
+  },
+  {
+    "source": "NOVEL_KaiWan_Climbing_2026-27.ics",
+    "uid": "novel-kaiwan-climbing-2026-3@autocalendarentry",
+    "old_calendar": "netunewong@gmail.com",
+    "old_event_id": "3cpt7mbln0nivvqqvgh1colih0",
+    "new_calendar": "neccl.mail@gmail.com",
+    "new_event_id": "qde0prr2dfdumec1rfv52rcdo8",
+    "title": "NOVEL 基灣小學攀石隊 – 外出鯉魚門體育館攀石牆 (4/13)",
+    "start": "2026-10-27T15:00:00+08:00",
+    "end": "2026-10-27T16:30:00+08:00",
+    "location": "鯉魚門體育館",
+    "reminder_minutes": [
+      10080,
+      2880,
+      1440,
+      60
+    ],
+    "created_response": {
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "qde0prr2dfdumec1rfv52rcdo8",
+      "summary": "NOVEL 基灣小學攀石隊 – 外出鯉魚門體育館攀石牆 (4/13)",
+      "description": "<p>NOVEL – CCC基灣小學（愛蝶灣）攀石隊訓練（星期二，共13節） 本月最後一節：外出鯉魚門體育館攀石牆（需預先 book 場） 導師：King,\nSue, Him</p><p>資料來源：NOVEL_KaiWan_Climbing_2026-27.ics\nICS UID: novel-kaiwan-climbing-2026-3@autocalendarentry\n由主日曆搬移；原 event ID: 3cpt7mbln0nivvqqvgh1colih0</p>",
+      "location": "鯉魚門體育館",
+      "start": "2026-10-27T15:00:00+08:00",
+      "end": "2026-10-27T16:30:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=cWRlMHBycjJkZmR1bWVjMXJmdjUycmNkbzggbmVjY2wubWFpbEBt",
+      "color_id": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 2880
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          },
+          {
+            "method": "popup",
+            "minutes": 10080
+          }
+        ]
+      },
+      "visibility": null,
+      "transparency": null,
+      "hangout_link": null,
+      "conference_id": null,
+      "conference_status": null,
+      "conference_solution_type": null
+    },
+    "status": "migrated",
+    "verified_new_event": {
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "qde0prr2dfdumec1rfv52rcdo8",
+      "summary": "NOVEL 基灣小學攀石隊 – 外出鯉魚門體育館攀石牆 (4/13)",
+      "status": "confirmed",
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "description": "NOVEL – CCC基灣小學（愛蝶灣）攀石隊訓練（星期二，共13節） 本月最後一節：外出鯉魚門體育館攀石牆（需預先 book 場） 導師：King,\nSue, Him\n\n資料來源：NOVEL_KaiWan_Climbing_2026-27.ics ICS UID: novel-kaiwan-\nclimbing-2026-3@autocalendarentry 由主日曆搬移；原 event ID:\n3cpt7mbln0nivvqqvgh1colih0\n\n",
+      "location": "鯉魚門體育館",
+      "color_id": null,
+      "event_label_id": null,
+      "start": "2026-10-27T15:00:00+08:00",
+      "end": "2026-10-27T16:30:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=cWRlMHBycjJkZmR1bWVjMXJmdjUycmNkbzggbmVjY2wubWFpbEBt",
+      "hangout_link": null,
+      "event_type": "default",
+      "transparency": "opaque",
+      "visibility": null,
+      "attachments": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 2880
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          },
+          {
+            "method": "popup",
+            "minutes": 10080
+          }
+        ]
+      },
+      "recurrence": null,
+      "recurring_event_id": null,
+      "original_start_time": null,
+      "display_url": "https://www.google.com/calendar/event?eid=cWRlMHBycjJkZmR1bWVjMXJmdjUycmNkbzggbmVjY2wubWFpbEBt",
+      "display_title": "NOVEL 基灣小學攀石隊 – 外出鯉魚門體育館攀石牆 (4/13)"
+    }
+  },
+  {
+    "source": "NOVEL_KaiWan_Climbing_2026-27.ics",
+    "uid": "novel-kaiwan-climbing-2026-4@autocalendarentry",
+    "old_calendar": "netunewong@gmail.com",
+    "old_event_id": "hm5k5d3l5jpngj0shv6rjk4km8",
+    "new_calendar": "neccl.mail@gmail.com",
+    "new_event_id": "ccugaqp96i5pqocjtnsdeaudf8",
+    "title": "NOVEL 基灣小學攀石隊訓練 (5/13)",
+    "start": "2026-11-03T15:00:00+08:00",
+    "end": "2026-11-03T16:30:00+08:00",
+    "location": "中華基督教會基灣小學（愛蝶灣）",
+    "reminder_minutes": [
+      10080,
+      2880,
+      1440,
+      60
+    ],
+    "created_response": {
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "ccugaqp96i5pqocjtnsdeaudf8",
+      "summary": "NOVEL 基灣小學攀石隊訓練 (5/13)",
+      "description": "<p>NOVEL – CCC基灣小學（愛蝶灣）攀石隊訓練（星期二，共13節） 導師：King, Sue, Him</p><p>資料來源：NOVEL_KaiWan_Climbing_2026-27.ics\nICS UID: novel-kaiwan-climbing-2026-4@autocalendarentry\n由主日曆搬移；原 event ID: hm5k5d3l5jpngj0shv6rjk4km8</p>",
+      "location": "中華基督教會基灣小學（愛蝶灣）",
+      "start": "2026-11-03T15:00:00+08:00",
+      "end": "2026-11-03T16:30:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=Y2N1Z2FxcDk2aTVwcW9janRuc2RlYXVkZjggbmVjY2wubWFpbEBt",
+      "color_id": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 60
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          },
+          {
+            "method": "popup",
+            "minutes": 2880
+          },
+          {
+            "method": "popup",
+            "minutes": 10080
+          }
+        ]
+      },
+      "visibility": null,
+      "transparency": null,
+      "hangout_link": null,
+      "conference_id": null,
+      "conference_status": null,
+      "conference_solution_type": null
+    },
+    "status": "migrated",
+    "verified_new_event": {
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "ccugaqp96i5pqocjtnsdeaudf8",
+      "summary": "NOVEL 基灣小學攀石隊訓練 (5/13)",
+      "status": "confirmed",
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "description": "NOVEL – CCC基灣小學（愛蝶灣）攀石隊訓練（星期二，共13節） 導師：King, Sue, Him\n\n資料來源：NOVEL_KaiWan_Climbing_2026-27.ics ICS UID: novel-kaiwan-\nclimbing-2026-4@autocalendarentry 由主日曆搬移；原 event ID:\nhm5k5d3l5jpngj0shv6rjk4km8\n\n",
+      "location": "中華基督教會基灣小學（愛蝶灣）",
+      "color_id": null,
+      "event_label_id": null,
+      "start": "2026-11-03T15:00:00+08:00",
+      "end": "2026-11-03T16:30:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=Y2N1Z2FxcDk2aTVwcW9janRuc2RlYXVkZjggbmVjY2wubWFpbEBt",
+      "hangout_link": null,
+      "event_type": "default",
+      "transparency": "opaque",
+      "visibility": null,
+      "attachments": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 60
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          },
+          {
+            "method": "popup",
+            "minutes": 2880
+          },
+          {
+            "method": "popup",
+            "minutes": 10080
+          }
+        ]
+      },
+      "recurrence": null,
+      "recurring_event_id": null,
+      "original_start_time": null,
+      "display_url": "https://www.google.com/calendar/event?eid=Y2N1Z2FxcDk2aTVwcW9janRuc2RlYXVkZjggbmVjY2wubWFpbEBt",
+      "display_title": "NOVEL 基灣小學攀石隊訓練 (5/13)"
+    }
+  },
+  {
+    "source": "NOVEL_KaiWan_Climbing_2026-27.ics",
+    "uid": "novel-kaiwan-climbing-2026-5@autocalendarentry",
+    "old_calendar": "netunewong@gmail.com",
+    "old_event_id": "kgbammcoblhnldrfm8qb2up6b4",
+    "new_calendar": "neccl.mail@gmail.com",
+    "new_event_id": "7sk2hk2kvgb5qoli6vg54ek4dk",
+    "title": "NOVEL 基灣小學攀石隊訓練 (6/13)",
+    "start": "2026-11-10T15:00:00+08:00",
+    "end": "2026-11-10T16:30:00+08:00",
+    "location": "中華基督教會基灣小學（愛蝶灣）",
+    "reminder_minutes": [
+      10080,
+      2880,
+      1440,
+      60
+    ],
+    "created_response": {
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "7sk2hk2kvgb5qoli6vg54ek4dk",
+      "summary": "NOVEL 基灣小學攀石隊訓練 (6/13)",
+      "description": "<p>NOVEL – CCC基灣小學（愛蝶灣）攀石隊訓練（星期二，共13節） 導師：King, Sue, Him</p><p>資料來源：NOVEL_KaiWan_Climbing_2026-27.ics\nICS UID: novel-kaiwan-climbing-2026-5@autocalendarentry\n由主日曆搬移；原 event ID: kgbammcoblhnldrfm8qb2up6b4</p>",
+      "location": "中華基督教會基灣小學（愛蝶灣）",
+      "start": "2026-11-10T15:00:00+08:00",
+      "end": "2026-11-10T16:30:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=N3NrMmhrMmt2Z2I1cW9saTZ2ZzU0ZWs0ZGsgbmVjY2wubWFpbEBt",
+      "color_id": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 2880
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          },
+          {
+            "method": "popup",
+            "minutes": 10080
+          }
+        ]
+      },
+      "visibility": null,
+      "transparency": null,
+      "hangout_link": null,
+      "conference_id": null,
+      "conference_status": null,
+      "conference_solution_type": null
+    },
+    "status": "migrated",
+    "verified_new_event": {
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "7sk2hk2kvgb5qoli6vg54ek4dk",
+      "summary": "NOVEL 基灣小學攀石隊訓練 (6/13)",
+      "status": "confirmed",
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "description": "NOVEL – CCC基灣小學（愛蝶灣）攀石隊訓練（星期二，共13節） 導師：King, Sue, Him\n\n資料來源：NOVEL_KaiWan_Climbing_2026-27.ics ICS UID: novel-kaiwan-\nclimbing-2026-5@autocalendarentry 由主日曆搬移；原 event ID:\nkgbammcoblhnldrfm8qb2up6b4\n\n",
+      "location": "中華基督教會基灣小學（愛蝶灣）",
+      "color_id": null,
+      "event_label_id": null,
+      "start": "2026-11-10T15:00:00+08:00",
+      "end": "2026-11-10T16:30:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=N3NrMmhrMmt2Z2I1cW9saTZ2ZzU0ZWs0ZGsgbmVjY2wubWFpbEBt",
+      "hangout_link": null,
+      "event_type": "default",
+      "transparency": "opaque",
+      "visibility": null,
+      "attachments": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 2880
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          },
+          {
+            "method": "popup",
+            "minutes": 10080
+          }
+        ]
+      },
+      "recurrence": null,
+      "recurring_event_id": null,
+      "original_start_time": null,
+      "display_url": "https://www.google.com/calendar/event?eid=N3NrMmhrMmt2Z2I1cW9saTZ2ZzU0ZWs0ZGsgbmVjY2wubWFpbEBt",
+      "display_title": "NOVEL 基灣小學攀石隊訓練 (6/13)"
+    }
+  },
+  {
+    "source": "NOVEL_KaiWan_Climbing_2026-27.ics",
+    "uid": "novel-kaiwan-climbing-2026-6@autocalendarentry",
+    "old_calendar": "netunewong@gmail.com",
+    "old_event_id": "8jnh9d0q012li90sh9jqk890os",
+    "new_calendar": "neccl.mail@gmail.com",
+    "new_event_id": "hcehqbbjdou3jf3q2or86ssuf4",
+    "title": "NOVEL 基灣小學攀石隊 – 外出鯉魚門體育館攀石牆 (7/13)",
+    "start": "2026-11-17T15:00:00+08:00",
+    "end": "2026-11-17T16:30:00+08:00",
+    "location": "鯉魚門體育館",
+    "reminder_minutes": [
+      10080,
+      2880,
+      1440,
+      60
+    ],
+    "created_response": {
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "hcehqbbjdou3jf3q2or86ssuf4",
+      "summary": "NOVEL 基灣小學攀石隊 – 外出鯉魚門體育館攀石牆 (7/13)",
+      "description": "<p>NOVEL – CCC基灣小學（愛蝶灣）攀石隊訓練（星期二，共13節） 本月最後一節：外出鯉魚門體育館攀石牆（需預先 book 場） 導師：King,\nSue, Him</p><p>資料來源：NOVEL_KaiWan_Climbing_2026-27.ics\nICS UID: novel-kaiwan-climbing-2026-6@autocalendarentry\n由主日曆搬移；原 event ID: 8jnh9d0q012li90sh9jqk890os</p>",
+      "location": "鯉魚門體育館",
+      "start": "2026-11-17T15:00:00+08:00",
+      "end": "2026-11-17T16:30:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=aGNlaHFiYmpkb3UzamYzcTJvcjg2c3N1ZjQgbmVjY2wubWFpbEBt",
+      "color_id": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 10080
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          },
+          {
+            "method": "popup",
+            "minutes": 2880
+          }
+        ]
+      },
+      "visibility": null,
+      "transparency": null,
+      "hangout_link": null,
+      "conference_id": null,
+      "conference_status": null,
+      "conference_solution_type": null
+    },
+    "status": "migrated",
+    "verified_new_event": {
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "hcehqbbjdou3jf3q2or86ssuf4",
+      "summary": "NOVEL 基灣小學攀石隊 – 外出鯉魚門體育館攀石牆 (7/13)",
+      "status": "confirmed",
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "description": "NOVEL – CCC基灣小學（愛蝶灣）攀石隊訓練（星期二，共13節） 本月最後一節：外出鯉魚門體育館攀石牆（需預先 book 場） 導師：King,\nSue, Him\n\n資料來源：NOVEL_KaiWan_Climbing_2026-27.ics ICS UID: novel-kaiwan-\nclimbing-2026-6@autocalendarentry 由主日曆搬移；原 event ID:\n8jnh9d0q012li90sh9jqk890os\n\n",
+      "location": "鯉魚門體育館",
+      "color_id": null,
+      "event_label_id": null,
+      "start": "2026-11-17T15:00:00+08:00",
+      "end": "2026-11-17T16:30:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=aGNlaHFiYmpkb3UzamYzcTJvcjg2c3N1ZjQgbmVjY2wubWFpbEBt",
+      "hangout_link": null,
+      "event_type": "default",
+      "transparency": "opaque",
+      "visibility": null,
+      "attachments": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 10080
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          },
+          {
+            "method": "popup",
+            "minutes": 2880
+          }
+        ]
+      },
+      "recurrence": null,
+      "recurring_event_id": null,
+      "original_start_time": null,
+      "display_url": "https://www.google.com/calendar/event?eid=aGNlaHFiYmpkb3UzamYzcTJvcjg2c3N1ZjQgbmVjY2wubWFpbEBt",
+      "display_title": "NOVEL 基灣小學攀石隊 – 外出鯉魚門體育館攀石牆 (7/13)"
+    }
+  },
+  {
+    "source": "NOVEL_KaiWan_Climbing_2026-27.ics",
+    "uid": "novel-kaiwan-climbing-2026-7@autocalendarentry",
+    "old_calendar": "netunewong@gmail.com",
+    "old_event_id": "tspk8kn5dpauhilgm9unh7cg4g",
+    "new_calendar": "neccl.mail@gmail.com",
+    "new_event_id": "pl4c2s28is3sirbocori2fmo34",
+    "title": "NOVEL 基灣小學攀石隊訓練 (8/13) ⚠️King缺席",
+    "start": "2026-12-08T15:00:00+08:00",
+    "end": "2026-12-08T16:30:00+08:00",
+    "location": "中華基督教會基灣小學（愛蝶灣）",
+    "reminder_minutes": [
+      10080,
+      2880,
+      1440,
+      60
+    ],
+    "created_response": {
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "pl4c2s28is3sirbocori2fmo34",
+      "summary": "NOVEL 基灣小學攀石隊訓練 (8/13) ⚠️King缺席",
+      "description": "<p>NOVEL – CCC基灣小學（愛蝶灣）攀石隊訓練（星期二，共13節） 導師：Sue, Him + 代課導師（King 帶團訓練，未能出席） ⚠️ King\n撞期帶團訓練，需於一個月前（11/8）邀請代課導師</p><p>資料來源：NOVEL_KaiWan_Climbing_2026-27.ics\nICS UID: novel-kaiwan-climbing-2026-7@autocalendarentry\n由主日曆搬移；原 event ID: tspk8kn5dpauhilgm9unh7cg4g</p>",
+      "location": "中華基督教會基灣小學（愛蝶灣）",
+      "start": "2026-12-08T15:00:00+08:00",
+      "end": "2026-12-08T16:30:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=cGw0YzJzMjhpczNzaXJib2NvcmkyZm1vMzQgbmVjY2wubWFpbEBt",
+      "color_id": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 2880
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          },
+          {
+            "method": "popup",
+            "minutes": 10080
+          }
+        ]
+      },
+      "visibility": null,
+      "transparency": null,
+      "hangout_link": null,
+      "conference_id": null,
+      "conference_status": null,
+      "conference_solution_type": null
+    },
+    "status": "migrated",
+    "verified_new_event": {
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "pl4c2s28is3sirbocori2fmo34",
+      "summary": "NOVEL 基灣小學攀石隊訓練 (8/13) ⚠️King缺席",
+      "status": "confirmed",
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "description": "NOVEL – CCC基灣小學（愛蝶灣）攀石隊訓練（星期二，共13節） 導師：Sue, Him + 代課導師（King 帶團訓練，未能出席） ⚠️ King\n撞期帶團訓練，需於一個月前（11/8）邀請代課導師\n\n資料來源：NOVEL_KaiWan_Climbing_2026-27.ics ICS UID: novel-kaiwan-\nclimbing-2026-7@autocalendarentry 由主日曆搬移；原 event ID:\ntspk8kn5dpauhilgm9unh7cg4g\n\n",
+      "location": "中華基督教會基灣小學（愛蝶灣）",
+      "color_id": null,
+      "event_label_id": null,
+      "start": "2026-12-08T15:00:00+08:00",
+      "end": "2026-12-08T16:30:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=cGw0YzJzMjhpczNzaXJib2NvcmkyZm1vMzQgbmVjY2wubWFpbEBt",
+      "hangout_link": null,
+      "event_type": "default",
+      "transparency": "opaque",
+      "visibility": null,
+      "attachments": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 2880
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          },
+          {
+            "method": "popup",
+            "minutes": 10080
+          }
+        ]
+      },
+      "recurrence": null,
+      "recurring_event_id": null,
+      "original_start_time": null,
+      "display_url": "https://www.google.com/calendar/event?eid=cGw0YzJzMjhpczNzaXJib2NvcmkyZm1vMzQgbmVjY2wubWFpbEBt",
+      "display_title": "NOVEL 基灣小學攀石隊訓練 (8/13) ⚠️King缺席"
+    }
+  },
+  {
+    "source": "NOVEL_KaiWan_Climbing_2026-27.ics",
+    "uid": "novel-kaiwan-climbing-2026-8@autocalendarentry",
+    "old_calendar": "netunewong@gmail.com",
+    "old_event_id": "160ds5136sil794j5tfmgeg8o8",
+    "new_calendar": "neccl.mail@gmail.com",
+    "new_event_id": "solmbua39a4biq79c73q6ev0ic",
+    "title": "NOVEL 基灣小學攀石隊 – 外出鯉魚門體育館攀石牆 (9/13) ⚠️King缺席",
+    "start": "2026-12-15T15:00:00+08:00",
+    "end": "2026-12-15T16:30:00+08:00",
+    "location": "鯉魚門體育館",
+    "reminder_minutes": [
+      10080,
+      2880,
+      1440,
+      60
+    ],
+    "created_response": {
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "solmbua39a4biq79c73q6ev0ic",
+      "summary": "NOVEL 基灣小學攀石隊 – 外出鯉魚門體育館攀石牆 (9/13) ⚠️King缺席",
+      "description": "<p>NOVEL – CCC基灣小學（愛蝶灣）攀石隊訓練（星期二，共13節） 本月最後一節：外出鯉魚門體育館攀石牆（需預先 book 場） 導師：Sue, Him\n+ 代課導師（King 帶團訓練，未能出席） ⚠️ King 撞期帶團訓練，需於一個月前（11/15）邀請代課導師</p><p>資料來源：NOVEL_KaiWan_Climbing_2026-27.ics\nICS UID: novel-kaiwan-climbing-2026-8@autocalendarentry\n由主日曆搬移；原 event ID: 160ds5136sil794j5tfmgeg8o8</p>",
+      "location": "鯉魚門體育館",
+      "start": "2026-12-15T15:00:00+08:00",
+      "end": "2026-12-15T16:30:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=c29sbWJ1YTM5YTRiaXE3OWM3M3E2ZXYwaWMgbmVjY2wubWFpbEBt",
+      "color_id": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 60
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          },
+          {
+            "method": "popup",
+            "minutes": 2880
+          },
+          {
+            "method": "popup",
+            "minutes": 10080
+          }
+        ]
+      },
+      "visibility": null,
+      "transparency": null,
+      "hangout_link": null,
+      "conference_id": null,
+      "conference_status": null,
+      "conference_solution_type": null
+    },
+    "status": "migrated",
+    "verified_new_event": {
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "solmbua39a4biq79c73q6ev0ic",
+      "summary": "NOVEL 基灣小學攀石隊 – 外出鯉魚門體育館攀石牆 (9/13) ⚠️King缺席",
+      "status": "confirmed",
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "description": "NOVEL – CCC基灣小學（愛蝶灣）攀石隊訓練（星期二，共13節） 本月最後一節：外出鯉魚門體育館攀石牆（需預先 book 場） 導師：Sue, Him\n\\+ 代課導師（King 帶團訓練，未能出席） ⚠️ King 撞期帶團訓練，需於一個月前（11/15）邀請代課導師\n\n資料來源：NOVEL_KaiWan_Climbing_2026-27.ics ICS UID: novel-kaiwan-\nclimbing-2026-8@autocalendarentry 由主日曆搬移；原 event ID:\n160ds5136sil794j5tfmgeg8o8\n\n",
+      "location": "鯉魚門體育館",
+      "color_id": null,
+      "event_label_id": null,
+      "start": "2026-12-15T15:00:00+08:00",
+      "end": "2026-12-15T16:30:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=c29sbWJ1YTM5YTRiaXE3OWM3M3E2ZXYwaWMgbmVjY2wubWFpbEBt",
+      "hangout_link": null,
+      "event_type": "default",
+      "transparency": "opaque",
+      "visibility": null,
+      "attachments": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 60
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          },
+          {
+            "method": "popup",
+            "minutes": 2880
+          },
+          {
+            "method": "popup",
+            "minutes": 10080
+          }
+        ]
+      },
+      "recurrence": null,
+      "recurring_event_id": null,
+      "original_start_time": null,
+      "display_url": "https://www.google.com/calendar/event?eid=c29sbWJ1YTM5YTRiaXE3OWM3M3E2ZXYwaWMgbmVjY2wubWFpbEBt",
+      "display_title": "NOVEL 基灣小學攀石隊 – 外出鯉魚門體育館攀石牆 (9/13) ⚠️King缺席"
+    }
+  },
+  {
+    "source": "NOVEL_KaiWan_Climbing_2026-27.ics",
+    "uid": "novel-kaiwan-climbing-2026-9@autocalendarentry",
+    "old_calendar": "netunewong@gmail.com",
+    "old_event_id": "huvkiqiba1p1r8sn7mrprmlv70",
+    "new_calendar": "neccl.mail@gmail.com",
+    "new_event_id": "ok0bq3ol0fcq3jp0h5i7h991r4",
+    "title": "NOVEL 基灣小學攀石隊訓練 (10/13)",
+    "start": "2027-01-05T15:00:00+08:00",
+    "end": "2027-01-05T16:30:00+08:00",
+    "location": "中華基督教會基灣小學（愛蝶灣）",
+    "reminder_minutes": [
+      10080,
+      2880,
+      1440,
+      60
+    ],
+    "created_response": {
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "ok0bq3ol0fcq3jp0h5i7h991r4",
+      "summary": "NOVEL 基灣小學攀石隊訓練 (10/13)",
+      "description": "<p>NOVEL – CCC基灣小學（愛蝶灣）攀石隊訓練（星期二，共13節） 導師：King, Sue, Him</p><p>資料來源：NOVEL_KaiWan_Climbing_2026-27.ics\nICS UID: novel-kaiwan-climbing-2026-9@autocalendarentry\n由主日曆搬移；原 event ID: huvkiqiba1p1r8sn7mrprmlv70</p>",
+      "location": "中華基督教會基灣小學（愛蝶灣）",
+      "start": "2027-01-05T15:00:00+08:00",
+      "end": "2027-01-05T16:30:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=b2swYnEzb2wwZmNxM2pwMGg1aTdoOTkxcjQgbmVjY2wubWFpbEBt",
+      "color_id": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 2880
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          },
+          {
+            "method": "popup",
+            "minutes": 10080
+          }
+        ]
+      },
+      "visibility": null,
+      "transparency": null,
+      "hangout_link": null,
+      "conference_id": null,
+      "conference_status": null,
+      "conference_solution_type": null
+    },
+    "status": "migrated",
+    "verified_new_event": {
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "ok0bq3ol0fcq3jp0h5i7h991r4",
+      "summary": "NOVEL 基灣小學攀石隊訓練 (10/13)",
+      "status": "confirmed",
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "description": "NOVEL – CCC基灣小學（愛蝶灣）攀石隊訓練（星期二，共13節） 導師：King, Sue, Him\n\n資料來源：NOVEL_KaiWan_Climbing_2026-27.ics ICS UID: novel-kaiwan-\nclimbing-2026-9@autocalendarentry 由主日曆搬移；原 event ID:\nhuvkiqiba1p1r8sn7mrprmlv70\n\n",
+      "location": "中華基督教會基灣小學（愛蝶灣）",
+      "color_id": null,
+      "event_label_id": null,
+      "start": "2027-01-05T15:00:00+08:00",
+      "end": "2027-01-05T16:30:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=b2swYnEzb2wwZmNxM2pwMGg1aTdoOTkxcjQgbmVjY2wubWFpbEBt",
+      "hangout_link": null,
+      "event_type": "default",
+      "transparency": "opaque",
+      "visibility": null,
+      "attachments": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 2880
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          },
+          {
+            "method": "popup",
+            "minutes": 10080
+          }
+        ]
+      },
+      "recurrence": null,
+      "recurring_event_id": null,
+      "original_start_time": null,
+      "display_url": "https://www.google.com/calendar/event?eid=b2swYnEzb2wwZmNxM2pwMGg1aTdoOTkxcjQgbmVjY2wubWFpbEBt",
+      "display_title": "NOVEL 基灣小學攀石隊訓練 (10/13)"
+    }
+  },
+  {
+    "source": "NOVEL_KaiWan_Climbing_2026-27.ics",
+    "uid": "novel-kaiwan-climbing-2026-10@autocalendarentry",
+    "old_calendar": "netunewong@gmail.com",
+    "old_event_id": "0462m927u853smpmg5tobeq204",
+    "new_calendar": "neccl.mail@gmail.com",
+    "new_event_id": "4qu73oarmq1d2itep9ffr3rnjk",
+    "title": "NOVEL 基灣小學攀石隊訓練 (11/13)",
+    "start": "2027-01-12T15:00:00+08:00",
+    "end": "2027-01-12T16:30:00+08:00",
+    "location": "中華基督教會基灣小學（愛蝶灣）",
+    "reminder_minutes": [
+      10080,
+      2880,
+      1440,
+      60
+    ],
+    "created_response": {
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "4qu73oarmq1d2itep9ffr3rnjk",
+      "summary": "NOVEL 基灣小學攀石隊訓練 (11/13)",
+      "description": "<p>NOVEL – CCC基灣小學（愛蝶灣）攀石隊訓練（星期二，共13節） 導師：King, Sue, Him</p><p>資料來源：NOVEL_KaiWan_Climbing_2026-27.ics\nICS UID: novel-kaiwan-climbing-2026-10@autocalendarentry\n由主日曆搬移；原 event ID: 0462m927u853smpmg5tobeq204</p>",
+      "location": "中華基督教會基灣小學（愛蝶灣）",
+      "start": "2027-01-12T15:00:00+08:00",
+      "end": "2027-01-12T16:30:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=NHF1NzNvYXJtcTFkMml0ZXA5ZmZyM3JuamsgbmVjY2wubWFpbEBt",
+      "color_id": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 10080
+          },
+          {
+            "method": "popup",
+            "minutes": 2880
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          }
+        ]
+      },
+      "visibility": null,
+      "transparency": null,
+      "hangout_link": null,
+      "conference_id": null,
+      "conference_status": null,
+      "conference_solution_type": null
+    },
+    "status": "migrated",
+    "verified_new_event": {
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "4qu73oarmq1d2itep9ffr3rnjk",
+      "summary": "NOVEL 基灣小學攀石隊訓練 (11/13)",
+      "status": "confirmed",
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "description": "NOVEL – CCC基灣小學（愛蝶灣）攀石隊訓練（星期二，共13節） 導師：King, Sue, Him\n\n資料來源：NOVEL_KaiWan_Climbing_2026-27.ics ICS UID: novel-kaiwan-\nclimbing-2026-10@autocalendarentry 由主日曆搬移；原 event ID:\n0462m927u853smpmg5tobeq204\n\n",
+      "location": "中華基督教會基灣小學（愛蝶灣）",
+      "color_id": null,
+      "event_label_id": null,
+      "start": "2027-01-12T15:00:00+08:00",
+      "end": "2027-01-12T16:30:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=NHF1NzNvYXJtcTFkMml0ZXA5ZmZyM3JuamsgbmVjY2wubWFpbEBt",
+      "hangout_link": null,
+      "event_type": "default",
+      "transparency": "opaque",
+      "visibility": null,
+      "attachments": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 10080
+          },
+          {
+            "method": "popup",
+            "minutes": 2880
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          }
+        ]
+      },
+      "recurrence": null,
+      "recurring_event_id": null,
+      "original_start_time": null,
+      "display_url": "https://www.google.com/calendar/event?eid=NHF1NzNvYXJtcTFkMml0ZXA5ZmZyM3JuamsgbmVjY2wubWFpbEBt",
+      "display_title": "NOVEL 基灣小學攀石隊訓練 (11/13)"
+    }
+  },
+  {
+    "source": "NOVEL_KaiWan_Climbing_2026-27.ics",
+    "uid": "novel-kaiwan-climbing-2026-11@autocalendarentry",
+    "old_calendar": "netunewong@gmail.com",
+    "old_event_id": "q11g7rjutu8d61i0a6q970pn7c",
+    "new_calendar": "neccl.mail@gmail.com",
+    "new_event_id": "6qodul555qohe6tt521n30dolg",
+    "title": "NOVEL 基灣小學攀石隊訓練 (12/13)",
+    "start": "2027-01-19T15:00:00+08:00",
+    "end": "2027-01-19T16:30:00+08:00",
+    "location": "中華基督教會基灣小學（愛蝶灣）",
+    "reminder_minutes": [
+      10080,
+      2880,
+      1440,
+      60
+    ],
+    "created_response": {
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "6qodul555qohe6tt521n30dolg",
+      "summary": "NOVEL 基灣小學攀石隊訓練 (12/13)",
+      "description": "<p>NOVEL – CCC基灣小學（愛蝶灣）攀石隊訓練（星期二，共13節） 導師：King, Sue, Him</p><p>資料來源：NOVEL_KaiWan_Climbing_2026-27.ics\nICS UID: novel-kaiwan-climbing-2026-11@autocalendarentry\n由主日曆搬移；原 event ID: q11g7rjutu8d61i0a6q970pn7c</p>",
+      "location": "中華基督教會基灣小學（愛蝶灣）",
+      "start": "2027-01-19T15:00:00+08:00",
+      "end": "2027-01-19T16:30:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=NnFvZHVsNTU1cW9oZTZ0dDUyMW4zMGRvbGcgbmVjY2wubWFpbEBt",
+      "color_id": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 10080
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          },
+          {
+            "method": "popup",
+            "minutes": 2880
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          }
+        ]
+      },
+      "visibility": null,
+      "transparency": null,
+      "hangout_link": null,
+      "conference_id": null,
+      "conference_status": null,
+      "conference_solution_type": null
+    },
+    "status": "migrated",
+    "verified_new_event": {
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "6qodul555qohe6tt521n30dolg",
+      "summary": "NOVEL 基灣小學攀石隊訓練 (12/13)",
+      "status": "confirmed",
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "description": "NOVEL – CCC基灣小學（愛蝶灣）攀石隊訓練（星期二，共13節） 導師：King, Sue, Him\n\n資料來源：NOVEL_KaiWan_Climbing_2026-27.ics ICS UID: novel-kaiwan-\nclimbing-2026-11@autocalendarentry 由主日曆搬移；原 event ID:\nq11g7rjutu8d61i0a6q970pn7c\n\n",
+      "location": "中華基督教會基灣小學（愛蝶灣）",
+      "color_id": null,
+      "event_label_id": null,
+      "start": "2027-01-19T15:00:00+08:00",
+      "end": "2027-01-19T16:30:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=NnFvZHVsNTU1cW9oZTZ0dDUyMW4zMGRvbGcgbmVjY2wubWFpbEBt",
+      "hangout_link": null,
+      "event_type": "default",
+      "transparency": "opaque",
+      "visibility": null,
+      "attachments": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 10080
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          },
+          {
+            "method": "popup",
+            "minutes": 2880
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          }
+        ]
+      },
+      "recurrence": null,
+      "recurring_event_id": null,
+      "original_start_time": null,
+      "display_url": "https://www.google.com/calendar/event?eid=NnFvZHVsNTU1cW9oZTZ0dDUyMW4zMGRvbGcgbmVjY2wubWFpbEBt",
+      "display_title": "NOVEL 基灣小學攀石隊訓練 (12/13)"
+    }
+  },
+  {
+    "source": "NOVEL_KaiWan_Climbing_2026-27.ics",
+    "uid": "novel-kaiwan-climbing-2026-12@autocalendarentry",
+    "old_calendar": "netunewong@gmail.com",
+    "old_event_id": "e534s0g2kacbgns8kmsdr17f64",
+    "new_calendar": "neccl.mail@gmail.com",
+    "new_event_id": "3v9sa530nbpv4lecp1itd6gflc",
+    "title": "NOVEL 基灣小學攀石隊 – 外出鯉魚門體育館攀石牆 (13/13)",
+    "start": "2027-01-26T15:00:00+08:00",
+    "end": "2027-01-26T16:30:00+08:00",
+    "location": "鯉魚門體育館",
+    "reminder_minutes": [
+      10080,
+      2880,
+      1440,
+      60
+    ],
+    "created_response": {
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "3v9sa530nbpv4lecp1itd6gflc",
+      "summary": "NOVEL 基灣小學攀石隊 – 外出鯉魚門體育館攀石牆 (13/13)",
+      "description": "<p>NOVEL – CCC基灣小學（愛蝶灣）攀石隊訓練（星期二，共13節） 本月最後一節：外出鯉魚門體育館攀石牆（需預先 book 場） 導師：King,\nSue, Him</p><p>資料來源：NOVEL_KaiWan_Climbing_2026-27.ics\nICS UID: novel-kaiwan-climbing-2026-12@autocalendarentry\n由主日曆搬移；原 event ID: e534s0g2kacbgns8kmsdr17f64</p>",
+      "location": "鯉魚門體育館",
+      "start": "2027-01-26T15:00:00+08:00",
+      "end": "2027-01-26T16:30:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=M3Y5c2E1MzBuYnB2NGxlY3AxaXRkNmdmbGMgbmVjY2wubWFpbEBt",
+      "color_id": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 10080
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          },
+          {
+            "method": "popup",
+            "minutes": 2880
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          }
+        ]
+      },
+      "visibility": null,
+      "transparency": null,
+      "hangout_link": null,
+      "conference_id": null,
+      "conference_status": null,
+      "conference_solution_type": null
+    },
+    "status": "migrated",
+    "verified_new_event": {
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "3v9sa530nbpv4lecp1itd6gflc",
+      "summary": "NOVEL 基灣小學攀石隊 – 外出鯉魚門體育館攀石牆 (13/13)",
+      "status": "confirmed",
+      "organizer": {
+        "is_self": true,
+        "email": "neccl.mail@gmail.com",
+        "display_name": null
+      },
+      "description": "NOVEL – CCC基灣小學（愛蝶灣）攀石隊訓練（星期二，共13節） 本月最後一節：外出鯉魚門體育館攀石牆（需預先 book 場） 導師：King,\nSue, Him\n\n資料來源：NOVEL_KaiWan_Climbing_2026-27.ics ICS UID: novel-kaiwan-\nclimbing-2026-12@autocalendarentry 由主日曆搬移；原 event ID:\ne534s0g2kacbgns8kmsdr17f64\n\n",
+      "location": "鯉魚門體育館",
+      "color_id": null,
+      "event_label_id": null,
+      "start": "2027-01-26T15:00:00+08:00",
+      "end": "2027-01-26T16:30:00+08:00",
+      "attendees": [
+        {
+          "email": "netunewong@gmail.com",
+          "response_status": "accepted",
+          "display_name": null,
+          "resource": null,
+          "optional": false,
+          "is_self": null
+        }
+      ],
+      "url": "https://www.google.com/calendar/event?eid=M3Y5c2E1MzBuYnB2NGxlY3AxaXRkNmdmbGMgbmVjY2wubWFpbEBt",
+      "hangout_link": null,
+      "event_type": "default",
+      "transparency": "opaque",
+      "visibility": null,
+      "attachments": null,
+      "reminders": {
+        "use_default": false,
+        "overrides": [
+          {
+            "method": "popup",
+            "minutes": 10080
+          },
+          {
+            "method": "popup",
+            "minutes": 1440
+          },
+          {
+            "method": "popup",
+            "minutes": 2880
+          },
+          {
+            "method": "popup",
+            "minutes": 60
+          }
+        ]
+      },
+      "recurrence": null,
+      "recurring_event_id": null,
+      "original_start_time": null,
+      "display_url": "https://www.google.com/calendar/event?eid=M3Y5c2E1MzBuYnB2NGxlY3AxaXRkNmdmbGMgbmVjY2wubWFpbEBt",
+      "display_title": "NOVEL 基灣小學攀石隊 – 外出鯉魚門體育館攀石牆 (13/13)"
+    }
+  }
+]

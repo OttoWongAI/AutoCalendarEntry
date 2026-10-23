@@ -1,0 +1,1551 @@
+{
+  "rows": [
+    {
+      "source": "BAHRM_Oct2026_Trimester.ics",
+      "uid": "bahrm-oct2026-0@autocalendarentry",
+      "title": "HRM09904 Lecture – Managing the Employment Relationship",
+      "start": "2026-10-26T18:45:00+08:00",
+      "end": "2026-10-26T21:45:00+08:00",
+      "location": "OEM602, Oen Hall Building (Main Building), Ho Sin Hang Campus, HKBU",
+      "description": "Edinburgh Napier University – BA HRM with Organisational Psychology, Oct 2026 Trimester (Week 1)\nLecturers: Dr Elvy Pang (ENU) / Ms Amy Yau (HKBU-SCE)",
+      "target_calendar": "netunewong@gmail.com",
+      "matches": [
+        {
+          "id": "sambpqbb33jbdvmohh3bp9ktf4",
+          "location": "OEM602, Oen Hall Building (Main Building), Ho Sin Hang Campus, HKBU"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "sambpqbb33jbdvmohh3bp9ktf4",
+          "organizer": "netunewong@gmail.com",
+          "location": "OEM602, Oen Hall Building (Main Building), Ho Sin Hang Campus, HKBU"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "BAHRM_Oct2026_Trimester.ics",
+      "uid": "bahrm-oct2026-1@autocalendarentry",
+      "title": "HRM09904 Lecture – Managing the Employment Relationship",
+      "start": "2026-10-27T18:45:00+08:00",
+      "end": "2026-10-27T21:45:00+08:00",
+      "location": "OEM602, Oen Hall Building (Main Building), Ho Sin Hang Campus, HKBU",
+      "description": "Edinburgh Napier University – BA HRM with Organisational Psychology, Oct 2026 Trimester (Week 1)\nLecturers: Dr Elvy Pang (ENU) / Ms Amy Yau (HKBU-SCE)",
+      "target_calendar": "netunewong@gmail.com",
+      "matches": [
+        {
+          "id": "tp83uve695e2tol28pok112c9c",
+          "location": "OEM602, Oen Hall Building (Main Building), Ho Sin Hang Campus, HKBU"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "tp83uve695e2tol28pok112c9c",
+          "organizer": "netunewong@gmail.com",
+          "location": "OEM602, Oen Hall Building (Main Building), Ho Sin Hang Campus, HKBU"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "BAHRM_Oct2026_Trimester.ics",
+      "uid": "bahrm-oct2026-2@autocalendarentry",
+      "title": "HRM09904 Lecture – Managing the Employment Relationship",
+      "start": "2026-10-28T18:45:00+08:00",
+      "end": "2026-10-28T21:45:00+08:00",
+      "location": "OEM602, Oen Hall Building (Main Building), Ho Sin Hang Campus, HKBU",
+      "description": "Edinburgh Napier University – BA HRM with Organisational Psychology, Oct 2026 Trimester (Week 1)\nLecturers: Dr Elvy Pang (ENU) / Ms Amy Yau (HKBU-SCE)",
+      "target_calendar": "netunewong@gmail.com",
+      "matches": [
+        {
+          "id": "hnj82taftu0lhv4plud5ndeejs",
+          "location": "OEM602, Oen Hall Building (Main Building), Ho Sin Hang Campus, HKBU"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "hnj82taftu0lhv4plud5ndeejs",
+          "organizer": "netunewong@gmail.com",
+          "location": "OEM602, Oen Hall Building (Main Building), Ho Sin Hang Campus, HKBU"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "BAHRM_Oct2026_Trimester.ics",
+      "uid": "bahrm-oct2026-3@autocalendarentry",
+      "title": "HRM09904 Lecture – Managing the Employment Relationship",
+      "start": "2026-10-29T18:45:00+08:00",
+      "end": "2026-10-29T21:45:00+08:00",
+      "location": "OEM602, Oen Hall Building (Main Building), Ho Sin Hang Campus, HKBU",
+      "description": "Edinburgh Napier University – BA HRM with Organisational Psychology, Oct 2026 Trimester (Week 1)\nLecturers: Dr Elvy Pang (ENU) / Ms Amy Yau (HKBU-SCE)",
+      "target_calendar": "netunewong@gmail.com",
+      "matches": [
+        {
+          "id": "vdo490ked21hj7tfasiu4mbji8",
+          "location": "OEM602, Oen Hall Building (Main Building), Ho Sin Hang Campus, HKBU"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "vdo490ked21hj7tfasiu4mbji8",
+          "organizer": "netunewong@gmail.com",
+          "location": "OEM602, Oen Hall Building (Main Building), Ho Sin Hang Campus, HKBU"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "BAHRM_Oct2026_Trimester.ics",
+      "uid": "bahrm-oct2026-4@autocalendarentry",
+      "title": "HRM09902 Lecture – Human Resource Development",
+      "start": "2026-11-02T18:45:00+08:00",
+      "end": "2026-11-02T21:45:00+08:00",
+      "location": "WWK709, Madam Chan Wu Wan Kwai School of Continuing Education Tower, HKBU",
+      "description": "Edinburgh Napier University – BA HRM with Organisational Psychology, Oct 2026 Trimester (Week 2)\nLecturers: Dr Pallvi Arora (ENU) / Ms Jessica Chung (HKBU-SCE)",
+      "target_calendar": "netunewong@gmail.com",
+      "matches": [
+        {
+          "id": "5o1ppmdh0ujmdcdb51ni1i1me4",
+          "location": "WWK709, Madam Chan Wu Wan Kwai School of Continuing Education Tower, HKBU"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "5o1ppmdh0ujmdcdb51ni1i1me4",
+          "organizer": "netunewong@gmail.com",
+          "location": "WWK709, Madam Chan Wu Wan Kwai School of Continuing Education Tower, HKBU"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "BAHRM_Oct2026_Trimester.ics",
+      "uid": "bahrm-oct2026-5@autocalendarentry",
+      "title": "HRM09902 Lecture – Human Resource Development",
+      "start": "2026-11-03T18:45:00+08:00",
+      "end": "2026-11-03T21:45:00+08:00",
+      "location": "WWK709, Madam Chan Wu Wan Kwai School of Continuing Education Tower, HKBU",
+      "description": "Edinburgh Napier University – BA HRM with Organisational Psychology, Oct 2026 Trimester (Week 2)\nLecturers: Dr Pallvi Arora (ENU) / Ms Jessica Chung (HKBU-SCE)",
+      "target_calendar": "netunewong@gmail.com",
+      "matches": [
+        {
+          "id": "hg4ip4sug4qnid7224p1s89qk4",
+          "location": "WWK709, Madam Chan Wu Wan Kwai School of Continuing Education Tower, HKBU"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "hg4ip4sug4qnid7224p1s89qk4",
+          "organizer": "netunewong@gmail.com",
+          "location": "WWK709, Madam Chan Wu Wan Kwai School of Continuing Education Tower, HKBU"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "BAHRM_Oct2026_Trimester.ics",
+      "uid": "bahrm-oct2026-6@autocalendarentry",
+      "title": "HRM09902 Lecture – Human Resource Development",
+      "start": "2026-11-04T18:45:00+08:00",
+      "end": "2026-11-04T21:45:00+08:00",
+      "location": "WWK709, Madam Chan Wu Wan Kwai School of Continuing Education Tower, HKBU",
+      "description": "Edinburgh Napier University – BA HRM with Organisational Psychology, Oct 2026 Trimester (Week 2)\nLecturers: Dr Pallvi Arora (ENU) / Ms Jessica Chung (HKBU-SCE)",
+      "target_calendar": "netunewong@gmail.com",
+      "matches": [
+        {
+          "id": "reki5evt6o72e5lihiomsjna18",
+          "location": "WWK709, Madam Chan Wu Wan Kwai School of Continuing Education Tower, HKBU"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "reki5evt6o72e5lihiomsjna18",
+          "organizer": "netunewong@gmail.com",
+          "location": "WWK709, Madam Chan Wu Wan Kwai School of Continuing Education Tower, HKBU"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "BAHRM_Oct2026_Trimester.ics",
+      "uid": "bahrm-oct2026-7@autocalendarentry",
+      "title": "HRM09902 Lecture – Human Resource Development",
+      "start": "2026-11-05T18:45:00+08:00",
+      "end": "2026-11-05T21:45:00+08:00",
+      "location": "WWK709, Madam Chan Wu Wan Kwai School of Continuing Education Tower, HKBU",
+      "description": "Edinburgh Napier University – BA HRM with Organisational Psychology, Oct 2026 Trimester (Week 2)\nLecturers: Dr Pallvi Arora (ENU) / Ms Jessica Chung (HKBU-SCE)",
+      "target_calendar": "netunewong@gmail.com",
+      "matches": [
+        {
+          "id": "vuehv778co9bop6q1mfjhh01fs",
+          "location": "WWK709, Madam Chan Wu Wan Kwai School of Continuing Education Tower, HKBU"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "vuehv778co9bop6q1mfjhh01fs",
+          "organizer": "netunewong@gmail.com",
+          "location": "WWK709, Madam Chan Wu Wan Kwai School of Continuing Education Tower, HKBU"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "BAHRM_Oct2026_Trimester.ics",
+      "uid": "bahrm-oct2026-8@autocalendarentry",
+      "title": "HRM09904 Tutorial – Managing the Employment Relationship",
+      "start": "2026-11-12T19:00:00+08:00",
+      "end": "2026-11-12T21:00:00+08:00",
+      "location": "OEM602, Oen Hall Building (Main Building), Ho Sin Hang Campus, HKBU",
+      "description": "Edinburgh Napier University – BA HRM with Organisational Psychology, Oct 2026 Trimester (Week 3)\nLecturers: Dr Elvy Pang (ENU) / Ms Amy Yau (HKBU-SCE)",
+      "target_calendar": "netunewong@gmail.com",
+      "matches": [
+        {
+          "id": "9f8j2oh0urno5i37g0eojputik",
+          "location": "OEM602, Oen Hall Building (Main Building), Ho Sin Hang Campus, HKBU"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "9f8j2oh0urno5i37g0eojputik",
+          "organizer": "netunewong@gmail.com",
+          "location": "OEM602, Oen Hall Building (Main Building), Ho Sin Hang Campus, HKBU"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "BAHRM_Oct2026_Trimester.ics",
+      "uid": "bahrm-oct2026-9@autocalendarentry",
+      "title": "HRM09902 Tutorial – Human Resource Development",
+      "start": "2026-11-19T19:00:00+08:00",
+      "end": "2026-11-19T21:00:00+08:00",
+      "location": "OEM602, Oen Hall Building (Main Building), Ho Sin Hang Campus, HKBU",
+      "description": "Edinburgh Napier University – BA HRM with Organisational Psychology, Oct 2026 Trimester (Week 4)\nLecturers: Dr Pallvi Arora (ENU) / Ms Jessica Chung (HKBU-SCE)",
+      "target_calendar": "netunewong@gmail.com",
+      "matches": [
+        {
+          "id": "f6otbmmqkij2nfu9uf8ibn6t9o",
+          "location": "OEM602, Oen Hall Building (Main Building), Ho Sin Hang Campus, HKBU"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "f6otbmmqkij2nfu9uf8ibn6t9o",
+          "organizer": "netunewong@gmail.com",
+          "location": "OEM602, Oen Hall Building (Main Building), Ho Sin Hang Campus, HKBU"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "BAHRM_Oct2026_Trimester.ics",
+      "uid": "bahrm-oct2026-10@autocalendarentry",
+      "title": "HRM09904 Tutorial – Managing the Employment Relationship",
+      "start": "2026-11-26T19:00:00+08:00",
+      "end": "2026-11-26T21:00:00+08:00",
+      "location": "OEM602, Oen Hall Building (Main Building), Ho Sin Hang Campus, HKBU",
+      "description": "Edinburgh Napier University – BA HRM with Organisational Psychology, Oct 2026 Trimester (Week 5)\nLecturers: Dr Elvy Pang (ENU) / Ms Amy Yau (HKBU-SCE)",
+      "target_calendar": "netunewong@gmail.com",
+      "matches": [
+        {
+          "id": "rc33rk5gcehsss422iaegpct2s",
+          "location": "OEM602, Oen Hall Building (Main Building), Ho Sin Hang Campus, HKBU"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "rc33rk5gcehsss422iaegpct2s",
+          "organizer": "netunewong@gmail.com",
+          "location": "OEM602, Oen Hall Building (Main Building), Ho Sin Hang Campus, HKBU"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "BAHRM_Oct2026_Trimester.ics",
+      "uid": "bahrm-oct2026-11@autocalendarentry",
+      "title": "HRM09902 Tutorial – Human Resource Development",
+      "start": "2026-12-03T19:00:00+08:00",
+      "end": "2026-12-03T21:00:00+08:00",
+      "location": "OEM602, Oen Hall Building (Main Building), Ho Sin Hang Campus, HKBU",
+      "description": "Edinburgh Napier University – BA HRM with Organisational Psychology, Oct 2026 Trimester (Week 6)\nLecturers: Dr Pallvi Arora (ENU) / Ms Jessica Chung (HKBU-SCE)",
+      "target_calendar": "netunewong@gmail.com",
+      "matches": [
+        {
+          "id": "v9n7cnph03puek2843g5d01bus",
+          "location": "OEM602, Oen Hall Building (Main Building), Ho Sin Hang Campus, HKBU"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "v9n7cnph03puek2843g5d01bus",
+          "organizer": "netunewong@gmail.com",
+          "location": "OEM602, Oen Hall Building (Main Building), Ho Sin Hang Campus, HKBU"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "BAHRM_Oct2026_Trimester.ics",
+      "uid": "bahrm-oct2026-12@autocalendarentry",
+      "title": "HRM09904 Tutorial – Managing the Employment Relationship",
+      "start": "2026-12-10T19:00:00+08:00",
+      "end": "2026-12-10T21:00:00+08:00",
+      "location": "OEM602, Oen Hall Building (Main Building), Ho Sin Hang Campus, HKBU",
+      "description": "Edinburgh Napier University – BA HRM with Organisational Psychology, Oct 2026 Trimester (Week 7)\nLecturers: Dr Elvy Pang (ENU) / Ms Amy Yau (HKBU-SCE)",
+      "target_calendar": "netunewong@gmail.com",
+      "matches": [
+        {
+          "id": "nhihrb64tghbqelj7jt9jvi57g",
+          "location": "OEM602, Oen Hall Building (Main Building), Ho Sin Hang Campus, HKBU"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "nhihrb64tghbqelj7jt9jvi57g",
+          "organizer": "netunewong@gmail.com",
+          "location": "OEM602, Oen Hall Building (Main Building), Ho Sin Hang Campus, HKBU"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "BAHRM_Oct2026_Trimester.ics",
+      "uid": "bahrm-oct2026-13@autocalendarentry",
+      "title": "HRM09902 Tutorial – Human Resource Development",
+      "start": "2026-12-17T19:00:00+08:00",
+      "end": "2026-12-17T21:00:00+08:00",
+      "location": "OEM602, Oen Hall Building (Main Building), Ho Sin Hang Campus, HKBU",
+      "description": "Edinburgh Napier University – BA HRM with Organisational Psychology, Oct 2026 Trimester (Week 8)\nLecturers: Dr Pallvi Arora (ENU) / Ms Jessica Chung (HKBU-SCE)",
+      "target_calendar": "netunewong@gmail.com",
+      "matches": [
+        {
+          "id": "d9jkh9jfmj4m8mu8s8kd0a8fus",
+          "location": "OEM602, Oen Hall Building (Main Building), Ho Sin Hang Campus, HKBU"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "d9jkh9jfmj4m8mu8s8kd0a8fus",
+          "organizer": "netunewong@gmail.com",
+          "location": "OEM602, Oen Hall Building (Main Building), Ho Sin Hang Campus, HKBU"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "BAHRM_Oct2026_Trimester.ics",
+      "uid": "bahrm-oct2026-14@autocalendarentry",
+      "title": "HRM09904 Tutorial – Managing the Employment Relationship",
+      "start": "2026-12-21T19:00:00+08:00",
+      "end": "2026-12-21T21:00:00+08:00",
+      "location": "OEM602, Oen Hall Building (Main Building), Ho Sin Hang Campus, HKBU",
+      "description": "Edinburgh Napier University – BA HRM with Organisational Psychology, Oct 2026 Trimester (Week 9)\nLecturers: Dr Elvy Pang (ENU) / Ms Amy Yau (HKBU-SCE)",
+      "target_calendar": "netunewong@gmail.com",
+      "matches": [
+        {
+          "id": "bablu91l2t9h209cpiipdicqlo",
+          "location": "OEM602, Oen Hall Building (Main Building), Ho Sin Hang Campus, HKBU"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "bablu91l2t9h209cpiipdicqlo",
+          "organizer": "netunewong@gmail.com",
+          "location": "OEM602, Oen Hall Building (Main Building), Ho Sin Hang Campus, HKBU"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "BAHRM_Oct2026_Trimester.ics",
+      "uid": "bahrm-oct2026-15@autocalendarentry",
+      "title": "HRM09902 Tutorial – Human Resource Development",
+      "start": "2026-12-29T19:00:00+08:00",
+      "end": "2026-12-29T21:00:00+08:00",
+      "location": "OEM602, Oen Hall Building (Main Building), Ho Sin Hang Campus, HKBU",
+      "description": "Edinburgh Napier University – BA HRM with Organisational Psychology, Oct 2026 Trimester (Week 10)\nLecturers: Dr Pallvi Arora (ENU) / Ms Jessica Chung (HKBU-SCE)",
+      "target_calendar": "netunewong@gmail.com",
+      "matches": [
+        {
+          "id": "83irh8hseisbr97d146okpv124",
+          "location": "OEM602, Oen Hall Building (Main Building), Ho Sin Hang Campus, HKBU"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "83irh8hseisbr97d146okpv124",
+          "organizer": "netunewong@gmail.com",
+          "location": "OEM602, Oen Hall Building (Main Building), Ho Sin Hang Campus, HKBU"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "BAHRM_Oct2026_Trimester.ics",
+      "uid": "bahrm-oct2026-16@autocalendarentry",
+      "title": "HRM09904 Tutorial – Managing the Employment Relationship",
+      "start": "2027-01-07T19:00:00+08:00",
+      "end": "2027-01-07T21:00:00+08:00",
+      "location": "OEM602, Oen Hall Building (Main Building), Ho Sin Hang Campus, HKBU",
+      "description": "Edinburgh Napier University – BA HRM with Organisational Psychology, Oct 2026 Trimester (Week 11)\nLecturers: Dr Elvy Pang (ENU) / Ms Amy Yau (HKBU-SCE)",
+      "target_calendar": "netunewong@gmail.com",
+      "matches": [
+        {
+          "id": "80snr0jid3l7relaqnugjli99c",
+          "location": "OEM602, Oen Hall Building (Main Building), Ho Sin Hang Campus, HKBU"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "80snr0jid3l7relaqnugjli99c",
+          "organizer": "netunewong@gmail.com",
+          "location": "OEM602, Oen Hall Building (Main Building), Ho Sin Hang Campus, HKBU"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "BAHRM_Oct2026_Trimester.ics",
+      "uid": "bahrm-oct2026-17@autocalendarentry",
+      "title": "HRM09902 Tutorial – Human Resource Development",
+      "start": "2027-01-14T19:00:00+08:00",
+      "end": "2027-01-14T21:00:00+08:00",
+      "location": "OEM602, Oen Hall Building (Main Building), Ho Sin Hang Campus, HKBU",
+      "description": "Edinburgh Napier University – BA HRM with Organisational Psychology, Oct 2026 Trimester (Week 12)\nLecturers: Dr Pallvi Arora (ENU) / Ms Jessica Chung (HKBU-SCE)",
+      "target_calendar": "netunewong@gmail.com",
+      "matches": [
+        {
+          "id": "tkca09ngqvf68c7h0ecb9rami4",
+          "location": "OEM602, Oen Hall Building (Main Building), Ho Sin Hang Campus, HKBU"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "tkca09ngqvf68c7h0ecb9rami4",
+          "organizer": "netunewong@gmail.com",
+          "location": "OEM602, Oen Hall Building (Main Building), Ho Sin Hang Campus, HKBU"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "BAHRM_Oct2026_Trimester.ics",
+      "uid": "bahrm-oct2026-18@autocalendarentry",
+      "title": "HRM09904 Tutorial – Managing the Employment Relationship",
+      "start": "2027-01-21T19:00:00+08:00",
+      "end": "2027-01-21T21:00:00+08:00",
+      "location": "OEM602, Oen Hall Building (Main Building), Ho Sin Hang Campus, HKBU",
+      "description": "Edinburgh Napier University – BA HRM with Organisational Psychology, Oct 2026 Trimester (Week 13)\nLecturers: Dr Elvy Pang (ENU) / Ms Amy Yau (HKBU-SCE)",
+      "target_calendar": "netunewong@gmail.com",
+      "matches": [
+        {
+          "id": "hpfhblehceu3l63oecri487bvo",
+          "location": "OEM602, Oen Hall Building (Main Building), Ho Sin Hang Campus, HKBU"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "hpfhblehceu3l63oecri487bvo",
+          "organizer": "netunewong@gmail.com",
+          "location": "OEM602, Oen Hall Building (Main Building), Ho Sin Hang Campus, HKBU"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "BAHRM_Oct2026_Trimester.ics",
+      "uid": "bahrm-oct2026-19@autocalendarentry",
+      "title": "HRM09902 Tutorial – Human Resource Development",
+      "start": "2027-01-28T19:00:00+08:00",
+      "end": "2027-01-28T21:00:00+08:00",
+      "location": "OEM602, Oen Hall Building (Main Building), Ho Sin Hang Campus, HKBU",
+      "description": "Edinburgh Napier University – BA HRM with Organisational Psychology, Oct 2026 Trimester (Week 14)\nLecturers: Dr Pallvi Arora (ENU) / Ms Jessica Chung (HKBU-SCE)",
+      "target_calendar": "netunewong@gmail.com",
+      "matches": [
+        {
+          "id": "uefsjsge3940c8sv50noq5oo2s",
+          "location": "OEM602, Oen Hall Building (Main Building), Ho Sin Hang Campus, HKBU"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "uefsjsge3940c8sv50noq5oo2s",
+          "organizer": "netunewong@gmail.com",
+          "location": "OEM602, Oen Hall Building (Main Building), Ho Sin Hang Campus, HKBU"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "NOVEL_AI_Marketing_Bootcamp_Nov2026.ics",
+      "uid": "c10767a1-3762-4fb4-b5dc-460bf5dc9572@autocalendarentry",
+      "title": "NOVEL — AI 驅動的全方位數位行銷與網站優化實戰營",
+      "start": "2026-11-10T10:00:00+08:00",
+      "end": "2026-11-10T19:00:00+08:00",
+      "location": "九龍觀塘鴻圖道32號德華中心1705室",
+      "description": "AI-Powered Comprehensive Digital Marketing & Website Optimization Bootcamp",
+      "target_calendar": "neccl.mail@gmail.com",
+      "matches": [
+        {
+          "id": "h33ieb25bl9eu781oitbgrrmd0",
+          "location": "九龍觀塘鴻圖道32號德華中心1705室"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "r34b5caljj8a436sakctqj9bf8",
+          "organizer": "neccl.mail@gmail.com",
+          "location": "九龍觀塘鴻圖道32號德華中心1705室"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "NOVEL_AI_Marketing_Bootcamp_Nov2026.ics",
+      "uid": "71cf02b4-6e7c-43d8-9122-bc4f4b6351be@autocalendarentry",
+      "title": "NOVEL — AI 驅動的全方位數位行銷與網站優化實戰營",
+      "start": "2026-11-13T10:00:00+08:00",
+      "end": "2026-11-13T19:00:00+08:00",
+      "location": "九龍觀塘鴻圖道32號德華中心1705室",
+      "description": "AI-Powered Comprehensive Digital Marketing & Website Optimization Bootcamp",
+      "target_calendar": "neccl.mail@gmail.com",
+      "matches": [
+        {
+          "id": "bbgobupmbclrhf1ghhngoaj8qo",
+          "location": "九龍觀塘鴻圖道32號德華中心1705室"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "aht24pho1bhcrkt0f7pa12mmu4",
+          "organizer": "neccl.mail@gmail.com",
+          "location": "九龍觀塘鴻圖道32號德華中心1705室"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "NOVEL_AI_Marketing_Bootcamp_Nov2026.ics",
+      "uid": "c2490e1a-681f-4b1c-8dc3-c3bc9cb1c983@autocalendarentry",
+      "title": "NOVEL — AI 驅動的全方位數位行銷與網站優化實戰營",
+      "start": "2026-11-17T10:00:00+08:00",
+      "end": "2026-11-17T19:00:00+08:00",
+      "location": "九龍觀塘鴻圖道32號德華中心1705室",
+      "description": "AI-Powered Comprehensive Digital Marketing & Website Optimization Bootcamp",
+      "target_calendar": "neccl.mail@gmail.com",
+      "matches": [
+        {
+          "id": "oo9c716qpdbjjq3jdjvp1679mg",
+          "location": "九龍觀塘鴻圖道32號德華中心1705室"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "3antb5pgi056gf64r1llnhiumk",
+          "organizer": "neccl.mail@gmail.com",
+          "location": "九龍觀塘鴻圖道32號德華中心1705室"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "NOVEL_Climbing_2026-27.ics",
+      "uid": "novel-climbing-2026-0@autocalendarentry",
+      "title": "NOVEL 運動攀登隊訓練 (1/20)",
+      "start": "2026-10-03T09:00:00+08:00",
+      "end": "2026-10-03T11:00:00+08:00",
+      "location": "北角衞理小學",
+      "description": "NOVEL 運動攀登隊訓練（星期六，共20節）\n導師：潘sir, Molly, R, 邦",
+      "target_calendar": "neccl.mail@gmail.com",
+      "matches": [
+        {
+          "id": "dgjmjvhjjejjhr898pl92h9t94",
+          "location": "北角衞理小學"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "jieej5757b0ahhl7irlqps7ahk",
+          "organizer": "neccl.mail@gmail.com",
+          "location": "北角衞理小學"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "NOVEL_Climbing_2026-27.ics",
+      "uid": "novel-climbing-2026-1@autocalendarentry",
+      "title": "NOVEL 運動攀登隊訓練 (2/20)",
+      "start": "2026-10-10T09:00:00+08:00",
+      "end": "2026-10-10T11:00:00+08:00",
+      "location": "北角衞理小學",
+      "description": "NOVEL 運動攀登隊訓練（星期六，共20節）\n導師：潘sir, Molly, R, 邦",
+      "target_calendar": "neccl.mail@gmail.com",
+      "matches": [
+        {
+          "id": "l1pc92crufkebdco6rjulq5r4c",
+          "location": "北角衞理小學"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "0c6l9gc5055crtquaokr8om2bo",
+          "organizer": "neccl.mail@gmail.com",
+          "location": "北角衞理小學"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "NOVEL_Climbing_2026-27.ics",
+      "uid": "novel-climbing-2026-2@autocalendarentry",
+      "title": "NOVEL 運動攀登隊訓練 (3/20)",
+      "start": "2026-10-17T09:00:00+08:00",
+      "end": "2026-10-17T11:00:00+08:00",
+      "location": "北角衞理小學",
+      "description": "NOVEL 運動攀登隊訓練（星期六，共20節）\n導師：潘sir, Molly, R, 邦",
+      "target_calendar": "neccl.mail@gmail.com",
+      "matches": [
+        {
+          "id": "nadqtb67iv3o486noobadn18mc",
+          "location": "北角衞理小學"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "rvfelvfc5no2qe5upb7v7a8mko",
+          "organizer": "neccl.mail@gmail.com",
+          "location": "北角衞理小學"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "NOVEL_Climbing_2026-27.ics",
+      "uid": "novel-climbing-2026-3@autocalendarentry",
+      "title": "NOVEL 運動攀登隊訓練 (4/20)",
+      "start": "2026-10-31T09:00:00+08:00",
+      "end": "2026-10-31T11:00:00+08:00",
+      "location": "北角衞理小學",
+      "description": "NOVEL 運動攀登隊訓練（星期六，共20節）\n導師：潘sir, Molly, R, 邦",
+      "target_calendar": "neccl.mail@gmail.com",
+      "matches": [
+        {
+          "id": "b3bjs7247l37841e1shd1m974c",
+          "location": "北角衞理小學"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "5980crdd6jkipqksqvagko9osk",
+          "organizer": "neccl.mail@gmail.com",
+          "location": "北角衞理小學"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "NOVEL_Climbing_2026-27.ics",
+      "uid": "novel-climbing-2026-4@autocalendarentry",
+      "title": "NOVEL 運動攀登隊訓練 (5/20)",
+      "start": "2026-11-14T09:00:00+08:00",
+      "end": "2026-11-14T11:00:00+08:00",
+      "location": "北角衞理小學",
+      "description": "NOVEL 運動攀登隊訓練（星期六，共20節）\n導師：潘sir, Molly, R, 邦",
+      "target_calendar": "neccl.mail@gmail.com",
+      "matches": [
+        {
+          "id": "2squl2v3jchld0l2jgeu402f60",
+          "location": "北角衞理小學"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "j4krneh8de8qfvvd1jaohn5bbc",
+          "organizer": "neccl.mail@gmail.com",
+          "location": "北角衞理小學"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "NOVEL_Climbing_2026-27.ics",
+      "uid": "novel-climbing-2026-5@autocalendarentry",
+      "title": "NOVEL 運動攀登隊訓練 (6/20)",
+      "start": "2026-11-28T09:00:00+08:00",
+      "end": "2026-11-28T11:00:00+08:00",
+      "location": "北角衞理小學",
+      "description": "NOVEL 運動攀登隊訓練（星期六，共20節）\n導師：潘sir, Molly, R, 邦",
+      "target_calendar": "neccl.mail@gmail.com",
+      "matches": [
+        {
+          "id": "crqripae8i5gkdmca0ionjl8ik",
+          "location": "北角衞理小學"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "cvh6cdt73l10jvspeva3229ev8",
+          "organizer": "neccl.mail@gmail.com",
+          "location": "北角衞理小學"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "NOVEL_Climbing_2026-27.ics",
+      "uid": "novel-climbing-2026-6@autocalendarentry",
+      "title": "NOVEL 運動攀登隊訓練 (7/20)",
+      "start": "2026-12-05T09:00:00+08:00",
+      "end": "2026-12-05T11:00:00+08:00",
+      "location": "北角衞理小學",
+      "description": "NOVEL 運動攀登隊訓練（星期六，共20節）\n導師：潘sir, Molly, R, 邦",
+      "target_calendar": "neccl.mail@gmail.com",
+      "matches": [
+        {
+          "id": "616sia5krsl1foevsf832n9hqs",
+          "location": "北角衞理小學"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "utrrjpqcltmab2vrgs3hs35hqs",
+          "organizer": "neccl.mail@gmail.com",
+          "location": "北角衞理小學"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "NOVEL_Climbing_2026-27.ics",
+      "uid": "novel-climbing-2026-7@autocalendarentry",
+      "title": "NOVEL 運動攀登隊訓練 (8/20)",
+      "start": "2026-12-12T09:00:00+08:00",
+      "end": "2026-12-12T11:00:00+08:00",
+      "location": "北角衞理小學",
+      "description": "NOVEL 運動攀登隊訓練（星期六，共20節）\n導師：潘sir, Molly, R, 邦",
+      "target_calendar": "neccl.mail@gmail.com",
+      "matches": [
+        {
+          "id": "ufjn10n4a0oauke1vktn49utf4",
+          "location": "北角衞理小學"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "rt8mag4ee2tumj1jvsa9q3h1j4",
+          "organizer": "neccl.mail@gmail.com",
+          "location": "北角衞理小學"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "NOVEL_Climbing_2026-27.ics",
+      "uid": "novel-climbing-2026-8@autocalendarentry",
+      "title": "NOVEL 運動攀登隊訓練 (9/20)",
+      "start": "2027-01-16T09:00:00+08:00",
+      "end": "2027-01-16T11:00:00+08:00",
+      "location": "北角衞理小學",
+      "description": "NOVEL 運動攀登隊訓練（星期六，共20節）\n導師：潘sir, Molly, R, 邦",
+      "target_calendar": "neccl.mail@gmail.com",
+      "matches": [
+        {
+          "id": "mt7inih1uht8aqjkf6pd80iceg",
+          "location": "北角衞理小學"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "sm6cqa2br5847b59g378e99ve0",
+          "organizer": "neccl.mail@gmail.com",
+          "location": "北角衞理小學"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "NOVEL_Climbing_2026-27.ics",
+      "uid": "novel-climbing-2026-9@autocalendarentry",
+      "title": "NOVEL 運動攀登隊訓練 (10/20)",
+      "start": "2027-01-23T09:00:00+08:00",
+      "end": "2027-01-23T11:00:00+08:00",
+      "location": "北角衞理小學",
+      "description": "NOVEL 運動攀登隊訓練（星期六，共20節）\n導師：潘sir, Molly, R, 邦",
+      "target_calendar": "neccl.mail@gmail.com",
+      "matches": [
+        {
+          "id": "gbnq5fd62sfodgf9ugib2uldbs",
+          "location": "北角衞理小學"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "bd6vvg8mn1ducgvi7bvbt9ehcg",
+          "organizer": "neccl.mail@gmail.com",
+          "location": "北角衞理小學"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "NOVEL_Climbing_2026-27.ics",
+      "uid": "novel-climbing-2026-10@autocalendarentry",
+      "title": "NOVEL 運動攀登隊訓練 (11/20)",
+      "start": "2027-02-20T09:00:00+08:00",
+      "end": "2027-02-20T11:00:00+08:00",
+      "location": "北角衞理小學",
+      "description": "NOVEL 運動攀登隊訓練（星期六，共20節）\n導師：潘sir, Molly, R, 邦",
+      "target_calendar": "neccl.mail@gmail.com",
+      "matches": [
+        {
+          "id": "igq9rsiei85vj1f63gdolhjdog",
+          "location": "北角衞理小學"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "4m9bsh99gmc432bted19r92qp4",
+          "organizer": "neccl.mail@gmail.com",
+          "location": "北角衞理小學"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "NOVEL_Climbing_2026-27.ics",
+      "uid": "novel-climbing-2026-11@autocalendarentry",
+      "title": "NOVEL 運動攀登隊訓練 (12/20)",
+      "start": "2027-02-27T09:00:00+08:00",
+      "end": "2027-02-27T11:00:00+08:00",
+      "location": "北角衞理小學",
+      "description": "NOVEL 運動攀登隊訓練（星期六，共20節）\n導師：潘sir, Molly, R, 邦",
+      "target_calendar": "neccl.mail@gmail.com",
+      "matches": [
+        {
+          "id": "ki8fv13mpghau37p3h50iehu2g",
+          "location": "北角衞理小學"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "nv2jubi1hhdqgqn4kn27r081tg",
+          "organizer": "neccl.mail@gmail.com",
+          "location": "北角衞理小學"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "NOVEL_Climbing_2026-27.ics",
+      "uid": "novel-climbing-2026-12@autocalendarentry",
+      "title": "NOVEL 運動攀登隊訓練 (13/20)",
+      "start": "2027-03-13T09:00:00+08:00",
+      "end": "2027-03-13T11:00:00+08:00",
+      "location": "北角衞理小學",
+      "description": "NOVEL 運動攀登隊訓練（星期六，共20節）\n導師：潘sir, Molly, R, 邦",
+      "target_calendar": "neccl.mail@gmail.com",
+      "matches": [
+        {
+          "id": "eufgakulfj51hulvuff8bculsk",
+          "location": "北角衞理小學"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "scd2q7slh0n8na13jprlau87to",
+          "organizer": "neccl.mail@gmail.com",
+          "location": "北角衞理小學"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "NOVEL_Climbing_2026-27.ics",
+      "uid": "novel-climbing-2026-13@autocalendarentry",
+      "title": "NOVEL 運動攀登隊訓練 (14/20)",
+      "start": "2027-03-20T09:00:00+08:00",
+      "end": "2027-03-20T11:00:00+08:00",
+      "location": "北角衞理小學",
+      "description": "NOVEL 運動攀登隊訓練（星期六，共20節）\n導師：潘sir, Molly, R, 邦",
+      "target_calendar": "neccl.mail@gmail.com",
+      "matches": [
+        {
+          "id": "vaqr3uhuh4flmrvfttv235b8t8",
+          "location": "北角衞理小學"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "pogrent2q9rm9qjd6t2j20qdms",
+          "organizer": "neccl.mail@gmail.com",
+          "location": "北角衞理小學"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "NOVEL_Climbing_2026-27.ics",
+      "uid": "novel-climbing-2026-14@autocalendarentry",
+      "title": "NOVEL 運動攀登隊訓練 (15/20)",
+      "start": "2027-04-10T09:00:00+08:00",
+      "end": "2027-04-10T11:00:00+08:00",
+      "location": "北角衞理小學",
+      "description": "NOVEL 運動攀登隊訓練（星期六，共20節）\n導師：潘sir, Molly, R, 邦",
+      "target_calendar": "neccl.mail@gmail.com",
+      "matches": [
+        {
+          "id": "14bksu78tsm410kofv0lsnvctg",
+          "location": "北角衞理小學"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "1pgmr74too5agsplgi1s5kdets",
+          "organizer": "neccl.mail@gmail.com",
+          "location": "北角衞理小學"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "NOVEL_Climbing_2026-27.ics",
+      "uid": "novel-climbing-2026-15@autocalendarentry",
+      "title": "NOVEL 運動攀登隊訓練 (16/20)",
+      "start": "2027-04-17T09:00:00+08:00",
+      "end": "2027-04-17T11:00:00+08:00",
+      "location": "北角衞理小學",
+      "description": "NOVEL 運動攀登隊訓練（星期六，共20節）\n導師：潘sir, Molly, R, 邦",
+      "target_calendar": "neccl.mail@gmail.com",
+      "matches": [
+        {
+          "id": "3ohlm3ki7ea2jvum4oardebucc",
+          "location": "北角衞理小學"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "8li9navn8d1lilet0vc560unms",
+          "organizer": "neccl.mail@gmail.com",
+          "location": "北角衞理小學"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "NOVEL_Climbing_2026-27.ics",
+      "uid": "novel-climbing-2026-16@autocalendarentry",
+      "title": "NOVEL 運動攀登隊訓練 (17/20)",
+      "start": "2027-05-08T09:00:00+08:00",
+      "end": "2027-05-08T11:00:00+08:00",
+      "location": "北角衞理小學",
+      "description": "NOVEL 運動攀登隊訓練（星期六，共20節）\n導師：潘sir, Molly, R, 邦",
+      "target_calendar": "neccl.mail@gmail.com",
+      "matches": [
+        {
+          "id": "v1g3vobjm716jgqfj19j1ktnpc",
+          "location": "北角衞理小學"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "ma8qllfnrha205u4i07mresolg",
+          "organizer": "neccl.mail@gmail.com",
+          "location": "北角衞理小學"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "NOVEL_Climbing_2026-27.ics",
+      "uid": "novel-climbing-2026-17@autocalendarentry",
+      "title": "NOVEL 運動攀登隊訓練 (18/20)",
+      "start": "2027-05-15T09:00:00+08:00",
+      "end": "2027-05-15T11:00:00+08:00",
+      "location": "北角衞理小學",
+      "description": "NOVEL 運動攀登隊訓練（星期六，共20節）\n導師：潘sir, Molly, R, 邦",
+      "target_calendar": "neccl.mail@gmail.com",
+      "matches": [
+        {
+          "id": "j1nr255c2uno2nfg549frkdjb8",
+          "location": "北角衞理小學"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "38kfbuv27p6pnj6cqjogqub01c",
+          "organizer": "neccl.mail@gmail.com",
+          "location": "北角衞理小學"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "NOVEL_Climbing_2026-27.ics",
+      "uid": "novel-climbing-2026-18@autocalendarentry",
+      "title": "NOVEL 運動攀登隊訓練 (19/20)",
+      "start": "2027-05-22T09:00:00+08:00",
+      "end": "2027-05-22T11:00:00+08:00",
+      "location": "北角衞理小學",
+      "description": "NOVEL 運動攀登隊訓練（星期六，共20節）\n導師：潘sir, Molly, R, 邦",
+      "target_calendar": "neccl.mail@gmail.com",
+      "matches": [
+        {
+          "id": "2knh4sibe033r57c5sk0q7ks58",
+          "location": "北角衞理小學"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "piih9p9o9b5oog4etbmhoipi60",
+          "organizer": "neccl.mail@gmail.com",
+          "location": "北角衞理小學"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "NOVEL_Climbing_2026-27.ics",
+      "uid": "novel-climbing-2026-19@autocalendarentry",
+      "title": "NOVEL 運動攀登隊訓練 (20/20)",
+      "start": "2027-05-29T09:00:00+08:00",
+      "end": "2027-05-29T11:00:00+08:00",
+      "location": "北角衞理小學",
+      "description": "NOVEL 運動攀登隊訓練（星期六，共20節）\n導師：潘sir, Molly, R, 邦",
+      "target_calendar": "neccl.mail@gmail.com",
+      "matches": [
+        {
+          "id": "go9rnskjgfgv043d0d1a68j15k",
+          "location": "北角衞理小學"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "lih15s8avvg2bplgkgn322gkjo",
+          "organizer": "neccl.mail@gmail.com",
+          "location": "北角衞理小學"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "NOVEL_KaiWan_Climbing_2026-27.ics",
+      "uid": "novel-kaiwan-climbing-2026-0@autocalendarentry",
+      "title": "NOVEL 基灣小學攀石隊訓練 (1/13)",
+      "start": "2026-09-22T15:00:00+08:00",
+      "end": "2026-09-22T16:30:00+08:00",
+      "location": "中華基督教會基灣小學（愛蝶灣）",
+      "description": "NOVEL – CCC基灣小學（愛蝶灣）攀石隊訓練（星期二，共13節）\n導師：King, Sue, Him",
+      "target_calendar": "neccl.mail@gmail.com",
+      "matches": [
+        {
+          "id": "coovndutaosnlbdbfamuk4mskk",
+          "location": "中華基督教會基灣小學（愛蝶灣）"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "s7ghra8c6unfbnuga98440tu28",
+          "organizer": "neccl.mail@gmail.com",
+          "location": "中華基督教會基灣小學（愛蝶灣）"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "NOVEL_KaiWan_Climbing_2026-27.ics",
+      "uid": "novel-kaiwan-climbing-2026-1@autocalendarentry",
+      "title": "NOVEL 基灣小學攀石隊 – 外出鯉魚門體育館攀石牆 (2/13)",
+      "start": "2026-09-29T15:00:00+08:00",
+      "end": "2026-09-29T16:30:00+08:00",
+      "location": "鯉魚門體育館",
+      "description": "NOVEL – CCC基灣小學（愛蝶灣）攀石隊訓練（星期二，共13節）\n本月最後一節：外出鯉魚門體育館攀石牆（需預先 book 場）\n導師：King, Sue, Him",
+      "target_calendar": "neccl.mail@gmail.com",
+      "matches": [
+        {
+          "id": "f5qrieavkgn05fb1etpguelv9s",
+          "location": "鯉魚門體育館"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "1fm2vp2gbd2vmeum40am576tcg",
+          "organizer": "neccl.mail@gmail.com",
+          "location": "鯉魚門體育館"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "NOVEL_KaiWan_Climbing_2026-27.ics",
+      "uid": "novel-kaiwan-climbing-2026-2@autocalendarentry",
+      "title": "NOVEL 基灣小學攀石隊訓練 (3/13)",
+      "start": "2026-10-06T15:00:00+08:00",
+      "end": "2026-10-06T16:30:00+08:00",
+      "location": "中華基督教會基灣小學（愛蝶灣）",
+      "description": "NOVEL – CCC基灣小學（愛蝶灣）攀石隊訓練（星期二，共13節）\n導師：King, Sue, Him",
+      "target_calendar": "neccl.mail@gmail.com",
+      "matches": [
+        {
+          "id": "ginvml003b4undd18ekn92vhmg",
+          "location": "中華基督教會基灣小學（愛蝶灣）"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "231ivlfar2ev99bdegnji6b3ss",
+          "organizer": "neccl.mail@gmail.com",
+          "location": "中華基督教會基灣小學（愛蝶灣）"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "NOVEL_KaiWan_Climbing_2026-27.ics",
+      "uid": "novel-kaiwan-climbing-2026-3@autocalendarentry",
+      "title": "NOVEL 基灣小學攀石隊 – 外出鯉魚門體育館攀石牆 (4/13)",
+      "start": "2026-10-27T15:00:00+08:00",
+      "end": "2026-10-27T16:30:00+08:00",
+      "location": "鯉魚門體育館",
+      "description": "NOVEL – CCC基灣小學（愛蝶灣）攀石隊訓練（星期二，共13節）\n本月最後一節：外出鯉魚門體育館攀石牆（需預先 book 場）\n導師：King, Sue, Him",
+      "target_calendar": "neccl.mail@gmail.com",
+      "matches": [
+        {
+          "id": "3cpt7mbln0nivvqqvgh1colih0",
+          "location": "鯉魚門體育館"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "qde0prr2dfdumec1rfv52rcdo8",
+          "organizer": "neccl.mail@gmail.com",
+          "location": "鯉魚門體育館"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "NOVEL_KaiWan_Climbing_2026-27.ics",
+      "uid": "novel-kaiwan-climbing-2026-4@autocalendarentry",
+      "title": "NOVEL 基灣小學攀石隊訓練 (5/13)",
+      "start": "2026-11-03T15:00:00+08:00",
+      "end": "2026-11-03T16:30:00+08:00",
+      "location": "中華基督教會基灣小學（愛蝶灣）",
+      "description": "NOVEL – CCC基灣小學（愛蝶灣）攀石隊訓練（星期二，共13節）\n導師：King, Sue, Him",
+      "target_calendar": "neccl.mail@gmail.com",
+      "matches": [
+        {
+          "id": "hm5k5d3l5jpngj0shv6rjk4km8",
+          "location": "中華基督教會基灣小學（愛蝶灣）"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "ccugaqp96i5pqocjtnsdeaudf8",
+          "organizer": "neccl.mail@gmail.com",
+          "location": "中華基督教會基灣小學（愛蝶灣）"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "NOVEL_KaiWan_Climbing_2026-27.ics",
+      "uid": "novel-kaiwan-climbing-2026-5@autocalendarentry",
+      "title": "NOVEL 基灣小學攀石隊訓練 (6/13)",
+      "start": "2026-11-10T15:00:00+08:00",
+      "end": "2026-11-10T16:30:00+08:00",
+      "location": "中華基督教會基灣小學（愛蝶灣）",
+      "description": "NOVEL – CCC基灣小學（愛蝶灣）攀石隊訓練（星期二，共13節）\n導師：King, Sue, Him",
+      "target_calendar": "neccl.mail@gmail.com",
+      "matches": [
+        {
+          "id": "kgbammcoblhnldrfm8qb2up6b4",
+          "location": "中華基督教會基灣小學（愛蝶灣）"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "7sk2hk2kvgb5qoli6vg54ek4dk",
+          "organizer": "neccl.mail@gmail.com",
+          "location": "中華基督教會基灣小學（愛蝶灣）"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "NOVEL_KaiWan_Climbing_2026-27.ics",
+      "uid": "novel-kaiwan-climbing-2026-6@autocalendarentry",
+      "title": "NOVEL 基灣小學攀石隊 – 外出鯉魚門體育館攀石牆 (7/13)",
+      "start": "2026-11-17T15:00:00+08:00",
+      "end": "2026-11-17T16:30:00+08:00",
+      "location": "鯉魚門體育館",
+      "description": "NOVEL – CCC基灣小學（愛蝶灣）攀石隊訓練（星期二，共13節）\n本月最後一節：外出鯉魚門體育館攀石牆（需預先 book 場）\n導師：King, Sue, Him",
+      "target_calendar": "neccl.mail@gmail.com",
+      "matches": [
+        {
+          "id": "8jnh9d0q012li90sh9jqk890os",
+          "location": "鯉魚門體育館"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "hcehqbbjdou3jf3q2or86ssuf4",
+          "organizer": "neccl.mail@gmail.com",
+          "location": "鯉魚門體育館"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "NOVEL_KaiWan_Climbing_2026-27.ics",
+      "uid": "novel-kaiwan-climbing-2026-7@autocalendarentry",
+      "title": "NOVEL 基灣小學攀石隊訓練 (8/13) ⚠️King缺席",
+      "start": "2026-12-08T15:00:00+08:00",
+      "end": "2026-12-08T16:30:00+08:00",
+      "location": "中華基督教會基灣小學（愛蝶灣）",
+      "description": "NOVEL – CCC基灣小學（愛蝶灣）攀石隊訓練（星期二，共13節）\n導師：Sue, Him + 代課導師（King 帶團訓練，未能出席）\n⚠️ King 撞期帶團訓練，需於一個月前邀請代課導師",
+      "target_calendar": "neccl.mail@gmail.com",
+      "matches": [
+        {
+          "id": "tspk8kn5dpauhilgm9unh7cg4g",
+          "location": "中華基督教會基灣小學（愛蝶灣）"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "pl4c2s28is3sirbocori2fmo34",
+          "organizer": "neccl.mail@gmail.com",
+          "location": "中華基督教會基灣小學（愛蝶灣）"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "NOVEL_KaiWan_Climbing_2026-27.ics",
+      "uid": "novel-kaiwan-climbing-2026-8@autocalendarentry",
+      "title": "NOVEL 基灣小學攀石隊 – 外出鯉魚門體育館攀石牆 (9/13) ⚠️King缺席",
+      "start": "2026-12-15T15:00:00+08:00",
+      "end": "2026-12-15T16:30:00+08:00",
+      "location": "鯉魚門體育館",
+      "description": "NOVEL – CCC基灣小學（愛蝶灣）攀石隊訓練（星期二，共13節）\n本月最後一節：外出鯉魚門體育館攀石牆（需預先 book 場）\n導師：Sue, Him + 代課導師（King 帶團訓練，未能出席）\n⚠️ King 撞期帶團訓練，需於一個月前邀請代課導師",
+      "target_calendar": "neccl.mail@gmail.com",
+      "matches": [
+        {
+          "id": "160ds5136sil794j5tfmgeg8o8",
+          "location": "鯉魚門體育館"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "solmbua39a4biq79c73q6ev0ic",
+          "organizer": "neccl.mail@gmail.com",
+          "location": "鯉魚門體育館"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "NOVEL_KaiWan_Climbing_2026-27.ics",
+      "uid": "novel-kaiwan-climbing-2026-9@autocalendarentry",
+      "title": "NOVEL 基灣小學攀石隊訓練 (10/13)",
+      "start": "2027-01-05T15:00:00+08:00",
+      "end": "2027-01-05T16:30:00+08:00",
+      "location": "中華基督教會基灣小學（愛蝶灣）",
+      "description": "NOVEL – CCC基灣小學（愛蝶灣）攀石隊訓練（星期二，共13節）\n導師：King, Sue, Him",
+      "target_calendar": "neccl.mail@gmail.com",
+      "matches": [
+        {
+          "id": "huvkiqiba1p1r8sn7mrprmlv70",
+          "location": "中華基督教會基灣小學（愛蝶灣）"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "ok0bq3ol0fcq3jp0h5i7h991r4",
+          "organizer": "neccl.mail@gmail.com",
+          "location": "中華基督教會基灣小學（愛蝶灣）"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "NOVEL_KaiWan_Climbing_2026-27.ics",
+      "uid": "novel-kaiwan-climbing-2026-10@autocalendarentry",
+      "title": "NOVEL 基灣小學攀石隊訓練 (11/13)",
+      "start": "2027-01-12T15:00:00+08:00",
+      "end": "2027-01-12T16:30:00+08:00",
+      "location": "中華基督教會基灣小學（愛蝶灣）",
+      "description": "NOVEL – CCC基灣小學（愛蝶灣）攀石隊訓練（星期二，共13節）\n導師：King, Sue, Him",
+      "target_calendar": "neccl.mail@gmail.com",
+      "matches": [
+        {
+          "id": "0462m927u853smpmg5tobeq204",
+          "location": "中華基督教會基灣小學（愛蝶灣）"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "4qu73oarmq1d2itep9ffr3rnjk",
+          "organizer": "neccl.mail@gmail.com",
+          "location": "中華基督教會基灣小學（愛蝶灣）"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "NOVEL_KaiWan_Climbing_2026-27.ics",
+      "uid": "novel-kaiwan-climbing-2026-11@autocalendarentry",
+      "title": "NOVEL 基灣小學攀石隊訓練 (12/13)",
+      "start": "2027-01-19T15:00:00+08:00",
+      "end": "2027-01-19T16:30:00+08:00",
+      "location": "中華基督教會基灣小學（愛蝶灣）",
+      "description": "NOVEL – CCC基灣小學（愛蝶灣）攀石隊訓練（星期二，共13節）\n導師：King, Sue, Him",
+      "target_calendar": "neccl.mail@gmail.com",
+      "matches": [
+        {
+          "id": "q11g7rjutu8d61i0a6q970pn7c",
+          "location": "中華基督教會基灣小學（愛蝶灣）"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "6qodul555qohe6tt521n30dolg",
+          "organizer": "neccl.mail@gmail.com",
+          "location": "中華基督教會基灣小學（愛蝶灣）"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "source": "NOVEL_KaiWan_Climbing_2026-27.ics",
+      "uid": "novel-kaiwan-climbing-2026-12@autocalendarentry",
+      "title": "NOVEL 基灣小學攀石隊 – 外出鯉魚門體育館攀石牆 (13/13)",
+      "start": "2027-01-26T15:00:00+08:00",
+      "end": "2027-01-26T16:30:00+08:00",
+      "location": "鯉魚門體育館",
+      "description": "NOVEL – CCC基灣小學（愛蝶灣）攀石隊訓練（星期二，共13節）\n本月最後一節：外出鯉魚門體育館攀石牆（需預先 book 場）\n導師：King, Sue, Him",
+      "target_calendar": "neccl.mail@gmail.com",
+      "matches": [
+        {
+          "id": "e534s0g2kacbgns8kmsdr17f64",
+          "location": "鯉魚門體育館"
+        }
+      ],
+      "location_match": true,
+      "final_events": [
+        {
+          "id": "3v9sa530nbpv4lecp1itd6gflc",
+          "organizer": "neccl.mail@gmail.com",
+          "location": "鯉魚門體育館"
+        }
+      ],
+      "verified": true
+    }
+  ],
+  "old_status": [
+    {
+      "id": "h33ieb25bl9eu781oitbgrrmd0",
+      "status": "cancelled"
+    },
+    {
+      "id": "bbgobupmbclrhf1ghhngoaj8qo",
+      "status": "cancelled"
+    },
+    {
+      "id": "oo9c716qpdbjjq3jdjvp1679mg",
+      "status": "cancelled"
+    },
+    {
+      "id": "dgjmjvhjjejjhr898pl92h9t94",
+      "status": "cancelled"
+    },
+    {
+      "id": "l1pc92crufkebdco6rjulq5r4c",
+      "status": "cancelled"
+    },
+    {
+      "id": "nadqtb67iv3o486noobadn18mc",
+      "status": "cancelled"
+    },
+    {
+      "id": "b3bjs7247l37841e1shd1m974c",
+      "status": "cancelled"
+    },
+    {
+      "id": "2squl2v3jchld0l2jgeu402f60",
+      "status": "cancelled"
+    },
+    {
+      "id": "crqripae8i5gkdmca0ionjl8ik",
+      "status": "cancelled"
+    },
+    {
+      "id": "616sia5krsl1foevsf832n9hqs",
+      "status": "cancelled"
+    },
+    {
+      "id": "ufjn10n4a0oauke1vktn49utf4",
+      "status": "cancelled"
+    },
+    {
+      "id": "mt7inih1uht8aqjkf6pd80iceg",
+      "status": "cancelled"
+    },
+    {
+      "id": "gbnq5fd62sfodgf9ugib2uldbs",
+      "status": "cancelled"
+    },
+    {
+      "id": "igq9rsiei85vj1f63gdolhjdog",
+      "status": "cancelled"
+    },
+    {
+      "id": "ki8fv13mpghau37p3h50iehu2g",
+      "status": "cancelled"
+    },
+    {
+      "id": "eufgakulfj51hulvuff8bculsk",
+      "status": "cancelled"
+    },
+    {
+      "id": "vaqr3uhuh4flmrvfttv235b8t8",
+      "status": "cancelled"
+    },
+    {
+      "id": "14bksu78tsm410kofv0lsnvctg",
+      "status": "cancelled"
+    },
+    {
+      "id": "3ohlm3ki7ea2jvum4oardebucc",
+      "status": "cancelled"
+    },
+    {
+      "id": "v1g3vobjm716jgqfj19j1ktnpc",
+      "status": "cancelled"
+    },
+    {
+      "id": "j1nr255c2uno2nfg549frkdjb8",
+      "status": "cancelled"
+    },
+    {
+      "id": "2knh4sibe033r57c5sk0q7ks58",
+      "status": "cancelled"
+    },
+    {
+      "id": "go9rnskjgfgv043d0d1a68j15k",
+      "status": "cancelled"
+    },
+    {
+      "id": "coovndutaosnlbdbfamuk4mskk",
+      "status": "cancelled"
+    },
+    {
+      "id": "f5qrieavkgn05fb1etpguelv9s",
+      "status": "cancelled"
+    },
+    {
+      "id": "ginvml003b4undd18ekn92vhmg",
+      "status": "cancelled"
+    },
+    {
+      "id": "3cpt7mbln0nivvqqvgh1colih0",
+      "status": "cancelled"
+    },
+    {
+      "id": "hm5k5d3l5jpngj0shv6rjk4km8",
+      "status": "cancelled"
+    },
+    {
+      "id": "kgbammcoblhnldrfm8qb2up6b4",
+      "status": "cancelled"
+    },
+    {
+      "id": "8jnh9d0q012li90sh9jqk890os",
+      "status": "cancelled"
+    },
+    {
+      "id": "tspk8kn5dpauhilgm9unh7cg4g",
+      "status": "cancelled"
+    },
+    {
+      "id": "160ds5136sil794j5tfmgeg8o8",
+      "status": "cancelled"
+    },
+    {
+      "id": "huvkiqiba1p1r8sn7mrprmlv70",
+      "status": "cancelled"
+    },
+    {
+      "id": "0462m927u853smpmg5tobeq204",
+      "status": "cancelled"
+    },
+    {
+      "id": "q11g7rjutu8d61i0a6q970pn7c",
+      "status": "cancelled"
+    },
+    {
+      "id": "e534s0g2kacbgns8kmsdr17f64",
+      "status": "cancelled"
+    }
+  ],
+  "note": "NOVEL events appear in primary as accepted attendee views with the SAME event ID; these are not separate duplicate events. NOVEL organizer ownership verified."
+}
