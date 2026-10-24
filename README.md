@@ -36,3 +36,5 @@
 有 Quotation 嘅活動喺 InstructionGenerate 出 Invoice 時，按 CLAUDE.md 固定安排同步 NOVEL 日曆，先查重、記錄實際事件 ID；指引同步本身唔補入歷史活動。
 
 報價單有場地佈置日期時，出 Invoice 同步 NOVEL 日曆亦要處理佈置事件；各自查重，冇確實時間用全日，成功操作記錄及備份。
+
+有Quotation出Invoice時，亦自動同步Zoom活動簡介會到NOVEL：正式活動前至少4個曆日、避週末，22:00–23:00，先查重並保存及備份成功紀錄。

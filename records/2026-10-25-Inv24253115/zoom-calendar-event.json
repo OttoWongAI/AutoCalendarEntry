@@ -1,0 +1,57 @@
+{
+  "calendar_id": "neccl.mail@gmail.com",
+  "action": "add",
+  "duplicate_check": "No events on NOVEL 2026-11-20",
+  "event": {
+    "guests_can_modify": null,
+    "locked": null,
+    "id": "1vul6pb0aqege2h3gigh15khfo",
+    "summary": "Zoom 活動簡介會 – 陳瑞祺(喇沙)小學 學校繩網活動體驗2026",
+    "status": "confirmed",
+    "organizer": {
+      "is_self": true,
+      "email": "neccl.mail@gmail.com",
+      "display_name": null
+    },
+    "description": "陳瑞祺(喇沙)小學 學校繩網活動體驗2026 Zoom簡介會 日期：20/11/2026 22:00–23:00（香港時間）\n內容：請大家有心理準備，需要思考、回應、分享。\n加入Zoom會議：https://us06web.zoom.us/j/2893569001?omn=88685050218 會議ID：289 356\n9001 密碼請參閱Mac備忘錄「Novel 活動」本次活動備忘。 Quotation No.：Q25264087；Invoice\nNo.：Inv24253115。 相關佈置25/11/2026 10:30–18:00；正式活動26/11/2026 08:00–15:00。\n日期按正式活動首日前至少4日，避開週末計算。來源：用戶確認及本次活動備忘。\n\n",
+    "location": "Zoom：https://us06web.zoom.us/j/2893569001?omn=88685050218",
+    "color_id": null,
+    "event_label_id": null,
+    "start": "2026-11-20T22:00:00+08:00",
+    "end": "2026-11-20T23:00:00+08:00",
+    "attendees": [
+      {
+        "email": "netunewong@gmail.com",
+        "response_status": "accepted",
+        "display_name": null,
+        "resource": null,
+        "optional": false,
+        "is_self": null
+      }
+    ],
+    "url": "https://www.google.com/calendar/event?eid=MXZ1bDZwYjBhcWVnZTJoM2dpZ2gxNWtoZm8gbmVjY2wubWFpbEBt",
+    "hangout_link": null,
+    "event_type": "default",
+    "transparency": "opaque",
+    "visibility": null,
+    "attachments": null,
+    "reminders": {
+      "use_default": false,
+      "overrides": [
+        {
+          "method": "popup",
+          "minutes": 10080
+        },
+        {
+          "method": "popup",
+          "minutes": 1440
+        }
+      ]
+    },
+    "recurrence": null,
+    "recurring_event_id": null,
+    "original_start_time": null,
+    "display_url": "https://www.google.com/calendar/event?eid=MXZ1bDZwYjBhcWVnZTJoM2dpZ2gxNWtoZm8gbmVjY2wubWFpbEBt",
+    "display_title": "Zoom 活動簡介會 – 陳瑞祺(喇沙)小學 學校繩網活動體驗2026"
+  }
+}
