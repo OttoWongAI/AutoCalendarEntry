@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-25",
+  "calendar_id": "neccl.mail@gmail.com",
+  "action": "update",
+  "source": "User requested adding Invoice Inv24253114 to existing Q25264097 event",
+  "before": {
+    "guests_can_modify": null,
+    "locked": null,
+    "id": "anko54m3bp1a98ppnv5e7n495o",
+    "summary": "School Sport Climb Wall Maintenance – 將軍澳循道衛理小學",
+    "status": "confirmed",
+    "organizer": {
+      "is_self": true,
+      "email": "neccl.mail@gmail.com",
+      "display_name": null
+    },
+    "description": "客戶：將軍澳循道衛理小學 聯絡人：鄭老師 電話：2706 0770 傳真：2706 2207 電郵：email@tkomps.edu.hk\nQuotation No.：Q25264097 報價日期：14/10/2026 項目：School Sport Climb Wall Maintenance\n工期：1日，約6小時；開始及結束時間未提供，設為全日活動。 施工日期：26/10/2026（用戶於本對話確認）\n地點未確認，暫用客戶地址：將軍澳唐俊街15號。 服務：提供建築材料、交通及所需器材，包含工作團隊服務費；維修最大攀石點的所有螺絲及約15–20顆攀石點螺絲。\n報價總額：HK$3,975（原價HK$5,300，轉介優惠）。 資料來源：Q25264097.jpg 及用戶訊息。\n\n",
+    "location": "將軍澳唐俊街15號",
+    "color_id": null,
+    "event_label_id": null,
+    "start": "2026-10-26T00:00:00",
+    "end": "2026-10-27T00:00:00",
+    "attendees": [
+      {
+        "email": "netunewong@gmail.com",
+        "response_status": "accepted",
+        "display_name": null,
+        "resource": null,
+        "optional": false,
+        "is_self": null
+      }
+    ],
+    "url": "https://www.google.com/calendar/event?eid=YW5rbzU0bTNicDFhOThwcG52NWU3bjQ5NW8gbmVjY2wubWFpbEBt",
+    "hangout_link": "https://meet.google.com/wwd-hdch-dcj",
+    "event_type": "default",
+    "transparency": "opaque",
+    "visibility": null,
+    "attachments": null,
+    "reminders": {
+      "use_default": false,
+      "overrides": [
+        {
+          "method": "popup",
+          "minutes": 10080
+        },
+        {
+          "method": "popup",
+          "minutes": 1440
+        }
+      ]
+    },
+    "recurrence": null,
+    "recurring_event_id": null,
+    "original_start_time": null,
+    "display_url": "https://www.google.com/calendar/event?eid=YW5rbzU0bTNicDFhOThwcG52NWU3bjQ5NW8gbmVjY2wubWFpbEBt",
+    "display_title": "School Sport Climb Wall Maintenance – 將軍澳循道衛理小學"
+  },
+  "after": {
+    "guests_can_modify": null,
+    "locked": null,
+    "id": "anko54m3bp1a98ppnv5e7n495o",
+    "summary": "School Sport Climb Wall Maintenance – 將軍澳循道衛理小學",
+    "status": "confirmed",
+    "organizer": {
+      "is_self": true,
+      "email": "neccl.mail@gmail.com",
+      "display_name": null
+    },
+    "description": "客戶：將軍澳循道衛理小學 聯絡人：鄭老師 電話：2706 0770 傳真：2706 2207 電郵：email@tkomps.edu.hk\nQuotation No.：Q25264097 報價日期：14/10/2026 項目：School Sport Climb Wall Maintenance\n工期：1日，約6小時；開始及結束時間未提供，設為全日活動。 施工日期：26/10/2026（用戶於本對話確認）\n地點未確認，暫用客戶地址：將軍澳唐俊街15號。 服務：提供建築材料、交通及所需器材，包含工作團隊服務費；維修最大攀石點的所有螺絲及約15–20顆攀石點螺絲。\n報價總額：HK$3,975（原價HK$5,300，轉介優惠）。 資料來源：Q25264097.jpg 及用戶訊息。 Invoice\nNo.：Inv24253114\n\n",
+    "location": "將軍澳唐俊街15號",
+    "color_id": null,
+    "event_label_id": null,
+    "start": "2026-10-26T00:00:00",
+    "end": "2026-10-27T00:00:00",
+    "attendees": [
+      {
+        "email": "netunewong@gmail.com",
+        "response_status": "accepted",
+        "display_name": null,
+        "resource": null,
+        "optional": false,
+        "is_self": null
+      }
+    ],
+    "url": "https://www.google.com/calendar/event?eid=YW5rbzU0bTNicDFhOThwcG52NWU3bjQ5NW8gbmVjY2wubWFpbEBt",
+    "hangout_link": "https://meet.google.com/wwd-hdch-dcj",
+    "event_type": "default",
+    "transparency": "opaque",
+    "visibility": null,
+    "attachments": null,
+    "reminders": {
+      "use_default": false,
+      "overrides": [
+        {
+          "method": "popup",
+          "minutes": 1440
+        },
+        {
+          "method": "popup",
+          "minutes": 10080
+        }
+      ]
+    },
+    "recurrence": null,
+    "recurring_event_id": null,
+    "original_start_time": null,
+    "display_url": "https://www.google.com/calendar/event?eid=YW5rbzU0bTNicDFhOThwcG52NWU3bjQ5NW8gbmVjY2wubWFpbEBt",
+    "display_title": "School Sport Climb Wall Maintenance – 將軍澳循道衛理小學"
+  }
+}
