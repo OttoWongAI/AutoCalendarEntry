@@ -7,6 +7,7 @@
 - 使用可用 Google Calendar 連接工具，先讀工具 schema，確認帳戶／日曆權限；對目標日曆查重後先操作。ICS 唔代替直接加入日曆。
 - 指引／同步／備份工作唔會自動觸發匯入舊 ICS。唔好捏造 event ID 或歷史操作紀錄。
 - 每項工作完成後保留檔案、必要備份及完整資料，檢查變更，再 commit、push `main`；確認遠端一致先稱為已備份。唔提交登入憑證。
+- 已確認報價活動先按 CLAUDE.md 到指定 `Novel_New` 資料夾查報價、確認版本及相關資料；搵唔到或唔清楚先問用戶。
 - 本專案同 InstructionGenerate 嘅 Invoice／Receipt 業務分開；唔好執行其他 repo 嘅出單流程。
 
 ## 從 InstructionGenerate 維護及同步

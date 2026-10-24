@@ -28,3 +28,7 @@
 ## 從 InstructionGenerate 維護及同步
 
 2026-10-24 用戶已授權固定安排：喺 InstructionGenerate 修改本專案指引或補充資料時，實際更新本 repo，並喺 InstructionGenerate 保留完整可攜副本；兩邊分別 commit、push 及確認成功，唔使再問係咪要套用或同步。Claude／Codex 均遵守 [維護及同步流程](instructions/AutoCalendarEntry-maintenance.md)。補充資料保存來源及確認日期；文件同步唔代表授權修改 Google Calendar，用戶要求暫時唔改日曆時保持原樣。
+
+## 已確認報價活動資料
+
+先到 CLAUDE.md 指定嘅 OneDrive `Novel_New` 資料夾查對應報價、確認版本、編號表及相關活動資料；搵唔到或唔清楚先問用戶。完整查找及核對規則見 [CLAUDE.md](CLAUDE.md)。
