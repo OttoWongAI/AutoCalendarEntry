@@ -1,0 +1,62 @@
+{
+  "action": "add",
+  "calendar_id": "neccl.mail@gmail.com",
+  "duplicate_check": {
+    "time_min": "2026-11-04T00:00:00+08:00",
+    "time_max": "2026-11-05T00:00:00+08:00",
+    "events": []
+  },
+  "event": {
+    "guests_can_modify": null,
+    "locked": null,
+    "id": "mhe3ovvq5gl0uctaubicn2qahk",
+    "summary": "學校繩網活動挑戰日2026 – 香港浸會大學附屬學校王錦輝中小學（中學部）",
+    "status": "confirmed",
+    "organizer": {
+      "is_self": true,
+      "email": "neccl.mail@gmail.com",
+      "display_name": null
+    },
+    "description": "客戶：香港浸會大學附屬學校王錦輝中小學（中學部） 活動：學校繩網活動挑戰日2026 日期及時間：4/11/2026 08:30–15:30（香港時間）\n地點：School；沙田石門安睦里6號（原單學校地址） 聯絡人：Wong King Wai Tommy 電話：2637 2270；傳真：2637 2043\nQuotation No.：Q25264083 Invoice No.：Inv24253111 Invoice\n金額：HK$45,710（開單金額，非實收確認） 資料來源：records/invoices/Inv24253111.json、原\nInvoice，以及用戶本次要求。只加入11月4日活動，不包括11月3日場地佈置。\n\n",
+    "location": "香港浸會大學附屬學校王錦輝中小學（中學部），沙田石門安睦里6號",
+    "color_id": null,
+    "event_label_id": null,
+    "start": "2026-11-04T08:30:00+08:00",
+    "end": "2026-11-04T15:30:00+08:00",
+    "attendees": [
+      {
+        "email": "netunewong@gmail.com",
+        "response_status": "accepted",
+        "display_name": null,
+        "resource": null,
+        "optional": false,
+        "is_self": null
+      }
+    ],
+    "url": "https://www.google.com/calendar/event?eid=bWhlM292dnE1Z2wwdWN0YXViaWNuMnFhaGsgbmVjY2wubWFpbEBt",
+    "hangout_link": "https://meet.google.com/nei-ukik-tfx",
+    "event_type": "default",
+    "transparency": "opaque",
+    "visibility": null,
+    "attachments": null,
+    "reminders": {
+      "use_default": false,
+      "overrides": [
+        {
+          "method": "popup",
+          "minutes": 10080
+        },
+        {
+          "method": "popup",
+          "minutes": 1440
+        }
+      ]
+    },
+    "recurrence": null,
+    "recurring_event_id": null,
+    "original_start_time": null,
+    "display_url": "https://www.google.com/calendar/event?eid=bWhlM292dnE1Z2wwdWN0YXViaWNuMnFhaGsgbmVjY2wubWFpbEBt",
+    "display_title": "學校繩網活動挑戰日2026 – 香港浸會大學附屬學校王錦輝中小學（中學部）"
+  },
+  "source": "records/invoices/Inv24253111.json and explicit user request"
+}
