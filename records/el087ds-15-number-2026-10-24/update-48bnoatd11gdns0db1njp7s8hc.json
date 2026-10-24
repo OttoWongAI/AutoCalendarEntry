@@ -1,0 +1,44 @@
+{
+  "created": "2026-10-24T02:30:34.594Z",
+  "action": "update",
+  "calendar_id": "netunewong@gmail.com",
+  "event_id": "48bnoatd11gdns0db1njp7s8hc",
+  "title": "EL087DS-15 - 職涯規劃 (PM)",
+  "description": "課程編號：EL087DS\n班號：EL087DS-15 內容：職涯規劃 導師：區銘妍\n\n",
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "Action completed."
+      }
+    ],
+    "structuredContent": {
+      "organizer": {
+        "is_self": true,
+        "email": "netunewong@gmail.com",
+        "display_name": null
+      },
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "48bnoatd11gdns0db1njp7s8hc",
+      "summary": "EL087DS-15 - 職涯規劃 (PM)",
+      "description": "<p>課程編號：EL087DS\n班號：EL087DS-15 內容：職涯規劃 導師：區銘妍</p>",
+      "location": "九龍佐敦興富中心607室 (ELJR)",
+      "start": "2027-01-08T14:00:00+08:00",
+      "end": "2027-01-08T18:00:00+08:00",
+      "attendees": [],
+      "color_id": null,
+      "reminders": {
+        "use_default": true,
+        "overrides": null
+      },
+      "visibility": null,
+      "transparency": null,
+      "hangout_link": null,
+      "conference_id": null,
+      "conference_status": null,
+      "conference_solution_type": null
+    },
+    "isError": false
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "created": "2026-10-24T02:30:11.902Z",
+  "action": "update",
+  "calendar_id": "netunewong@gmail.com",
+  "event_id": "t1lfvk4c156kepvpoju2a7frdc",
+  "title": "EL087DS-15 - 技能訓練 (AM)",
+  "description": "課程編號：EL087DS\n班號：EL087DS-15 內容：技能訓練 導師：吳紹財\n\n",
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "Action completed."
+      }
+    ],
+    "structuredContent": {
+      "organizer": {
+        "is_self": true,
+        "email": "netunewong@gmail.com",
+        "display_name": null
+      },
+      "guests_can_modify": null,
+      "locked": null,
+      "id": "t1lfvk4c156kepvpoju2a7frdc",
+      "summary": "EL087DS-15 - 技能訓練 (AM)",
+      "description": "<p>課程編號：EL087DS\n班號：EL087DS-15 內容：技能訓練 導師：吳紹財</p>",
+      "location": "九龍佐敦興富中心607室 (ELJR)",
+      "start": "2027-01-05T09:00:00+08:00",
+      "end": "2027-01-05T13:00:00+08:00",
+      "attendees": [],
+      "color_id": null,
+      "reminders": {
+        "use_default": true,
+        "overrides": null
+      },
+      "visibility": null,
+      "transparency": null,
+      "hangout_link": null,
+      "conference_id": null,
+      "conference_status": null,
+      "conference_solution_type": null
+    },
+    "isError": false
+  }
+}
