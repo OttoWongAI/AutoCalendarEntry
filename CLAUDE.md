@@ -40,6 +40,17 @@ Claude / Codex 讀內容，自動將活動加入或者更新 Google Calendar，�
 
 ---
 
+### 有 Quotation 出 Invoice 同步 NOVEL 日曆（2026-10-25 用戶授權）
+
+- 往後 InstructionGenerate 為有 Quotation 嘅活動出 Invoice 時，一併將活動加入 NOVEL 日曆 `neccl.mail@gmail.com`，唔使逐次再問係咪加入。
+- 活動日期用實際服務日期，唔用 Invoice 發出日期。由確認報價、用戶更正及 Invoice 取回活動名、起訖時間、地點、聯絡人、Quotation / Invoice 編號及來源。
+- 先查目標日曆及活動時間範圍；已有相同活動唔重複新增，資料有更新就更新對應事件，包括補上 Invoice 編號；唔改其他活動。撞期按既有規則報告。
+- 有確實時間就用香港時間；只有日期或約數時長（例如 Around 6 hours）但冇開始時間，就按既有規則用全日事件，描述註明時間待確認，唔自行估開始時間。有必要資料缺漏、矛盾或活動日期已過則先問。
+- 提醒、標題及地點處理沿用本指引。成功後保留 event ID、更新 calendar_log.csv 並備份；工具不可用或操作失敗清楚報告日曆未完成，唔當作 Invoice 未出或重複開單。
+- 呢個係往後出單時嘅固定授權；今次更新指引本身唔觸發補入舊 Invoice / 舊活動，亦唔改 Invoice / Receipt Excel。
+
+---
+
 ## 2. 入邊個日曆
 
 2026-10-24 用戶確認：以本節分流為準，取代舊 README「全部主日曆」偏好；Claude 同 Codex 一律遵守。
