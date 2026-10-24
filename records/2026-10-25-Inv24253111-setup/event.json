@@ -1,0 +1,63 @@
+{
+  "action": "add",
+  "calendar_id": "neccl.mail@gmail.com",
+  "duplicate_check": {
+    "time_min": "2026-11-03T00:00:00+08:00",
+    "time_max": "2026-11-04T00:00:00+08:00",
+    "matching_setup_events": 0,
+    "other_event": "ccugaqp96i5pqocjtnsdeaudf8 NOVEL 基灣小學攀石隊訓練 15:00–16:30"
+  },
+  "source": "User explicit request 2026-10-25; Q25264083; Inv24253111",
+  "event": {
+    "guests_can_modify": null,
+    "locked": null,
+    "id": "4ng6gbcr8kl7epor8h3guvsscg",
+    "summary": "學校繩網活動挑戰日2026 場地佈置 – 香港浸會大學附屬學校王錦輝中小學（中學部）",
+    "status": "confirmed",
+    "organizer": {
+      "is_self": true,
+      "email": "neccl.mail@gmail.com",
+      "display_name": null
+    },
+    "description": "11月4日學校繩網活動挑戰日2026之前置場地佈置。 佈置日期：3/11/2026；未有確實起訖時間，按用戶要求設全日活動，時間待確認。\n客戶：香港浸會大學附屬學校王錦輝中小學（中學部） 聯絡人：Wong King Wai Tommy；電話2637 2270；傳真2637 2043。\n地點：學校，沙田石門安睦里6號。 Quotation No.：Q25264083；相關 Invoice No.：Inv24253111。\n主要活動：4/11/2026 08:30–15:30；本事件只記錄11月3日場地佈置，非另一筆收費或收款紀錄。\n資料來源：用戶2026-10-25明確要求、Q25264083及records/invoices/Inv24253111.json。\n\n",
+    "location": "香港浸會大學附屬學校王錦輝中小學（中學部），沙田石門安睦里6號",
+    "color_id": null,
+    "event_label_id": null,
+    "start": "2026-11-03T00:00:00",
+    "end": "2026-11-04T00:00:00",
+    "attendees": [
+      {
+        "email": "netunewong@gmail.com",
+        "response_status": "accepted",
+        "display_name": null,
+        "resource": null,
+        "optional": false,
+        "is_self": null
+      }
+    ],
+    "url": "https://www.google.com/calendar/event?eid=NG5nNmdiY3I4a2w3ZXBvcjhoM2d1dnNzY2cgbmVjY2wubWFpbEBt",
+    "hangout_link": "https://meet.google.com/ber-bcvb-joj",
+    "event_type": "default",
+    "transparency": "opaque",
+    "visibility": null,
+    "attachments": null,
+    "reminders": {
+      "use_default": false,
+      "overrides": [
+        {
+          "method": "popup",
+          "minutes": 1440
+        },
+        {
+          "method": "popup",
+          "minutes": 10080
+        }
+      ]
+    },
+    "recurrence": null,
+    "recurring_event_id": null,
+    "original_start_time": null,
+    "display_url": "https://www.google.com/calendar/event?eid=NG5nNmdiY3I4a2w3ZXBvcjhoM2d1dnNzY2cgbmVjY2wubWFpbEBt",
+    "display_title": "學校繩網活動挑戰日2026 場地佈置 – 香港浸會大學附屬學校王錦輝中小學（中學部）"
+  }
+}
