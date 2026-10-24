@@ -34,3 +34,5 @@
 先到 CLAUDE.md 指定嘅 OneDrive `Novel_New` 資料夾查對應報價、確認版本、編號表及相關活動資料；搵唔到或唔清楚先問用戶。完整查找及核對規則見 [CLAUDE.md](CLAUDE.md)。
 
 有 Quotation 嘅活動喺 InstructionGenerate 出 Invoice 時，按 CLAUDE.md 固定安排同步 NOVEL 日曆，先查重、記錄實際事件 ID；指引同步本身唔補入歷史活動。
+
+報價單有場地佈置日期時，出 Invoice 同步 NOVEL 日曆亦要處理佈置事件；各自查重，冇確實時間用全日，成功操作記錄及備份。
